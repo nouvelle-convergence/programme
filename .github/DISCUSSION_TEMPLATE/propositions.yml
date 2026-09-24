@@ -1,0 +1,50 @@
+title: "[Proposition] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une mesure par ligne. Pour chaque mesure, dites qui paie. Aucun chiffre sans source.
+  - type: dropdown
+    id: domaine
+    attributes:
+      label: Domaine
+      options:
+        - Économie
+        - Sécurité
+        - Santé
+        - Éducation
+        - Environnement
+        - Diplomatie
+        - Institutions
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Le problème
+      description: Ce que la proposition corrige, en deux phrases.
+    validations:
+      required: true
+  - type: textarea
+    id: mesures
+    attributes:
+      label: Les mesures
+      description: "Une ligne par mesure, verbe d'action, puis *Paie :* en trois mots."
+      placeholder: "- Taux plein automatique à 65 ans. *Paie : le régime.*"
+    validations:
+      required: true
+  - type: textarea
+    id: ecarte
+    attributes:
+      label: Ce que la proposition écarte
+  - type: textarea
+    id: contraintes
+    attributes:
+      label: Contraintes connues
+      description: Droit européen, coût de transition, faisabilité. Une ligne par ⚠.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Documents officiels, avec la page quand c'est un PDF.
