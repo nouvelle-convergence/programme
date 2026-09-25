@@ -1,0 +1,1685 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "Solde du système de retraite, en % du PIB",
+    "subtitle": "La courbe suit l’hypothèse la moins favorable ; la zone colorée va jusqu’à la plus favorable. Ligne noire : équilibre.",
+    "anchor": "start",
+    "fontSize": 16,
+    "subtitleColor": "#6b6f7b",
+    "subtitlePadding": 6,
+    "offset": 12
+  },
+  "width": 860,
+  "height": 360,
+  "background": "#fbfaf7",
+  "config": {
+    "font": "system-ui, sans-serif",
+    "axis": {
+      "gridColor": "#d9d6cf",
+      "labelColor": "#6b6f7b",
+      "domain": false,
+      "tickColor": "#d9d6cf"
+    },
+    "legend": {
+      "orient": "bottom",
+      "columns": 3,
+      "labelLimit": 400,
+      "symbolType": "stroke",
+      "symbolOpacity": 1,
+      "symbolStrokeWidth": 3,
+      "symbolSize": 400
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "annee": 2024,
+        "scenario": "Sans réforme",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Sans réforme",
+        "basse": -0.002333333333333326,
+        "haute": -0.002333333333333326
+      },
+      {
+        "annee": 2026,
+        "scenario": "Sans réforme",
+        "basse": -0.0026666666666666783,
+        "haute": -0.0026666666666666783
+      },
+      {
+        "annee": 2027,
+        "scenario": "Sans réforme",
+        "basse": -0.0030000000000000027,
+        "haute": -0.0030000000000000027
+      },
+      {
+        "annee": 2028,
+        "scenario": "Sans réforme",
+        "basse": -0.003333333333333327,
+        "haute": -0.003333333333333327
+      },
+      {
+        "annee": 2029,
+        "scenario": "Sans réforme",
+        "basse": -0.003666666666666679,
+        "haute": -0.003666666666666679
+      },
+      {
+        "annee": 2030,
+        "scenario": "Sans réforme",
+        "basse": -0.0040000000000000036,
+        "haute": -0.0040000000000000036
+      },
+      {
+        "annee": 2031,
+        "scenario": "Sans réforme",
+        "basse": -0.0040999999999999925,
+        "haute": -0.0040999999999999925
+      },
+      {
+        "annee": 2032,
+        "scenario": "Sans réforme",
+        "basse": -0.0041999999999999815,
+        "haute": -0.0041999999999999815
+      },
+      {
+        "annee": 2033,
+        "scenario": "Sans réforme",
+        "basse": -0.004300000000000026,
+        "haute": -0.004300000000000026
+      },
+      {
+        "annee": 2034,
+        "scenario": "Sans réforme",
+        "basse": -0.004400000000000015,
+        "haute": -0.004400000000000015
+      },
+      {
+        "annee": 2035,
+        "scenario": "Sans réforme",
+        "basse": -0.004500000000000004,
+        "haute": -0.004500000000000004
+      },
+      {
+        "annee": 2036,
+        "scenario": "Sans réforme",
+        "basse": -0.004599999999999993,
+        "haute": -0.004599999999999993
+      },
+      {
+        "annee": 2037,
+        "scenario": "Sans réforme",
+        "basse": -0.004699999999999982,
+        "haute": -0.004699999999999982
+      },
+      {
+        "annee": 2038,
+        "scenario": "Sans réforme",
+        "basse": -0.0048000000000000265,
+        "haute": -0.0048000000000000265
+      },
+      {
+        "annee": 2039,
+        "scenario": "Sans réforme",
+        "basse": -0.0049000000000000155,
+        "haute": -0.0049000000000000155
+      },
+      {
+        "annee": 2040,
+        "scenario": "Sans réforme",
+        "basse": -0.0050000000000000044,
+        "haute": -0.0050000000000000044
+      },
+      {
+        "annee": 2041,
+        "scenario": "Sans réforme",
+        "basse": -0.005100000000000021,
+        "haute": -0.005100000000000021
+      },
+      {
+        "annee": 2042,
+        "scenario": "Sans réforme",
+        "basse": -0.00520000000000001,
+        "haute": -0.00520000000000001
+      },
+      {
+        "annee": 2043,
+        "scenario": "Sans réforme",
+        "basse": -0.005299999999999999,
+        "haute": -0.005299999999999999
+      },
+      {
+        "annee": 2044,
+        "scenario": "Sans réforme",
+        "basse": -0.005400000000000002,
+        "haute": -0.005400000000000002
+      },
+      {
+        "annee": 2045,
+        "scenario": "Sans réforme",
+        "basse": -0.005500000000000005,
+        "haute": -0.005500000000000005
+      },
+      {
+        "annee": 2046,
+        "scenario": "Sans réforme",
+        "basse": -0.005600000000000008,
+        "haute": -0.005600000000000008
+      },
+      {
+        "annee": 2047,
+        "scenario": "Sans réforme",
+        "basse": -0.005700000000000011,
+        "haute": -0.005700000000000011
+      },
+      {
+        "annee": 2048,
+        "scenario": "Sans réforme",
+        "basse": -0.0058,
+        "haute": -0.0058
+      },
+      {
+        "annee": 2049,
+        "scenario": "Sans réforme",
+        "basse": -0.0059000000000000025,
+        "haute": -0.0059000000000000025
+      },
+      {
+        "annee": 2050,
+        "scenario": "Sans réforme",
+        "basse": -0.006000000000000005,
+        "haute": -0.006000000000000005
+      },
+      {
+        "annee": 2051,
+        "scenario": "Sans réforme",
+        "basse": -0.006099999999999994,
+        "haute": -0.006099999999999994
+      },
+      {
+        "annee": 2052,
+        "scenario": "Sans réforme",
+        "basse": -0.006200000000000011,
+        "haute": -0.006200000000000011
+      },
+      {
+        "annee": 2053,
+        "scenario": "Sans réforme",
+        "basse": -0.0063,
+        "haute": -0.0063
+      },
+      {
+        "annee": 2054,
+        "scenario": "Sans réforme",
+        "basse": -0.006400000000000017,
+        "haute": -0.006400000000000017
+      },
+      {
+        "annee": 2055,
+        "scenario": "Sans réforme",
+        "basse": -0.006500000000000006,
+        "haute": -0.006500000000000006
+      },
+      {
+        "annee": 2056,
+        "scenario": "Sans réforme",
+        "basse": -0.006599999999999995,
+        "haute": -0.006599999999999995
+      },
+      {
+        "annee": 2057,
+        "scenario": "Sans réforme",
+        "basse": -0.0067000000000000115,
+        "haute": -0.0067000000000000115
+      },
+      {
+        "annee": 2058,
+        "scenario": "Sans réforme",
+        "basse": -0.0068000000000000005,
+        "haute": -0.0068000000000000005
+      },
+      {
+        "annee": 2059,
+        "scenario": "Sans réforme",
+        "basse": -0.006900000000000017,
+        "haute": -0.006900000000000017
+      },
+      {
+        "annee": 2060,
+        "scenario": "Sans réforme",
+        "basse": -0.007000000000000006,
+        "haute": -0.007000000000000006
+      },
+      {
+        "annee": 2061,
+        "scenario": "Sans réforme",
+        "basse": -0.007099999999999981,
+        "haute": -0.007099999999999981
+      },
+      {
+        "annee": 2062,
+        "scenario": "Sans réforme",
+        "basse": -0.007199999999999998,
+        "haute": -0.007199999999999998
+      },
+      {
+        "annee": 2063,
+        "scenario": "Sans réforme",
+        "basse": -0.007299999999999987,
+        "haute": -0.007299999999999987
+      },
+      {
+        "annee": 2064,
+        "scenario": "Sans réforme",
+        "basse": -0.007400000000000004,
+        "haute": -0.007400000000000004
+      },
+      {
+        "annee": 2065,
+        "scenario": "Sans réforme",
+        "basse": -0.007499999999999993,
+        "haute": -0.007499999999999993
+      },
+      {
+        "annee": 2066,
+        "scenario": "Sans réforme",
+        "basse": -0.007599999999999982,
+        "haute": -0.007599999999999982
+      },
+      {
+        "annee": 2067,
+        "scenario": "Sans réforme",
+        "basse": -0.0076999999999999985,
+        "haute": -0.0076999999999999985
+      },
+      {
+        "annee": 2068,
+        "scenario": "Sans réforme",
+        "basse": -0.0077999999999999875,
+        "haute": -0.0077999999999999875
+      },
+      {
+        "annee": 2069,
+        "scenario": "Sans réforme",
+        "basse": -0.007900000000000004,
+        "haute": -0.007900000000000004
+      },
+      {
+        "annee": 2070,
+        "scenario": "Sans réforme",
+        "basse": -0.007999999999999993,
+        "haute": -0.007999999999999993
+      },
+      {
+        "annee": 2024,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.002333333333333326,
+        "haute": -0.002333333333333326
+      },
+      {
+        "annee": 2026,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0026666666666666783,
+        "haute": -0.0026666666666666783
+      },
+      {
+        "annee": 2027,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0030000000000000027,
+        "haute": -0.0030000000000000027
+      },
+      {
+        "annee": 2028,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.003239374999999989,
+        "haute": -0.002714474999999994
+      },
+      {
+        "annee": 2029,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0034308123600000073,
+        "haute": -0.0024107871050000063
+      },
+      {
+        "annee": 2030,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.00294361916444999,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2031,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0019480350332401197
+      },
+      {
+        "annee": 2032,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.001893415510809543,
+        "haute": -0.0018517046724325914
+      },
+      {
+        "annee": 2033,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0018387959883790772,
+        "haute": -0.0016997820147120202
+      },
+      {
+        "annee": 2034,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0017841764659485282,
+        "haute": -0.0015478593569914212
+      },
+      {
+        "annee": 2035,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0017295569435179514,
+        "haute": -0.0013959366992708222
+      },
+      {
+        "annee": 2036,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0016749374210874302,
+        "haute": -0.0012440140415501955
+      },
+      {
+        "annee": 2037,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0016203178986568811,
+        "haute": -0.0010920913838295965
+      },
+      {
+        "annee": 2038,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0016956983762263789,
+        "haute": -0.001140168726109031
+      },
+      {
+        "annee": 2039,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0017710788537958488,
+        "haute": -0.0011882460683884377
+      },
+      {
+        "annee": 2040,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0018464593313653188,
+        "haute": -0.0012363234106678167
+      },
+      {
+        "annee": 2041,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0019241791470084868,
+        "haute": -0.0012875074230546957
+      },
+      {
+        "annee": 2042,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0013386914354415191
+      },
+      {
+        "annee": 2043,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0013898754478283981
+      },
+      {
+        "annee": 2044,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0014991954581508038
+      },
+      {
+        "annee": 2045,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0016085154684731817
+      },
+      {
+        "annee": 2046,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000157,
+        "haute": -0.0017178354787955874
+      },
+      {
+        "annee": 2047,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018271554891179376
+      },
+      {
+        "annee": 2048,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0019364754994403155
+      },
+      {
+        "annee": 2049,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.001999999999999988,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2050,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2051,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2052,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2053,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2054,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2055,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2056,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2057,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2058,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2059,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2060,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2061,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2062,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2063,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2064,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2065,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2066,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2067,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2068,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2069,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2070,
+        "scenario": "Réforme actuelle (fiche #6)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2024,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.002333333333333326,
+        "haute": -0.002333333333333326
+      },
+      {
+        "annee": 2026,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0026666666666666783,
+        "haute": -0.0026666666666666783
+      },
+      {
+        "annee": 2027,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0030000000000000027,
+        "haute": -0.0030000000000000027
+      },
+      {
+        "annee": 2028,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.003239374999999989,
+        "haute": -0.002714474999999994
+      },
+      {
+        "annee": 2029,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0034308123600000073,
+        "haute": -0.0024107871050000063
+      },
+      {
+        "annee": 2030,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.00294361916444999,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2031,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0019480350332401197
+      },
+      {
+        "annee": 2032,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.001893415510809543,
+        "haute": -0.0018517046724325914
+      },
+      {
+        "annee": 2033,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0018387959883790772,
+        "haute": -0.0016997820147120202
+      },
+      {
+        "annee": 2034,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0017841764659485282,
+        "haute": -0.0015478593569914212
+      },
+      {
+        "annee": 2035,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0017295569435179514,
+        "haute": -0.0013959366992708222
+      },
+      {
+        "annee": 2036,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0016749374210874302,
+        "haute": -0.0012440140415501955
+      },
+      {
+        "annee": 2037,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0016203178986568811,
+        "haute": -0.0010920913838295965
+      },
+      {
+        "annee": 2038,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0016956983762263789,
+        "haute": -0.001140168726109031
+      },
+      {
+        "annee": 2039,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0017710788537958488,
+        "haute": -0.0011882460683884377
+      },
+      {
+        "annee": 2040,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0018464593313653188,
+        "haute": -0.0012363234106678167
+      },
+      {
+        "annee": 2041,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0019241791470084868,
+        "haute": -0.0012875074230546957
+      },
+      {
+        "annee": 2042,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0013386914354415191
+      },
+      {
+        "annee": 2043,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2044,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2045,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2046,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.00005644067345655923,
+        "haute": 0
+      },
+      {
+        "annee": 2047,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.00021262934395893662,
+        "haute": 0
+      },
+      {
+        "annee": 2048,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0003677860080120998,
+        "haute": 0
+      },
+      {
+        "annee": 2049,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0005219323275337251,
+        "haute": 0
+      },
+      {
+        "annee": 2050,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0006750895097555054,
+        "haute": 0
+      },
+      {
+        "annee": 2051,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0008237671540075597,
+        "haute": 0
+      },
+      {
+        "annee": 2052,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0009714967493411747,
+        "haute": 0
+      },
+      {
+        "annee": 2053,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0011182981953969662,
+        "haute": 0
+      },
+      {
+        "annee": 2054,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.001264190974120255,
+        "haute": 0
+      },
+      {
+        "annee": 2055,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0014091941585282208,
+        "haute": -0.000014930131256224444
+      },
+      {
+        "annee": 2056,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0015533264212936743,
+        "haute": -0.00015018066197161617
+      },
+      {
+        "annee": 2057,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.001696606043148155,
+        "haute": -0.0002850798559578954
+      },
+      {
+        "annee": 2058,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.001839050921108712,
+        "haute": -0.00041963174836955053
+      },
+      {
+        "annee": 2059,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0019806785765324325,
+        "haute": -0.0005538403280167525
+      },
+      {
+        "annee": 2060,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0006877095378975684
+      },
+      {
+        "annee": 2061,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0008212432757241372
+      },
+      {
+        "annee": 2062,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0009544453944429349
+      },
+      {
+        "annee": 2063,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001087319702748557
+      },
+      {
+        "annee": 2064,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0012198699655923545
+      },
+      {
+        "annee": 2065,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0013520999046845172
+      },
+      {
+        "annee": 2066,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001484013198990941
+      },
+      {
+        "annee": 2067,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.001999999999999988,
+        "haute": -0.0016156134852240295
+      },
+      {
+        "annee": 2068,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001746904358327958
+      },
+      {
+        "annee": 2069,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018778893719585271
+      },
+      {
+        "annee": 2070,
+        "scenario": "Réforme actuelle + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2024,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.002333333333333326,
+        "haute": -0.002333333333333326
+      },
+      {
+        "annee": 2026,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0026666666666666783,
+        "haute": -0.0026666666666666783
+      },
+      {
+        "annee": 2027,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0030000000000000027,
+        "haute": -0.0030000000000000027
+      },
+      {
+        "annee": 2028,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.003239374999999989,
+        "haute": -0.002714474999999994
+      },
+      {
+        "annee": 2029,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0034308123600000073,
+        "haute": -0.0024107871050000063
+      },
+      {
+        "annee": 2030,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.00294361916444999,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2031,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0019480350332401197
+      },
+      {
+        "annee": 2032,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.001893415510809543,
+        "haute": -0.0018517046724325914
+      },
+      {
+        "annee": 2033,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0018387959883790772,
+        "haute": -0.0016997820147120202
+      },
+      {
+        "annee": 2034,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0017841764659485282,
+        "haute": -0.0015478593569914212
+      },
+      {
+        "annee": 2035,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0016611944801695477,
+        "haute": -0.0012874161697911668
+      },
+      {
+        "annee": 2036,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0015382124943905673,
+        "haute": -0.0010269729825909124
+      },
+      {
+        "annee": 2037,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014152305086116146,
+        "haute": -0.000766529795390658
+      },
+      {
+        "annee": 2038,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014222485228326809,
+        "haute": -0.0007060866081904649
+      },
+      {
+        "annee": 2039,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014292665370537194,
+        "haute": -0.0006456434209902162
+      },
+      {
+        "annee": 2040,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014362845512747857,
+        "haute": -0.0005852002337899398
+      },
+      {
+        "annee": 2041,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014456419035695223,
+        "haute": -0.0005278637166971634
+      },
+      {
+        "annee": 2042,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0014549992558642033,
+        "haute": -0.00047052719960438694
+      },
+      {
+        "annee": 2043,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2044,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2045,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2046,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2047,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2048,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2049,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2050,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2051,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2052,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2053,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2054,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2055,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2056,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2057,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2058,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2059,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2060,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.00006938308888608524,
+        "haute": 0
+      },
+      {
+        "annee": 2061,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.00014686724614879076,
+        "haute": 0
+      },
+      {
+        "annee": 2062,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0002234627327123151,
+        "haute": 0
+      },
+      {
+        "annee": 2063,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.00029918820186256023,
+        "haute": 0
+      },
+      {
+        "annee": 2064,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0003740619153512065,
+        "haute": 0
+      },
+      {
+        "annee": 2065,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0004481017516139024,
+        "haute": 0
+      },
+      {
+        "annee": 2066,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.00052132521381619,
+        "haute": 0
+      },
+      {
+        "annee": 2067,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0005937494377304398,
+        "haute": 0
+      },
+      {
+        "annee": 2068,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0006653911994474321,
+        "haute": 0
+      },
+      {
+        "annee": 2069,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0007362669229261654,
+        "haute": 0
+      },
+      {
+        "annee": 2070,
+        "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
+        "basse": -0.0008063926873850963,
+        "haute": 0
+      },
+      {
+        "annee": 2024,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Refonte sans frein",
+        "basse": -0.002333333333333326,
+        "haute": -0.002333333333333326
+      },
+      {
+        "annee": 2026,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0026666666666666783,
+        "haute": -0.0026666666666666783
+      },
+      {
+        "annee": 2027,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0030000000000000027,
+        "haute": -0.0030000000000000027
+      },
+      {
+        "annee": 2028,
+        "scenario": "Refonte sans frein",
+        "basse": -0.004383333333333322,
+        "haute": -0.0038533333333333197
+      },
+      {
+        "annee": 2029,
+        "scenario": "Refonte sans frein",
+        "basse": -0.005726666666666658,
+        "haute": -0.004686666666666672
+      },
+      {
+        "annee": 2030,
+        "scenario": "Refonte sans frein",
+        "basse": -0.006379999999999997,
+        "haute": -0.005150000000000016
+      },
+      {
+        "annee": 2031,
+        "scenario": "Refonte sans frein",
+        "basse": -0.006220000000000003,
+        "haute": -0.005090000000000011
+      },
+      {
+        "annee": 2032,
+        "scenario": "Refonte sans frein",
+        "basse": -0.006059999999999982,
+        "haute": -0.005029999999999979
+      },
+      {
+        "annee": 2033,
+        "scenario": "Refonte sans frein",
+        "basse": -0.005900000000000016,
+        "haute": -0.00497000000000003
+      },
+      {
+        "annee": 2034,
+        "scenario": "Refonte sans frein",
+        "basse": -0.005739999999999995,
+        "haute": -0.0049100000000000255
+      },
+      {
+        "annee": 2035,
+        "scenario": "Refonte sans frein",
+        "basse": -0.005468000000000001,
+        "haute": -0.0047800000000000065
+      },
+      {
+        "annee": 2036,
+        "scenario": "Refonte sans frein",
+        "basse": -0.005195999999999978,
+        "haute": -0.0046499999999999875
+      },
+      {
+        "annee": 2037,
+        "scenario": "Refonte sans frein",
+        "basse": -0.004923999999999984,
+        "haute": -0.004519999999999996
+      },
+      {
+        "annee": 2038,
+        "scenario": "Refonte sans frein",
+        "basse": -0.004852000000000023,
+        "haute": -0.004520000000000024
+      },
+      {
+        "annee": 2039,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0047800000000000065,
+        "haute": -0.004520000000000024
+      },
+      {
+        "annee": 2040,
+        "scenario": "Refonte sans frein",
+        "basse": -0.00470799999999999,
+        "haute": -0.004520000000000024
+      },
+      {
+        "annee": 2041,
+        "scenario": "Refonte sans frein",
+        "basse": -0.004636000000000001,
+        "haute": -0.004520000000000052
+      },
+      {
+        "annee": 2042,
+        "scenario": "Refonte sans frein",
+        "basse": -0.004563999999999985,
+        "haute": -0.004520000000000024
+      },
+      {
+        "annee": 2043,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0020545086599998152,
+        "haute": -0.0018166400756042256
+      },
+      {
+        "annee": 2044,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0021362595673344587,
+        "haute": -0.001835366981666614
+      },
+      {
+        "annee": 2045,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0022169242180003212,
+        "haute": -0.001853740984649438
+      },
+      {
+        "annee": 2046,
+        "scenario": "Refonte sans frein",
+        "basse": -0.002296525412632394,
+        "haute": -0.0018717661376970451
+      },
+      {
+        "annee": 2047,
+        "scenario": "Refonte sans frein",
+        "basse": -0.002375085473278138,
+        "haute": -0.0018894464474026873
+      },
+      {
+        "annee": 2048,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0024526262534429744,
+        "haute": -0.0019067858743434252
+      },
+      {
+        "annee": 2049,
+        "scenario": "Refonte sans frein",
+        "basse": -0.00252916914792517,
+        "haute": -0.0019237883336084005
+      },
+      {
+        "annee": 2050,
+        "scenario": "Refonte sans frein",
+        "basse": -0.002604735102443967,
+        "haute": -0.001940457695321418
+      },
+      {
+        "annee": 2051,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0026793446230659324,
+        "haute": -0.0019567977851573104
+      },
+      {
+        "annee": 2052,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0027530177854332705,
+        "haute": -0.001972812384852557
+      },
+      {
+        "annee": 2053,
+        "scenario": "Refonte sans frein",
+        "basse": -0.002825774243798429,
+        "haute": -0.0019885052327096864
+      },
+      {
+        "annee": 2054,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0028976332398692045,
+        "haute": -0.002003880024096405
+      },
+      {
+        "annee": 2055,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0029686136114679823,
+        "haute": -0.0020189404119384524
+      },
+      {
+        "annee": 2056,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0030387338010094272,
+        "haute": -0.0020336900072072672
+      },
+      {
+        "annee": 2057,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0031080118638001503,
+        "haute": -0.0020481323794017264
+      },
+      {
+        "annee": 2058,
+        "scenario": "Refonte sans frein",
+        "basse": -0.003176465476163945,
+        "haute": -0.0020622710570244313
+      },
+      {
+        "annee": 2059,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0032441119433969517,
+        "haute": -0.0020761095280526776
+      },
+      {
+        "annee": 2060,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0033109682075553454,
+        "haute": -0.0020896512404037504
+      },
+      {
+        "annee": 2061,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0033770508550798883,
+        "haute": -0.002102899602395125
+      },
+      {
+        "annee": 2062,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0034423761242604184,
+        "haute": -0.0021158579831993124
+      },
+      {
+        "annee": 2063,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0035069599125432532,
+        "haute": -0.002128529713293248
+      },
+      {
+        "annee": 2064,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0035708177836859256,
+        "haute": -0.002140918084902965
+      },
+      {
+        "annee": 2065,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0036339649747610114,
+        "haute": -0.0021530263524426885
+      },
+      {
+        "annee": 2066,
+        "scenario": "Refonte sans frein",
+        "basse": -0.003696416403013547,
+        "haute": -0.002164857732949277
+      },
+      {
+        "annee": 2067,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0037581866725740765,
+        "haute": -0.0021764154065114505
+      },
+      {
+        "annee": 2068,
+        "scenario": "Refonte sans frein",
+        "basse": -0.003819290081030935,
+        "haute": -0.00218770251669409
+      },
+      {
+        "annee": 2069,
+        "scenario": "Refonte sans frein",
+        "basse": -0.0038797406258647554,
+        "haute": -0.0021987221709578175
+      },
+      {
+        "annee": 2070,
+        "scenario": "Refonte sans frein",
+        "basse": -0.003939552010747582,
+        "haute": -0.00220947744107354
+      }
+    ]
+  },
+  "encoding": {
+    "x": {
+      "field": "annee",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          2024,
+          2070
+        ]
+      },
+      "axis": {
+        "format": "d",
+        "title": null,
+        "values": [
+          2024,
+          2030,
+          2040,
+          2050,
+          2060,
+          2070
+        ]
+      }
+    },
+    "color": {
+      "field": "scenario",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Sans réforme",
+        "Réforme actuelle (fiche #6)",
+        "Réforme actuelle + fonds collectif",
+        "Refonte : âge indexé aux 2/3, fonds, frein",
+        "Refonte sans frein"
+      ],
+      "scale": {
+        "domain": [
+          "Sans réforme",
+          "Réforme actuelle (fiche #6)",
+          "Réforme actuelle + fonds collectif",
+          "Refonte : âge indexé aux 2/3, fonds, frein",
+          "Refonte sans frein"
+        ],
+        "range": [
+          "#7a7f8c",
+          "#1f7a4d",
+          "#d1641f",
+          "#1f5f8b",
+          "#8e2a84"
+        ]
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "opacity": 0.12,
+        "clip": true
+      },
+      "encoding": {
+        "y": {
+          "field": "basse",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              -0.008499999999999994,
+              0.001
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "labelExpr": "replace(format(datum.value * 100, '.1f'), '.', ',') + ' %'",
+            "tickCount": 8
+          }
+        },
+        "y2": {
+          "field": "haute"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "clip": true
+      },
+      "encoding": {
+        "y": {
+          "field": "basse",
+          "type": "quantitative"
+        },
+        "strokeWidth": {
+          "field": "scenario",
+          "scale": {
+            "domain": [
+              "Sans réforme",
+              "Réforme actuelle (fiche #6)",
+              "Réforme actuelle + fonds collectif",
+              "Refonte : âge indexé aux 2/3, fonds, frein",
+              "Refonte sans frein"
+            ],
+            "range": [
+              2.5,
+              4,
+              2.5,
+              2.5,
+              2.5
+            ]
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "y": 0
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "x": {
+          "value": 0
+        },
+        "x2": {
+          "value": 860
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#1b1f2a"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "annee": 2028,
+            "libelle": "réforme"
+          },
+          {
+            "annee": 2043,
+            "libelle": "le fonds verse"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          3,
+          3
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "annee",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#9a9ea8"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "annee": 2028,
+            "libelle": "réforme"
+          },
+          {
+            "annee": 2043,
+            "libelle": "le fonds verse"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "dx": 4,
+        "dy": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "annee",
+          "type": "quantitative"
+        },
+        "y": {
+          "value": 0
+        },
+        "text": {
+          "field": "libelle"
+        },
+        "color": {
+          "value": "#6b6f7b"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": []
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dx": -4,
+        "dy": -4,
+        "fontSize": 12
+      },
+      "encoding": {
+        "x": {
+          "field": "annee",
+          "type": "quantitative"
+        },
+        "y": {
+          "value": 360
+        },
+        "text": {
+          "field": "libelle"
+        },
+        "color": {
+          "value": "#b3251e"
+        }
+      }
+    }
+  ]
+}

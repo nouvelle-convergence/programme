@@ -1,0 +1,1435 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "Une pension de 1 500 € aujourd’hui : ce qu’elle vaut chaque année",
+    "subtitle": "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Le cap proposé ne les touche pas.",
+    "anchor": "start",
+    "fontSize": 16,
+    "subtitleColor": "#6b6f7b",
+    "subtitlePadding": 6,
+    "offset": 12
+  },
+  "background": "#fbfaf7",
+  "config": {
+    "font": "system-ui, sans-serif",
+    "axis": {
+      "gridColor": "#d9d6cf",
+      "labelColor": "#6b6f7b",
+      "domain": false,
+      "tickColor": "#d9d6cf"
+    },
+    "legend": {
+      "orient": "bottom",
+      "columns": 3,
+      "labelLimit": 400,
+      "symbolOpacity": 1
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "width": 760,
+  "height": 340,
+  "data": {
+    "values": [
+      {
+        "annee": 2028,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2029,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2030,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2031,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2032,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2033,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2034,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2035,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2036,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2037,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2038,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2039,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2040,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2041,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2042,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2043,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2044,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2045,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2046,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2047,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2048,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2049,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2050,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2051,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2052,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2053,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2054,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2055,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2056,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2057,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2058,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2059,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2060,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2061,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2062,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2063,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2064,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2065,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2066,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2067,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2068,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2069,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2070,
+        "programme": "Système actuel (Renaissance / Ensemble)",
+        "valeur": 1500
+      },
+      {
+        "annee": 2028,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2029,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2030,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2031,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2032,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2033,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2034,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2035,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2036,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2037,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2038,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2039,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2040,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2041,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2042,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2043,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2044,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2045,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2046,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2047,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2048,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2049,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2050,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2051,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2052,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2053,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2054,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2055,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2056,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2057,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2058,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2059,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2060,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2061,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2062,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2063,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2064,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2065,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2066,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2067,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2068,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2069,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2070,
+        "programme": "Cap proposé",
+        "valeur": 1500
+      },
+      {
+        "annee": 2028,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2029,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2030,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2031,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2032,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2033,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2034,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2035,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2036,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2037,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2038,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2039,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2040,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2041,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2042,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2043,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2044,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2045,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2046,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2047,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2048,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2049,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2050,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2051,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2052,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2053,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2054,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2055,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2056,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2057,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2058,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2059,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2060,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2061,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2062,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2063,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2064,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2065,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2066,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2067,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2068,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2069,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2070,
+        "programme": "Les Républicains",
+        "valeur": 1500
+      },
+      {
+        "annee": 2028,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2029,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2030,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2031,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2032,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2033,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2034,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2035,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2036,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2037,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2038,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2039,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2040,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2041,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2042,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2043,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2044,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2045,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2046,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2047,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2048,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2049,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2050,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2051,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2052,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2053,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2054,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2055,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2056,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2057,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2058,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2059,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2060,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2061,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2062,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2063,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2064,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2065,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2066,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2067,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2068,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2069,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2070,
+        "programme": "Rassemblement national",
+        "valeur": 1500
+      },
+      {
+        "annee": 2028,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2029,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2030,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2031,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2032,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2033,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2034,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2035,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2036,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2037,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2038,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2039,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2040,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2041,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2042,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2043,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2044,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2045,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2046,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2047,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2048,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2049,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2050,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2051,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2052,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2053,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2054,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2055,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2056,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2057,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2058,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2059,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2060,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2061,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2062,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2063,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2064,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2065,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2066,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2067,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2068,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2069,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2070,
+        "programme": "Les Patriotes",
+        "valeur": 1500
+      },
+      {
+        "annee": 2028,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1504.7846889952154
+      },
+      {
+        "annee": 2029,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1509.5389507154214
+      },
+      {
+        "annee": 2030,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1514.2630744849444
+      },
+      {
+        "annee": 2031,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1518.9573459715639
+      },
+      {
+        "annee": 2032,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1523.6220472440943
+      },
+      {
+        "annee": 2033,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1528.2574568288853
+      },
+      {
+        "annee": 2034,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1532.3610562279473
+      },
+      {
+        "annee": 2035,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1536.314866398432
+      },
+      {
+        "annee": 2036,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1540.7291089634712
+      },
+      {
+        "annee": 2037,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1545.116390688745
+      },
+      {
+        "annee": 2038,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1549.47695593833
+      },
+      {
+        "annee": 2039,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1553.8110461208241
+      },
+      {
+        "annee": 2040,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1558.1188997338065
+      },
+      {
+        "annee": 2041,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1562.399328878133
+      },
+      {
+        "annee": 2042,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1566.6537932914569
+      },
+      {
+        "annee": 2043,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1570.8825242024184
+      },
+      {
+        "annee": 2044,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1575.0857500635186
+      },
+      {
+        "annee": 2045,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1579.2636965922163
+      },
+      {
+        "annee": 2046,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1583.41658681129
+      },
+      {
+        "annee": 2047,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1587.5446410884786
+      },
+      {
+        "annee": 2048,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1591.648077175423
+      },
+      {
+        "annee": 2049,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1595.7271102459142
+      },
+      {
+        "annee": 2050,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1599.7819529334674
+      },
+      {
+        "annee": 2051,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1603.8164254204303
+      },
+      {
+        "annee": 2052,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.827408595795
+      },
+      {
+        "annee": 2053,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.823661186018
+      },
+      {
+        "annee": 2054,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.8199052132702
+      },
+      {
+        "annee": 2055,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.816140648168
+      },
+      {
+        "annee": 2056,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.8123674611927
+      },
+      {
+        "annee": 2057,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.8085856226912
+      },
+      {
+        "annee": 2058,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.8047951028736
+      },
+      {
+        "annee": 2059,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.8009958718135
+      },
+      {
+        "annee": 2060,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.797187899446
+      },
+      {
+        "annee": 2061,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7933711555688
+      },
+      {
+        "annee": 2062,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7895456098395
+      },
+      {
+        "annee": 2063,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7857112317754
+      },
+      {
+        "annee": 2064,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.781867990754
+      },
+      {
+        "annee": 2065,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7780158560101
+      },
+      {
+        "annee": 2066,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7741547966364
+      },
+      {
+        "annee": 2067,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7702847815815
+      },
+      {
+        "annee": 2068,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.766405779651
+      },
+      {
+        "annee": 2069,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7625177595041
+      },
+      {
+        "annee": 2070,
+        "programme": "Nouveau Front populaire",
+        "valeur": 1607.7586206896553
+      }
+    ]
+  },
+  "encoding": {
+    "x": {
+      "field": "annee",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          2028,
+          2070
+        ]
+      },
+      "axis": {
+        "format": "d",
+        "title": null,
+        "values": [
+          2030,
+          2040,
+          2050,
+          2060,
+          2070
+        ]
+      }
+    },
+    "y": {
+      "field": "valeur",
+      "type": "quantitative",
+      "scale": {
+        "zero": false
+      },
+      "axis": {
+        "title": null,
+        "labelExpr": "replace(format(datum.value, ',.0f'), ',', ' ') + ' €'",
+        "tickCount": 7
+      }
+    },
+    "color": {
+      "field": "programme",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Système actuel (Renaissance / Ensemble)",
+        "Cap proposé",
+        "Les Républicains",
+        "Rassemblement national",
+        "Les Patriotes",
+        "Nouveau Front populaire"
+      ],
+      "scale": {
+        "domain": [
+          "Système actuel (Renaissance / Ensemble)",
+          "Cap proposé",
+          "Les Républicains",
+          "Rassemblement national",
+          "Les Patriotes",
+          "Nouveau Front populaire"
+        ],
+        "range": [
+          "#7a7f8c",
+          "#1f7a4d",
+          "#d1641f",
+          "#1f5f8b",
+          "#8e2a84",
+          "#b59a12"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "columns": 3
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 3
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "annee": 2070,
+            "programme": "Système actuel (Renaissance / Ensemble)",
+            "valeur": 1500,
+            "etiquette": "1 500 €"
+          },
+          {
+            "annee": 2070,
+            "programme": "Nouveau Front populaire",
+            "valeur": 1607.7586206896553,
+            "etiquette": "1 608 €"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 6,
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "etiquette"
+        }
+      }
+    }
+  ]
+}
