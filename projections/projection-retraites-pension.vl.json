@@ -2,7 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
     "text": "Une pension de 1 500 € aujourd’hui : ce qu’elle vaut chaque année",
-    "subtitle": "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Nouvelle Convergence ne les touche pas.",
+    "subtitle": [
+      "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les",
+      "indexe sur les salaires, sans financement prévu. Nouvelle Convergence ne les touche pas."
+    ],
     "anchor": "start",
     "fontSize": 16,
     "subtitleColor": "#6b6f7b",

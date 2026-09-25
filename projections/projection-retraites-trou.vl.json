@@ -2,7 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
     "text": "Ce qu’il manque chaque année pour payer les pensions",
-    "subtitle": "En milliards d’euros d’aujourd’hui. Sous la ligne noire, il manque de l’argent ; dessus, il en reste.",
+    "subtitle": [
+      "En milliards d’euros d’aujourd’hui. Sous la ligne noire, il manque de l’argent ; dessus, il en",
+      "reste."
+    ],
     "anchor": "start",
     "fontSize": 16,
     "subtitleColor": "#6b6f7b",

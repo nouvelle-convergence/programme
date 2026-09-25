@@ -2,7 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
     "text": "Ce que ça coûterait à un salarié, chaque mois",
-    "subtitle": "Cotisations prévues par le programme, plus ce qu’il faudrait ajouter pour combler le manque restant. Part employeur et salarié réunies, salaire de 2 800 € brut, euros d’aujourd’hui.",
+    "subtitle": [
+      "Cotisations prévues par le programme, plus ce qu’il faudrait ajouter pour combler le manque",
+      "restant. Part employeur et salarié réunies, salaire de 2 800 € brut, euros d’aujourd’hui."
+    ],
     "anchor": "start",
     "fontSize": 16,
     "subtitleColor": "#6b6f7b",
