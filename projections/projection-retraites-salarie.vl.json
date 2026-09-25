@@ -21,7 +21,7 @@
     "legend": {
       "orient": "bottom",
       "columns": 3,
-      "labelLimit": 400,
+      "labelLimit": 800,
       "symbolOpacity": 1
     },
     "view": {
