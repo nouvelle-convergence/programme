@@ -1470,7 +1470,8 @@
       "field": "valeur",
       "type": "quantitative",
       "scale": {
-        "zero": true
+        "zero": true,
+        "padding": 12
       },
       "axis": {
         "title": null,
@@ -1510,7 +1511,8 @@
       },
       "legend": {
         "orient": "bottom",
-        "columns": 3
+        "columns": 3,
+        "labelLimit": 760
       }
     }
   },
