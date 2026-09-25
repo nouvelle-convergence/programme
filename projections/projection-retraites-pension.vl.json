@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
     "text": "Une pension de 1 500 € aujourd’hui : ce qu’elle vaut chaque année",
-    "subtitle": "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Le cap proposé ne les touche pas.",
+    "subtitle": "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Nouvelle Convergence ne les touche pas.",
     "anchor": "start",
     "fontSize": 16,
     "subtitleColor": "#6b6f7b",
@@ -28,223 +28,223 @@
       "stroke": null
     }
   },
-  "width": 760,
+  "width": 620,
   "height": 340,
   "data": {
     "values": [
       {
         "annee": 2028,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2029,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2030,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2031,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2032,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2033,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2034,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2035,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2036,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2037,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2038,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2039,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2040,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2041,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2042,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2043,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2044,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2045,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2046,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2047,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2048,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2049,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2050,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2051,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2052,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2053,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2054,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2055,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2056,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2057,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2058,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2059,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2060,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2061,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2062,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2063,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2064,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2065,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2066,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2067,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2068,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2069,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
         "annee": 2070,
-        "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Courbe commune à 5 programmes",
         "valeur": 1500
       },
       {
@@ -504,12 +504,12 @@
       "type": "nominal",
       "title": null,
       "sort": [
-        "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+        "Courbe commune à 5 programmes",
         "Nouveau Front populaire"
       ],
       "scale": {
         "domain": [
-          "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+          "Courbe commune à 5 programmes",
           "Nouveau Front populaire"
         ],
         "range": [
@@ -536,9 +536,9 @@
         "values": [
           {
             "annee": 2070,
-            "programme": "Identiques : Système actuel, Cap proposé, Les Républicains, Rassemblement national, Les Patriotes",
+            "programme": "Courbe commune à 5 programmes",
             "valeur": 1500,
-            "etiquette": "1 500 €"
+            "etiquette": "1 500 € — Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes"
           },
           {
             "annee": 2070,

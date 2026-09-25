@@ -64,7 +64,7 @@ Ordre de grandeur, pas une microsimulation : agrégats et sensibilités publiés
 | Refonte sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,21 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,14 %, frein 0,00 % |
 | Refonte : âge indexé, cotisation +1 point permanente, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 0,00 % |
 | Refonte : cotisation +1 point permanente, sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 0,00 % |
-| Cap proposé : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,00 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,00 % |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,00 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,00 % |
 | Variante : âge indexé, fonds de réserve 15 ans, frein actif | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,32 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,31 % | âge 66,1 ans ; âge 0,17 %, fonds 0,12 %, frein 0,30 % | âge 67,1 ans ; âge 0,38 %, fonds 0,12 %, frein 0,29 % |
 | Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | âge 65,8 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 67,6 ans ; âge 0,43 %, fonds 0,00 %, frein 0,00 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,00 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 0,00 % |
 | Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,26 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,51 % | âge 66,1 ans ; âge 0,17 %, fonds 0,21 %, frein 0,53 % | âge 67,1 ans ; âge 0,38 %, fonds 0,14 %, frein 0,96 % |
@@ -83,7 +83,7 @@ Chaque pays est réduit à ses leviers, appliqués à la France à partir de 202
 
 | Scénario | Solde 2040 | Solde 2070 | Dépenses 2070 | Âge de référence 2070 | Retraités 2070 | Transition capitalisation 2070 |
 |---|---|---|---|---|---|---|
-| Cap proposé : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 68,4 ans à 67,1 ans | 0,76 % à 0,00 % | 0,00 % |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 68,4 ans à 67,1 ans | 0,76 % à 0,00 % | 0,00 % |
 | Variante : âge indexé, fonds de réserve 15 ans, frein actif | -0,03 % à -0,12 % | 0,16 % à 0,00 % | 11,74 % à 11,95 % | 68,4 ans à 67,1 ans | 3,65 % à 2,75 % | 0,00 % |
 | Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,01 % à 0,00 % | 0,28 % à 0,01 % | 11,62 % à 11,82 % | 70,4 ans à 69,1 ans | 0,76 % à 0,00 % | 0,00 % |
 | Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | -0,20 % à -0,20 % | -0,20 % à -0,20 % | 11,22 % à 11,16 % | 68,4 ans à 67,1 ans | 6,66 % à 9,29 % | -0,87 % |
@@ -109,7 +109,7 @@ Chaque programme est réduit aux mesures sur les retraites extraites du corpus, 
 | Rassemblement national : retour à 62 ans, 60 ans pour les carrières précoces | -0,40 % à -0,40 % | -1,03 % à -1,03 % | -1,32 % à -1,32 % | 13,03 % à 13,03 % | 62,5 ans | RN 2024, p. 8 : « Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail » |
 | Les Patriotes : baisse de l’âge, transposée à 60 ans | -0,40 % à -0,40 % | -1,34 % à -1,34 % | -1,64 % à -1,64 % | 13,34 % à 13,34 % | 61,0 ans | Patriotes 2026, p. 4 : « Baisser l’âge de départ à la retraite. » — cible non précisée, 60 ans retenu |
 | Nouveau Front populaire : retour à 62 ans, pensions indexées sur les salaires | -0,59 % à -0,53 % | -1,74 % à -1,46 % | -2,72 % à -2,22 % | 14,42 % à 13,92 % | 63,0 ans | NFP 2024, p. 4 : « Abroger immédiatement les décrets d’application de la réforme […] passant l’âge de départ à la retraite à 64 ans » ; p. 16 : « Indexer le montant des retraites sur les salaires », « Réaffirmer l’objectif commun du droit à la retraite à 60 ans » (objectif, non chiffré ici) |
-| Cap proposé : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,20 % à -0,17 % | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 67,1 ans |  |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,20 % à -0,17 % | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 67,1 ans |  |
 
 ## Qui paie en 2070, en milliards d'euros d'aujourd'hui
 
@@ -118,7 +118,7 @@ Le système actuel laisse 37 Md€ par an à trouver en 2070. Chaque programme y
 | Programme | Âge de départ en 2070 | Travailler plus longtemps | Pensions ralenties (frein) | Fonds de réserve | Cotisations en plus | Départ plus tôt | Pensions indexées sur les salaires | Autres mesures | Reste à financer |
 |---|---|---|---|---|---|---|---|---|---|
 | Système actuel (Renaissance / Ensemble) | 65,0 ans |  |  |  |  |  |  |  | 37 Md€ |
-| Cap proposé | 67,1 ans | +18 Md€ |  |  | +16 Md€ |  |  | +1 Md€ | 3 Md€ |
+| Nouvelle Convergence | 67,1 ans | +18 Md€ |  |  | +16 Md€ |  |  | +1 Md€ | 3 Md€ |
 | Les Républicains | 66,0 ans | +10 Md€ |  |  |  |  |  | +6 Md€ | 21 Md€ |
 | Rassemblement national | 62,5 ans |  |  |  |  | -24 Md€ |  |  | 61 Md€ |
 | Les Patriotes | 61,0 ans |  |  |  |  | -39 Md€ |  |  | 76 Md€ |
