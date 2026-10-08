@@ -3,8 +3,9 @@
   "title": {
     "text": "Une pension de 1 500 € aujourd’hui : ce qu’elle vaut chaque année",
     "subtitle": [
-      "Pouvoir d’achat en euros d’aujourd’hui. Aucun programme ne baisse les pensions ; le NFP les",
-      "indexe sur les salaires, sans financement prévu. Nouvelle Convergence ne les touche pas."
+      "Pouvoir d’achat en euros d’aujourd’hui d’une personne déjà à la retraite. Aucun programme ne",
+      "baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Le frein de",
+      "Nouvelle Convergence ne touche jamais une pension déjà liquidée."
     ],
     "anchor": "start",
     "fontSize": 16,
@@ -283,187 +284,187 @@
       {
         "annee": 2034,
         "programme": "Nouveau Front populaire",
-        "valeur": 1532.3610562279473
+        "valeur": 1532.3808436017684
       },
       {
         "annee": 2035,
         "programme": "Nouveau Front populaire",
-        "valeur": 1536.314866398432
+        "valeur": 1536.3586282881147
       },
       {
         "annee": 2036,
         "programme": "Nouveau Front populaire",
-        "valeur": 1540.7291089634712
+        "valeur": 1540.7781856341899
       },
       {
         "annee": 2037,
         "programme": "Nouveau Front populaire",
-        "valeur": 1545.116390688745
+        "valeur": 1545.1707493863564
       },
       {
         "annee": 2038,
         "programme": "Nouveau Front populaire",
-        "valeur": 1549.47695593833
+        "valeur": 1549.5365644253848
       },
       {
         "annee": 2039,
         "programme": "Nouveau Front populaire",
-        "valeur": 1553.8110461208241
+        "valeur": 1553.8758726693693
       },
       {
         "annee": 2040,
         "programme": "Nouveau Front populaire",
-        "valeur": 1558.1188997338065
+        "valeur": 1558.1889131183289
       },
       {
         "annee": 2041,
         "programme": "Nouveau Front populaire",
-        "valeur": 1562.399328878133
+        "valeur": 1562.47919892932
       },
       {
         "annee": 2042,
         "programme": "Nouveau Front populaire",
-        "valeur": 1566.6537932914569
+        "valeur": 1566.744120393494
       },
       {
         "annee": 2043,
         "programme": "Nouveau Front populaire",
-        "valeur": 1570.8825242024184
+        "valeur": 1570.983901679634
       },
       {
         "annee": 2044,
         "programme": "Nouveau Front populaire",
-        "valeur": 1575.0857500635186
+        "valeur": 1575.1987643228422
       },
       {
         "annee": 2045,
         "programme": "Nouveau Front populaire",
-        "valeur": 1579.2636965922163
+        "valeur": 1579.3889272631006
       },
       {
         "annee": 2046,
         "programme": "Nouveau Front populaire",
-        "valeur": 1583.41658681129
+        "valeur": 1583.5546068831611
       },
       {
         "annee": 2047,
         "programme": "Nouveau Front populaire",
-        "valeur": 1587.5446410884786
+        "valeur": 1587.6960170457733
       },
       {
         "annee": 2048,
         "programme": "Nouveau Front populaire",
-        "valeur": 1591.648077175423
+        "valeur": 1591.8133691302603
       },
       {
         "annee": 2049,
         "programme": "Nouveau Front populaire",
-        "valeur": 1595.7271102459142
+        "valeur": 1595.9068720684643
       },
       {
         "annee": 2050,
         "programme": "Nouveau Front populaire",
-        "valeur": 1599.7819529334674
+        "valeur": 1599.9767323800659
       },
       {
         "annee": 2051,
         "programme": "Nouveau Front populaire",
-        "valeur": 1603.8164254204303
+        "valeur": 1604.025777361391
       },
       {
         "annee": 2052,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.827408595795
+        "valeur": 1608.0517641505724
       },
       {
         "annee": 2053,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.823661186018
+        "valeur": 1608.0555500991966
       },
       {
         "annee": 2054,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.8199052132702
+        "valeur": 1608.0593266891628
       },
       {
         "annee": 2055,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.816140648168
+        "valeur": 1608.0630939551288
       },
       {
         "annee": 2056,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.8123674611927
+        "valeur": 1608.0668519315825
       },
       {
         "annee": 2057,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.8085856226912
+        "valeur": 1608.070600652841
       },
       {
         "annee": 2058,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.8047951028736
+        "valeur": 1608.074340153053
       },
       {
         "annee": 2059,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.8009958718135
+        "valeur": 1608.0780704662
       },
       {
         "annee": 2060,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.797187899446
+        "valeur": 1608.0817916260955
       },
       {
         "annee": 2061,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7933711555688
+        "valeur": 1608.085503666388
       },
       {
         "annee": 2062,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7895456098395
+        "valeur": 1608.0892066205613
       },
       {
         "annee": 2063,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7857112317754
+        "valeur": 1608.092900521935
       },
       {
         "annee": 2064,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.781867990754
+        "valeur": 1608.0965854036665
       },
       {
         "annee": 2065,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7780158560101
+        "valeur": 1608.1002612987513
       },
       {
         "annee": 2066,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7741547966364
+        "valeur": 1608.1039282400247
       },
       {
         "annee": 2067,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7702847815815
+        "valeur": 1608.107586260161
       },
       {
         "annee": 2068,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.766405779651
+        "valeur": 1608.1112353916767
       },
       {
         "annee": 2069,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7625177595041
+        "valeur": 1608.11487566693
       },
       {
         "annee": 2070,
         "programme": "Nouveau Front populaire",
-        "valeur": 1607.7586206896553
+        "valeur": 1608.1185071181224
       }
     ]
   },
@@ -546,7 +547,7 @@
           {
             "annee": 2070,
             "programme": "Nouveau Front populaire",
-            "valeur": 1607.7586206896553,
+            "valeur": 1608.1185071181224,
             "etiquette": "1 608 €"
           }
         ]

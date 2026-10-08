@@ -44,278 +44,278 @@
       {
         "annee": 2025,
         "scenario": "Sans réforme",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Sans réforme",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Sans réforme",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Sans réforme",
-        "basse": -0.003333333333333327,
-        "haute": -0.003333333333333327
+        "basse": -0.008833333333333332,
+        "haute": -0.008833333333333332
       },
       {
         "annee": 2029,
         "scenario": "Sans réforme",
-        "basse": -0.003666666666666679,
-        "haute": -0.003666666666666679
+        "basse": -0.009166666666666684,
+        "haute": -0.009166666666666684
       },
       {
         "annee": 2030,
         "scenario": "Sans réforme",
-        "basse": -0.0040000000000000036,
-        "haute": -0.0040000000000000036
+        "basse": -0.009500000000000008,
+        "haute": -0.009500000000000008
       },
       {
         "annee": 2031,
         "scenario": "Sans réforme",
-        "basse": -0.0040999999999999925,
-        "haute": -0.0040999999999999925
+        "basse": -0.009599999999999997,
+        "haute": -0.009599999999999997
       },
       {
         "annee": 2032,
         "scenario": "Sans réforme",
-        "basse": -0.0041999999999999815,
-        "haute": -0.0041999999999999815
+        "basse": -0.009699999999999986,
+        "haute": -0.009699999999999986
       },
       {
         "annee": 2033,
         "scenario": "Sans réforme",
-        "basse": -0.004300000000000026,
-        "haute": -0.004300000000000026
+        "basse": -0.009800000000000031,
+        "haute": -0.009800000000000031
       },
       {
         "annee": 2034,
         "scenario": "Sans réforme",
-        "basse": -0.004400000000000015,
-        "haute": -0.004400000000000015
+        "basse": -0.00990000000000002,
+        "haute": -0.00990000000000002
       },
       {
         "annee": 2035,
         "scenario": "Sans réforme",
-        "basse": -0.004500000000000004,
-        "haute": -0.004500000000000004
+        "basse": -0.010000000000000009,
+        "haute": -0.010000000000000009
       },
       {
         "annee": 2036,
         "scenario": "Sans réforme",
-        "basse": -0.004599999999999993,
-        "haute": -0.004599999999999993
+        "basse": -0.010099999999999998,
+        "haute": -0.010099999999999998
       },
       {
         "annee": 2037,
         "scenario": "Sans réforme",
-        "basse": -0.004699999999999982,
-        "haute": -0.004699999999999982
+        "basse": -0.010199999999999987,
+        "haute": -0.010199999999999987
       },
       {
         "annee": 2038,
         "scenario": "Sans réforme",
-        "basse": -0.0048000000000000265,
-        "haute": -0.0048000000000000265
+        "basse": -0.010300000000000031,
+        "haute": -0.010300000000000031
       },
       {
         "annee": 2039,
         "scenario": "Sans réforme",
-        "basse": -0.0049000000000000155,
-        "haute": -0.0049000000000000155
+        "basse": -0.01040000000000002,
+        "haute": -0.01040000000000002
       },
       {
         "annee": 2040,
         "scenario": "Sans réforme",
-        "basse": -0.0050000000000000044,
-        "haute": -0.0050000000000000044
+        "basse": -0.01050000000000001,
+        "haute": -0.01050000000000001
       },
       {
         "annee": 2041,
         "scenario": "Sans réforme",
-        "basse": -0.005100000000000021,
-        "haute": -0.005100000000000021
+        "basse": -0.010950000000000015,
+        "haute": -0.010950000000000015
       },
       {
         "annee": 2042,
         "scenario": "Sans réforme",
-        "basse": -0.00520000000000001,
-        "haute": -0.00520000000000001
+        "basse": -0.011399999999999993,
+        "haute": -0.011399999999999993
       },
       {
         "annee": 2043,
         "scenario": "Sans réforme",
-        "basse": -0.005299999999999999,
-        "haute": -0.005299999999999999
+        "basse": -0.011850000000000027,
+        "haute": -0.011850000000000027
       },
       {
         "annee": 2044,
         "scenario": "Sans réforme",
-        "basse": -0.005400000000000002,
-        "haute": -0.005400000000000002
+        "basse": -0.01230000000000002,
+        "haute": -0.01230000000000002
       },
       {
         "annee": 2045,
         "scenario": "Sans réforme",
-        "basse": -0.005500000000000005,
-        "haute": -0.005500000000000005
+        "basse": -0.012750000000000011,
+        "haute": -0.012750000000000011
       },
       {
         "annee": 2046,
         "scenario": "Sans réforme",
-        "basse": -0.005600000000000008,
-        "haute": -0.005600000000000008
+        "basse": -0.013200000000000003,
+        "haute": -0.013200000000000003
       },
       {
         "annee": 2047,
         "scenario": "Sans réforme",
-        "basse": -0.005700000000000011,
-        "haute": -0.005700000000000011
+        "basse": -0.013649999999999995,
+        "haute": -0.013649999999999995
       },
       {
         "annee": 2048,
         "scenario": "Sans réforme",
-        "basse": -0.0058,
-        "haute": -0.0058
+        "basse": -0.01410000000000003,
+        "haute": -0.01410000000000003
       },
       {
         "annee": 2049,
         "scenario": "Sans réforme",
-        "basse": -0.0059000000000000025,
-        "haute": -0.0059000000000000025
+        "basse": -0.014550000000000021,
+        "haute": -0.014550000000000021
       },
       {
         "annee": 2050,
         "scenario": "Sans réforme",
-        "basse": -0.006000000000000005,
-        "haute": -0.006000000000000005
+        "basse": -0.015000000000000013,
+        "haute": -0.015000000000000013
       },
       {
         "annee": 2051,
         "scenario": "Sans réforme",
-        "basse": -0.006099999999999994,
-        "haute": -0.006099999999999994
+        "basse": -0.015425000000000022,
+        "haute": -0.015425000000000022
       },
       {
         "annee": 2052,
         "scenario": "Sans réforme",
-        "basse": -0.006200000000000011,
-        "haute": -0.006200000000000011
+        "basse": -0.015850000000000003,
+        "haute": -0.015850000000000003
       },
       {
         "annee": 2053,
         "scenario": "Sans réforme",
-        "basse": -0.0063,
-        "haute": -0.0063
+        "basse": -0.01627500000000001,
+        "haute": -0.01627500000000001
       },
       {
         "annee": 2054,
         "scenario": "Sans réforme",
-        "basse": -0.006400000000000017,
-        "haute": -0.006400000000000017
+        "basse": -0.01670000000000002,
+        "haute": -0.01670000000000002
       },
       {
         "annee": 2055,
         "scenario": "Sans réforme",
-        "basse": -0.006500000000000006,
-        "haute": -0.006500000000000006
+        "basse": -0.01712500000000003,
+        "haute": -0.01712500000000003
       },
       {
         "annee": 2056,
         "scenario": "Sans réforme",
-        "basse": -0.006599999999999995,
-        "haute": -0.006599999999999995
+        "basse": -0.01755000000000001,
+        "haute": -0.01755000000000001
       },
       {
         "annee": 2057,
         "scenario": "Sans réforme",
-        "basse": -0.0067000000000000115,
-        "haute": -0.0067000000000000115
+        "basse": -0.01797500000000002,
+        "haute": -0.01797500000000002
       },
       {
         "annee": 2058,
         "scenario": "Sans réforme",
-        "basse": -0.0068000000000000005,
-        "haute": -0.0068000000000000005
+        "basse": -0.018400000000000027,
+        "haute": -0.018400000000000027
       },
       {
         "annee": 2059,
         "scenario": "Sans réforme",
-        "basse": -0.006900000000000017,
-        "haute": -0.006900000000000017
+        "basse": -0.01882500000000001,
+        "haute": -0.01882500000000001
       },
       {
         "annee": 2060,
         "scenario": "Sans réforme",
-        "basse": -0.007000000000000006,
-        "haute": -0.007000000000000006
+        "basse": -0.019250000000000017,
+        "haute": -0.019250000000000017
       },
       {
         "annee": 2061,
         "scenario": "Sans réforme",
-        "basse": -0.007099999999999981,
-        "haute": -0.007099999999999981
+        "basse": -0.019675000000000012,
+        "haute": -0.019675000000000012
       },
       {
         "annee": 2062,
         "scenario": "Sans réforme",
-        "basse": -0.007199999999999998,
-        "haute": -0.007199999999999998
+        "basse": -0.020099999999999993,
+        "haute": -0.020099999999999993
       },
       {
         "annee": 2063,
         "scenario": "Sans réforme",
-        "basse": -0.007299999999999987,
-        "haute": -0.007299999999999987
+        "basse": -0.020525,
+        "haute": -0.020525
       },
       {
         "annee": 2064,
         "scenario": "Sans réforme",
-        "basse": -0.007400000000000004,
-        "haute": -0.007400000000000004
+        "basse": -0.02095000000000001,
+        "haute": -0.02095000000000001
       },
       {
         "annee": 2065,
         "scenario": "Sans réforme",
-        "basse": -0.007499999999999993,
-        "haute": -0.007499999999999993
+        "basse": -0.02137499999999999,
+        "haute": -0.02137499999999999
       },
       {
         "annee": 2066,
         "scenario": "Sans réforme",
-        "basse": -0.007599999999999982,
-        "haute": -0.007599999999999982
+        "basse": -0.0218,
+        "haute": -0.0218
       },
       {
         "annee": 2067,
         "scenario": "Sans réforme",
-        "basse": -0.0076999999999999985,
-        "haute": -0.0076999999999999985
+        "basse": -0.02222500000000001,
+        "haute": -0.02222500000000001
       },
       {
         "annee": 2068,
         "scenario": "Sans réforme",
-        "basse": -0.0077999999999999875,
-        "haute": -0.0077999999999999875
+        "basse": -0.022650000000000017,
+        "haute": -0.022650000000000017
       },
       {
         "annee": 2069,
         "scenario": "Sans réforme",
-        "basse": -0.007900000000000004,
-        "haute": -0.007900000000000004
+        "basse": -0.023075,
+        "haute": -0.023075
       },
       {
         "annee": 2070,
         "scenario": "Sans réforme",
-        "basse": -0.007999999999999993,
-        "haute": -0.007999999999999993
+        "basse": -0.023500000000000007,
+        "haute": -0.023500000000000007
       },
       {
         "annee": 2024,
@@ -326,560 +326,560 @@
       {
         "annee": 2025,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.003239374999999989,
-        "haute": -0.002714474999999994
+        "basse": -0.00869262500000001,
+        "haute": -0.008167724999999987
       },
       {
         "annee": 2029,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0034308123600000073,
-        "haute": -0.0024107871050000063
+        "basse": -0.008837709735000032,
+        "haute": -0.007817684480000031
       },
       {
         "annee": 2030,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.00294361916444999,
-        "haute": -0.0020000000000000018
+        "basse": -0.008304627440700013,
+        "haute": -0.007111018001100006
       },
       {
         "annee": 2031,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0019480350332401197
+        "basse": -0.006984715423964505,
+        "haute": -0.005901994500952273
       },
       {
         "annee": 2032,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.001893415510809543,
-        "haute": -0.0018517046724325914
+        "basse": -0.0056807419761196465,
+        "haute": -0.0047082999789073154
       },
       {
         "annee": 2033,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0018387959883790772,
-        "haute": -0.0016997820147120202
+        "basse": -0.004392526450139295,
+        "haute": -0.003529762337078274
       },
       {
         "annee": 2034,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0017841764659485282,
-        "haute": -0.0015478593569914212
+        "basse": -0.0031198902180809007,
+        "haute": -0.0023662113866378676
       },
       {
         "annee": 2035,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0017295569435179514,
-        "haute": -0.0013959366992708222
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2036,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0016749374210874302,
-        "haute": -0.0012440140415501955
+        "basse": -0.0019573890518402304,
+        "haute": -0.0018674780399379753
       },
       {
         "annee": 2037,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0016203178986568811,
-        "haute": -0.0010920913838295965
+        "basse": -0.0019112106335369972,
+        "haute": -0.0017242994786859644
       },
       {
         "annee": 2038,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0016956983762263789,
-        "haute": -0.001140168726109031
+        "basse": -0.0019950322152338384,
+        "haute": -0.0017811209174339593
       },
       {
         "annee": 2039,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0017710788537958488,
-        "haute": -0.0011882460683884377
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018379423561819264
       },
       {
         "annee": 2040,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0018464593313653188,
-        "haute": -0.0012363234106678167
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018947637949298657
       },
       {
         "annee": 2041,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0019241791470084868,
-        "haute": -0.0012875074230546957
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2042,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
         "basse": -0.0020000000000000018,
-        "haute": -0.0013386914354415191
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2043,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
         "basse": -0.0020000000000000018,
-        "haute": -0.0013898754478283981
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2044,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
         "basse": -0.0020000000000000018,
-        "haute": -0.0014991954581508038
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2045,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
         "basse": -0.0020000000000000018,
-        "haute": -0.0016085154684731817
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2046,
         "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2047,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2048,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2049,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.001999999999999988,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2050,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2051,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2052,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2053,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2054,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.001999999999999988,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2055,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2056,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2057,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2058,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2059,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2060,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2061,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2062,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2063,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2064,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2065,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2066,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2067,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2068,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2069,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
+      },
+      {
+        "annee": 2070,
+        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2024,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.00869262500000001,
+        "haute": -0.008167724999999987
+      },
+      {
+        "annee": 2029,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.008837709735000032,
+        "haute": -0.007817684480000031
+      },
+      {
+        "annee": 2030,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.008304627440700013,
+        "haute": -0.007111018001100006
+      },
+      {
+        "annee": 2031,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.006984715423964505,
+        "haute": -0.005901994500952273
+      },
+      {
+        "annee": 2032,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0056807419761196465,
+        "haute": -0.0047082999789073154
+      },
+      {
+        "annee": 2033,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.004392526450139295,
+        "haute": -0.003529762337078274
+      },
+      {
+        "annee": 2034,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0031198902180809007,
+        "haute": -0.0023662113866378676
+      },
+      {
+        "annee": 2035,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2036,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0019573890518402304,
+        "haute": -0.0018674780399379753
+      },
+      {
+        "annee": 2037,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0019112106335369972,
+        "haute": -0.0017242994786859644
+      },
+      {
+        "annee": 2038,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0019950322152338384,
+        "haute": -0.0017811209174339593
+      },
+      {
+        "annee": 2039,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018379423561819264
+      },
+      {
+        "annee": 2040,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0018947637949298657
+      },
+      {
+        "annee": 2041,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2042,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2043,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": 0,
+        "haute": 0
+      },
+      {
+        "annee": 2044,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0004549808176534109,
+        "haute": -0.00018603898224575643
+      },
+      {
+        "annee": 2045,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0009523153514637561,
+        "haute": -0.0006630687609527619
+      },
+      {
+        "annee": 2046,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0014485856797375185,
+        "haute": -0.0011397481701418688
+      },
+      {
+        "annee": 2047,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.001943814140254324,
+        "haute": -0.0016160812338589237
+      },
+      {
+        "annee": 2048,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2049,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2050,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2051,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2052,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2053,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2054,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2055,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2056,
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000157,
-        "haute": -0.0017178354787955874
-      },
-      {
-        "annee": 2047,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0018271554891179376
-      },
-      {
-        "annee": 2048,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0019364754994403155
-      },
-      {
-        "annee": 2049,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.001999999999999988,
-        "haute": -0.001999999999999988
-      },
-      {
-        "annee": 2050,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2051,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2052,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2053,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001999999999999988
-      },
-      {
-        "annee": 2054,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001999999999999988
-      },
-      {
-        "annee": 2055,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2056,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2057,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.001999999999999988
       },
       {
         "annee": 2058,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2059,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2060,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2061,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
+        "scenario": "Proposition initiale + fonds collectif",
+        "basse": -0.0020000000000000157,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2062,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.001999999999999988
       },
       {
         "annee": 2063,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2064,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2065,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2066,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.001999999999999988
       },
       {
         "annee": 2067,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
+        "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
       },
       {
         "annee": 2068,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001999999999999988
-      },
-      {
-        "annee": 2069,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2070,
-        "scenario": "Proposition initiale (âge pivot, capitalisation)",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2024,
         "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2025,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
-      },
-      {
-        "annee": 2026,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
-      },
-      {
-        "annee": 2027,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
-      },
-      {
-        "annee": 2028,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.003239374999999989,
-        "haute": -0.002714474999999994
-      },
-      {
-        "annee": 2029,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0034308123600000073,
-        "haute": -0.0024107871050000063
-      },
-      {
-        "annee": 2030,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.00294361916444999,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2031,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0019480350332401197
-      },
-      {
-        "annee": 2032,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.001893415510809543,
-        "haute": -0.0018517046724325914
-      },
-      {
-        "annee": 2033,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0018387959883790772,
-        "haute": -0.0016997820147120202
-      },
-      {
-        "annee": 2034,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0017841764659485282,
-        "haute": -0.0015478593569914212
-      },
-      {
-        "annee": 2035,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0017295569435179514,
-        "haute": -0.0013959366992708222
-      },
-      {
-        "annee": 2036,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0016749374210874302,
-        "haute": -0.0012440140415501955
-      },
-      {
-        "annee": 2037,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0016203178986568811,
-        "haute": -0.0010920913838295965
-      },
-      {
-        "annee": 2038,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0016956983762263789,
-        "haute": -0.001140168726109031
-      },
-      {
-        "annee": 2039,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0017710788537958488,
-        "haute": -0.0011882460683884377
-      },
-      {
-        "annee": 2040,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0018464593313653188,
-        "haute": -0.0012363234106678167
-      },
-      {
-        "annee": 2041,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0019241791470084868,
-        "haute": -0.0012875074230546957
-      },
-      {
-        "annee": 2042,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0013386914354415191
-      },
-      {
-        "annee": 2043,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": 0,
-        "haute": 0
-      },
-      {
-        "annee": 2044,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": 0,
-        "haute": 0
-      },
-      {
-        "annee": 2045,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": 0,
-        "haute": 0
-      },
-      {
-        "annee": 2046,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.00005644067345655923,
-        "haute": 0
-      },
-      {
-        "annee": 2047,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.00021262934395893662,
-        "haute": 0
-      },
-      {
-        "annee": 2048,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0003677860080120998,
-        "haute": 0
-      },
-      {
-        "annee": 2049,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0005219323275337251,
-        "haute": 0
-      },
-      {
-        "annee": 2050,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0006750895097555054,
-        "haute": 0
-      },
-      {
-        "annee": 2051,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0008237671540075597,
-        "haute": 0
-      },
-      {
-        "annee": 2052,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0009714967493411747,
-        "haute": 0
-      },
-      {
-        "annee": 2053,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0011182981953969662,
-        "haute": 0
-      },
-      {
-        "annee": 2054,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.001264190974120255,
-        "haute": 0
-      },
-      {
-        "annee": 2055,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0014091941585282208,
-        "haute": -0.000014930131256224444
-      },
-      {
-        "annee": 2056,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0015533264212936743,
-        "haute": -0.00015018066197161617
-      },
-      {
-        "annee": 2057,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.001696606043148155,
-        "haute": -0.0002850798559578954
-      },
-      {
-        "annee": 2058,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.001839050921108712,
-        "haute": -0.00041963174836955053
-      },
-      {
-        "annee": 2059,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0019806785765324325,
-        "haute": -0.0005538403280167525
-      },
-      {
-        "annee": 2060,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0006877095378975684
-      },
-      {
-        "annee": 2061,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0008212432757241372
-      },
-      {
-        "annee": 2062,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0009544453944429349
-      },
-      {
-        "annee": 2063,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001087319702748557
-      },
-      {
-        "annee": 2064,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0012198699655923545
-      },
-      {
-        "annee": 2065,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0013520999046845172
-      },
-      {
-        "annee": 2066,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001484013198990941
-      },
-      {
-        "annee": 2067,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.001999999999999988,
-        "haute": -0.0016156134852240295
-      },
-      {
-        "annee": 2068,
-        "scenario": "Proposition initiale + fonds collectif",
-        "basse": -0.0020000000000000018,
-        "haute": -0.001746904358327958
       },
       {
         "annee": 2069,
         "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
-        "haute": -0.0018778893719585271
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2070,
         "scenario": "Proposition initiale + fonds collectif",
         "basse": -0.0020000000000000018,
-        "haute": -0.001999999999999988
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2024,
@@ -890,110 +890,110 @@
       {
         "annee": 2025,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.003239374999999989,
-        "haute": -0.002714474999999994
+        "basse": -0.00869262500000001,
+        "haute": -0.008167724999999987
       },
       {
         "annee": 2029,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0034308123600000073,
-        "haute": -0.0024107871050000063
+        "basse": -0.008837709735000032,
+        "haute": -0.007817684480000031
       },
       {
         "annee": 2030,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.00294361916444999,
-        "haute": -0.0020000000000000018
+        "basse": -0.008304627440700013,
+        "haute": -0.007111018001100006
       },
       {
         "annee": 2031,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0019480350332401197
+        "basse": -0.006984715423964505,
+        "haute": -0.005901994500952273
       },
       {
         "annee": 2032,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.001893415510809543,
-        "haute": -0.0018517046724325914
+        "basse": -0.0056807419761196465,
+        "haute": -0.0047082999789073154
       },
       {
         "annee": 2033,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0018387959883790772,
-        "haute": -0.0016997820147120202
+        "basse": -0.004392526450139295,
+        "haute": -0.003529762337078274
       },
       {
         "annee": 2034,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0017841764659485282,
-        "haute": -0.0015478593569914212
+        "basse": -0.0031198902180809007,
+        "haute": -0.0023662113866378676
       },
       {
         "annee": 2035,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0016611944801695477,
-        "haute": -0.0012874161697911668
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2036,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0015382124943905673,
-        "haute": -0.0010269729825909124
+        "basse": -0.001890741663522405,
+        "haute": -0.0017613077163518842
       },
       {
         "annee": 2037,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014152305086116146,
-        "haute": -0.000766529795390658
+        "basse": -0.0017786291707483914,
+        "haute": -0.0015131001336688987
       },
       {
         "annee": 2038,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014222485228326809,
-        "haute": -0.0007060866081904649
+        "basse": -0.0017965166779743968,
+        "haute": -0.0014648925509859467
       },
       {
         "annee": 2039,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014292665370537194,
-        "haute": -0.0006456434209902162
+        "basse": -0.0018144041852003745,
+        "haute": -0.0014166849683029392
       },
       {
         "annee": 2040,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014362845512747857,
-        "haute": -0.0005852002337899398
+        "basse": -0.0018322916924263521,
+        "haute": -0.0013684773856199317
       },
       {
         "annee": 2041,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014456419035695223,
-        "haute": -0.0005278637166971634
+        "basse": -0.0020000000000000018,
+        "haute": -0.0016542802751701446
       },
       {
         "annee": 2042,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0014549992558642033,
-        "haute": -0.00047052719960438694
+        "basse": -0.0020000000000000018,
+        "haute": -0.001940083164720302
       },
       {
         "annee": 2043,
@@ -1004,164 +1004,164 @@
       {
         "annee": 2044,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
+        "basse": -0.0003203584361390621,
         "haute": 0
       },
       {
         "annee": 2045,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0007523861300872958,
+        "haute": -0.0002733324828733952
       },
       {
         "annee": 2046,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0011833484225453883,
+        "haute": -0.0006455783003884441
       },
       {
         "annee": 2047,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0016132676763960796,
+        "haute": -0.0010174763428443534
       },
       {
         "annee": 2048,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0013890306044894718
       },
       {
         "annee": 2049,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0017602450336972608
       },
       {
         "annee": 2050,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2051,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2052,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2053,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2054,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2055,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000157,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2056,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2057,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000157,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2058,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2059,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": 0,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2060,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.00006938308888608524,
-        "haute": 0
+        "basse": -0.0020000000000000157,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2061,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.00014686724614879076,
-        "haute": 0
+        "basse": -0.0020000000000000157,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2062,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0002234627327123151,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2063,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.00029918820186256023,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2064,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0003740619153512065,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2065,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0004481017516139024,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2066,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.00052132521381619,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2067,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0005937494377304398,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2068,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0006653911994474321,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.001999999999999988
       },
       {
         "annee": 2069,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0007362669229261654,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2070,
         "scenario": "Refonte : âge indexé aux 2/3, fonds, frein",
-        "basse": -0.0008063926873850963,
-        "haute": 0
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
       },
       {
         "annee": 2024,
@@ -1172,278 +1172,278 @@
       {
         "annee": 2025,
         "scenario": "Refonte sans frein",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Refonte sans frein",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Refonte sans frein",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Refonte sans frein",
-        "basse": -0.004383333333333322,
-        "haute": -0.0038533333333333197
+        "basse": -0.009883333333333327,
+        "haute": -0.009353333333333325
       },
       {
         "annee": 2029,
         "scenario": "Refonte sans frein",
-        "basse": -0.005726666666666658,
-        "haute": -0.004686666666666672
+        "basse": -0.011226666666666663,
+        "haute": -0.010186666666666677
       },
       {
         "annee": 2030,
         "scenario": "Refonte sans frein",
-        "basse": -0.006379999999999997,
-        "haute": -0.005150000000000016
+        "basse": -0.011880000000000002,
+        "haute": -0.01065000000000002
       },
       {
         "annee": 2031,
         "scenario": "Refonte sans frein",
-        "basse": -0.006220000000000003,
-        "haute": -0.005090000000000011
+        "basse": -0.011720000000000008,
+        "haute": -0.010590000000000016
       },
       {
         "annee": 2032,
         "scenario": "Refonte sans frein",
-        "basse": -0.006059999999999982,
-        "haute": -0.005029999999999979
+        "basse": -0.011559999999999987,
+        "haute": -0.010529999999999984
       },
       {
         "annee": 2033,
         "scenario": "Refonte sans frein",
-        "basse": -0.005900000000000016,
-        "haute": -0.00497000000000003
+        "basse": -0.011400000000000021,
+        "haute": -0.010470000000000035
       },
       {
         "annee": 2034,
         "scenario": "Refonte sans frein",
-        "basse": -0.005739999999999995,
-        "haute": -0.0049100000000000255
+        "basse": -0.01124,
+        "haute": -0.01041000000000003
       },
       {
         "annee": 2035,
         "scenario": "Refonte sans frein",
-        "basse": -0.005468000000000001,
-        "haute": -0.0047800000000000065
+        "basse": -0.010968000000000006,
+        "haute": -0.010280000000000011
       },
       {
         "annee": 2036,
         "scenario": "Refonte sans frein",
-        "basse": -0.005195999999999978,
-        "haute": -0.0046499999999999875
+        "basse": -0.010695999999999983,
+        "haute": -0.010149999999999992
       },
       {
         "annee": 2037,
         "scenario": "Refonte sans frein",
-        "basse": -0.004923999999999984,
-        "haute": -0.004519999999999996
+        "basse": -0.010423999999999989,
+        "haute": -0.010020000000000001
       },
       {
         "annee": 2038,
         "scenario": "Refonte sans frein",
-        "basse": -0.004852000000000023,
-        "haute": -0.004520000000000024
+        "basse": -0.010352000000000028,
+        "haute": -0.010020000000000029
       },
       {
         "annee": 2039,
         "scenario": "Refonte sans frein",
-        "basse": -0.0047800000000000065,
-        "haute": -0.004520000000000024
+        "basse": -0.010280000000000011,
+        "haute": -0.010020000000000029
       },
       {
         "annee": 2040,
         "scenario": "Refonte sans frein",
-        "basse": -0.00470799999999999,
-        "haute": -0.004520000000000024
+        "basse": -0.010207999999999995,
+        "haute": -0.010020000000000029
       },
       {
         "annee": 2041,
         "scenario": "Refonte sans frein",
-        "basse": -0.004636000000000001,
-        "haute": -0.004520000000000052
+        "basse": -0.010485999999999995,
+        "haute": -0.010370000000000046
       },
       {
         "annee": 2042,
         "scenario": "Refonte sans frein",
-        "basse": -0.004563999999999985,
-        "haute": -0.004520000000000024
+        "basse": -0.010763999999999968,
+        "haute": -0.010720000000000007
       },
       {
         "annee": 2043,
         "scenario": "Refonte sans frein",
-        "basse": -0.0020545086599998152,
-        "haute": -0.0018166400756042256
+        "basse": -0.008604508659999843,
+        "haute": -0.008366640075604254
       },
       {
         "annee": 2044,
         "scenario": "Refonte sans frein",
-        "basse": -0.0021362595673344587,
-        "haute": -0.001835366981666614
+        "basse": -0.009036259567334476,
+        "haute": -0.008735366981666631
       },
       {
         "annee": 2045,
         "scenario": "Refonte sans frein",
-        "basse": -0.0022169242180003212,
-        "haute": -0.001853740984649438
+        "basse": -0.009466924218000328,
+        "haute": -0.009103740984649444
       },
       {
         "annee": 2046,
         "scenario": "Refonte sans frein",
-        "basse": -0.002296525412632394,
-        "haute": -0.0018717661376970451
+        "basse": -0.00989652541263239,
+        "haute": -0.00947176613769704
       },
       {
         "annee": 2047,
         "scenario": "Refonte sans frein",
-        "basse": -0.002375085473278138,
-        "haute": -0.0018894464474026873
+        "basse": -0.010325085473278123,
+        "haute": -0.009839446447402672
       },
       {
         "annee": 2048,
         "scenario": "Refonte sans frein",
-        "basse": -0.0024526262534429744,
-        "haute": -0.0019067858743434252
+        "basse": -0.010752626253443004,
+        "haute": -0.010206785874343455
       },
       {
         "annee": 2049,
         "scenario": "Refonte sans frein",
-        "basse": -0.00252916914792517,
-        "haute": -0.0019237883336084005
+        "basse": -0.011179169147925189,
+        "haute": -0.01057378833360842
       },
       {
         "annee": 2050,
         "scenario": "Refonte sans frein",
-        "basse": -0.002604735102443967,
-        "haute": -0.001940457695321418
+        "basse": -0.011604735102443975,
+        "haute": -0.010940457695321426
       },
       {
         "annee": 2051,
         "scenario": "Refonte sans frein",
-        "basse": -0.0026793446230659324,
-        "haute": -0.0019567977851573104
+        "basse": -0.01200434462306596,
+        "haute": -0.011281797785157338
       },
       {
         "annee": 2052,
         "scenario": "Refonte sans frein",
-        "basse": -0.0027530177854332705,
-        "haute": -0.001972812384852557
+        "basse": -0.012403017785433262,
+        "haute": -0.011622812384852549
       },
       {
         "annee": 2053,
         "scenario": "Refonte sans frein",
-        "basse": -0.002825774243798429,
-        "haute": -0.0019885052327096864
+        "basse": -0.01280077424379844,
+        "haute": -0.011963505232709698
       },
       {
         "annee": 2054,
         "scenario": "Refonte sans frein",
-        "basse": -0.0028976332398692045,
-        "haute": -0.002003880024096405
+        "basse": -0.013197633239869208,
+        "haute": -0.012303880024096409
       },
       {
         "annee": 2055,
         "scenario": "Refonte sans frein",
-        "basse": -0.0029686136114679823,
-        "haute": -0.0020189404119384524
+        "basse": -0.013593613611468006,
+        "haute": -0.012643940411938476
       },
       {
         "annee": 2056,
         "scenario": "Refonte sans frein",
-        "basse": -0.0030387338010094272,
-        "haute": -0.0020336900072072672
+        "basse": -0.013988733801009443,
+        "haute": -0.012983690007207283
       },
       {
         "annee": 2057,
         "scenario": "Refonte sans frein",
-        "basse": -0.0031080118638001503,
-        "haute": -0.0020481323794017264
+        "basse": -0.014383011863800158,
+        "haute": -0.013323132379401734
       },
       {
         "annee": 2058,
         "scenario": "Refonte sans frein",
-        "basse": -0.003176465476163945,
-        "haute": -0.0020622710570244313
+        "basse": -0.014776465476163972,
+        "haute": -0.013662271057024458
       },
       {
         "annee": 2059,
         "scenario": "Refonte sans frein",
-        "basse": -0.0032441119433969517,
-        "haute": -0.0020761095280526776
+        "basse": -0.015169111943396943,
+        "haute": -0.014001109528052669
       },
       {
         "annee": 2060,
         "scenario": "Refonte sans frein",
-        "basse": -0.0033109682075553454,
-        "haute": -0.0020896512404037504
+        "basse": -0.015560968207555356,
+        "haute": -0.014339651240403761
       },
       {
         "annee": 2061,
         "scenario": "Refonte sans frein",
-        "basse": -0.0033770508550798883,
-        "haute": -0.002102899602395125
+        "basse": -0.01595205085507992,
+        "haute": -0.014677899602395156
       },
       {
         "annee": 2062,
         "scenario": "Refonte sans frein",
-        "basse": -0.0034423761242604184,
-        "haute": -0.0021158579831993124
+        "basse": -0.016342376124260413,
+        "haute": -0.015015857983199307
       },
       {
         "annee": 2063,
         "scenario": "Refonte sans frein",
-        "basse": -0.0035069599125432532,
-        "haute": -0.002128529713293248
+        "basse": -0.016731959912543268,
+        "haute": -0.015353529713293262
       },
       {
         "annee": 2064,
         "scenario": "Refonte sans frein",
-        "basse": -0.0035708177836859256,
-        "haute": -0.002140918084902965
+        "basse": -0.017120817783685946,
+        "haute": -0.01569091808490297
       },
       {
         "annee": 2065,
         "scenario": "Refonte sans frein",
-        "basse": -0.0036339649747610114,
-        "haute": -0.0021530263524426885
+        "basse": -0.01750896497476101,
+        "haute": -0.016028026352442687
       },
       {
         "annee": 2066,
         "scenario": "Refonte sans frein",
-        "basse": -0.003696416403013547,
-        "haute": -0.002164857732949277
+        "basse": -0.01789641640301358,
+        "haute": -0.016364857732949295
       },
       {
         "annee": 2067,
         "scenario": "Refonte sans frein",
-        "basse": -0.0037581866725740765,
-        "haute": -0.0021764154065114505
+        "basse": -0.018283186672574087,
+        "haute": -0.01670141540651146
       },
       {
         "annee": 2068,
         "scenario": "Refonte sans frein",
-        "basse": -0.003819290081030935,
-        "haute": -0.00218770251669409
+        "basse": -0.018669290081030965,
+        "haute": -0.01703770251669412
       },
       {
         "annee": 2069,
         "scenario": "Refonte sans frein",
-        "basse": -0.0038797406258647554,
-        "haute": -0.0021987221709578175
+        "basse": -0.019054740625864736,
+        "haute": -0.01737372217095781
       },
       {
         "annee": 2070,
         "scenario": "Refonte sans frein",
-        "basse": -0.003939552010747582,
-        "haute": -0.00220947744107354
+        "basse": -0.019439552010747596,
+        "haute": -0.01770947744107354
       }
     ]
   },
@@ -1512,7 +1512,7 @@
           "type": "quantitative",
           "scale": {
             "domain": [
-              -0.008499999999999994,
+              -0.012,
               0.001
             ],
             "nice": false
@@ -1655,7 +1655,18 @@
     },
     {
       "data": {
-        "values": []
+        "values": [
+          {
+            "annee": 2070,
+            "rang": 0,
+            "libelle": "Sans réforme : -2,35 % en 2070, hors cadre"
+          },
+          {
+            "annee": 2070,
+            "rang": 1,
+            "libelle": "Refonte sans frein : -1,94 % en 2070, hors cadre"
+          }
+        ]
       },
       "mark": {
         "type": "text",

@@ -1,0 +1,569 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "La pension de départ de celui qui prend sa retraite cette année-là",
+    "subtitle": [
+      "Pour une carrière qui vaut 1 500 € de pension aujourd’hui, en euros d’aujourd’hui, les salaires",
+      "progressant de 1 % par an. Le frein de Nouvelle Convergence ralentit cette pension de départ,",
+      "d’un point par an au plus, et la relâche quand les comptes le permettent."
+    ],
+    "anchor": "start",
+    "fontSize": 16,
+    "subtitleColor": "#6b6f7b",
+    "subtitlePadding": 6,
+    "offset": 12
+  },
+  "background": "#fbfaf7",
+  "config": {
+    "font": "system-ui, sans-serif",
+    "axis": {
+      "gridColor": "#d9d6cf",
+      "labelColor": "#6b6f7b",
+      "domain": false,
+      "tickColor": "#d9d6cf"
+    },
+    "legend": {
+      "orient": "bottom",
+      "columns": 3,
+      "labelLimit": 2000,
+      "symbolOpacity": 1
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "width": 760,
+  "height": 340,
+  "data": {
+    "values": [
+      {
+        "annee": 2028,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1560.906015
+      },
+      {
+        "annee": 2029,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1576.5150751500003
+      },
+      {
+        "annee": 2030,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1592.2802259015002
+      },
+      {
+        "annee": 2031,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1608.203028160515
+      },
+      {
+        "annee": 2032,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1624.2850584421203
+      },
+      {
+        "annee": 2033,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1640.5279090265412
+      },
+      {
+        "annee": 2034,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1656.9331881168068
+      },
+      {
+        "annee": 2035,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1673.5025199979748
+      },
+      {
+        "annee": 2036,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1690.2375451979547
+      },
+      {
+        "annee": 2037,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1707.1399206499343
+      },
+      {
+        "annee": 2038,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1724.2113198564339
+      },
+      {
+        "annee": 2039,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1741.453433054998
+      },
+      {
+        "annee": 2040,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1758.8679673855481
+      },
+      {
+        "annee": 2041,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1776.4566470594034
+      },
+      {
+        "annee": 2042,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1794.2212135299976
+      },
+      {
+        "annee": 2043,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1812.1634256652974
+      },
+      {
+        "annee": 2044,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1830.2850599219505
+      },
+      {
+        "annee": 2045,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1848.5879105211702
+      },
+      {
+        "annee": 2046,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1867.0737896263818
+      },
+      {
+        "annee": 2047,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1885.7445275226455
+      },
+      {
+        "annee": 2048,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1904.6019727978721
+      },
+      {
+        "annee": 2049,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1923.6479925258507
+      },
+      {
+        "annee": 2050,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1942.8844724511096
+      },
+      {
+        "annee": 2051,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1962.3133171756206
+      },
+      {
+        "annee": 2052,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 1981.9364503473766
+      },
+      {
+        "annee": 2053,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2001.7558148508506
+      },
+      {
+        "annee": 2054,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2021.773372999359
+      },
+      {
+        "annee": 2055,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2041.9911067293526
+      },
+      {
+        "annee": 2056,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2062.411017796646
+      },
+      {
+        "annee": 2057,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2083.0351279746124
+      },
+      {
+        "annee": 2058,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2103.865479254359
+      },
+      {
+        "annee": 2059,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2124.904134046902
+      },
+      {
+        "annee": 2060,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2146.1531753873714
+      },
+      {
+        "annee": 2061,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2167.614707141245
+      },
+      {
+        "annee": 2062,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2189.2908542126575
+      },
+      {
+        "annee": 2063,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2211.1837627547843
+      },
+      {
+        "annee": 2064,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2233.295600382332
+      },
+      {
+        "annee": 2065,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2255.6285563861557
+      },
+      {
+        "annee": 2066,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2278.184841950017
+      },
+      {
+        "annee": 2067,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2300.966690369517
+      },
+      {
+        "annee": 2068,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2323.9763572732127
+      },
+      {
+        "annee": 2069,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2347.2161208459443
+      },
+      {
+        "annee": 2070,
+        "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "valeur": 2370.6882820544038
+      },
+      {
+        "annee": 2028,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1545.29695485
+      },
+      {
+        "annee": 2029,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1545.1424251545152
+      },
+      {
+        "annee": 2030,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.9879109119995
+      },
+      {
+        "annee": 2031,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.8334121209082
+      },
+      {
+        "annee": 2032,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.6789287796962
+      },
+      {
+        "annee": 2033,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.524460886818
+      },
+      {
+        "annee": 2034,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.3700084407296
+      },
+      {
+        "annee": 2035,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.2155714398853
+      },
+      {
+        "annee": 2036,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1544.4545678671284
+      },
+      {
+        "annee": 2037,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1547.6366944625738
+      },
+      {
+        "annee": 2038,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1553.2622721209516
+      },
+      {
+        "annee": 2039,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1561.4825364874698
+      },
+      {
+        "annee": 2040,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1572.4251966691554
+      },
+      {
+        "annee": 2041,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1584.3800910489147
+      },
+      {
+        "annee": 2042,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1597.4179672214027
+      },
+      {
+        "annee": 2043,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1611.5991601488993
+      },
+      {
+        "annee": 2044,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1626.816691337737
+      },
+      {
+        "annee": 2045,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1643.0848582511146
+      },
+      {
+        "annee": 2046,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1659.5157068336255
+      },
+      {
+        "annee": 2047,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1676.1108639019617
+      },
+      {
+        "annee": 2048,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1692.8719725409815
+      },
+      {
+        "annee": 2049,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1709.8006922663913
+      },
+      {
+        "annee": 2050,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1726.8986991890554
+      },
+      {
+        "annee": 2051,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1744.1676861809458
+      },
+      {
+        "annee": 2052,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1761.6093630427551
+      },
+      {
+        "annee": 2053,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1779.2254566731829
+      },
+      {
+        "annee": 2054,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1797.0177112399147
+      },
+      {
+        "annee": 2055,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1814.9878883523138
+      },
+      {
+        "annee": 2056,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1833.1377672358367
+      },
+      {
+        "annee": 2057,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1851.4691449081952
+      },
+      {
+        "annee": 2058,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1869.9838363572774
+      },
+      {
+        "annee": 2059,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1888.68367472085
+      },
+      {
+        "annee": 2060,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1907.5705114680586
+      },
+      {
+        "annee": 2061,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1926.6462165827393
+      },
+      {
+        "annee": 2062,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1945.9126787485666
+      },
+      {
+        "annee": 2063,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1965.3718055360525
+      },
+      {
+        "annee": 2064,
+        "programme": "Nouvelle Convergence",
+        "valeur": 1985.0255235914128
+      },
+      {
+        "annee": 2065,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2004.8757788273272
+      },
+      {
+        "annee": 2066,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2024.9245366156003
+      },
+      {
+        "annee": 2067,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2044.4143692028792
+      },
+      {
+        "annee": 2068,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2061.993118812149
+      },
+      {
+        "annee": 2069,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2077.614282108988
+      },
+      {
+        "annee": 2070,
+        "programme": "Nouvelle Convergence",
+        "valeur": 2091.2828766900006
+      }
+    ]
+  },
+  "encoding": {
+    "x": {
+      "field": "annee",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          2028,
+          2070
+        ]
+      },
+      "axis": {
+        "format": "d",
+        "title": null,
+        "values": [
+          2030,
+          2040,
+          2050,
+          2060,
+          2070
+        ]
+      }
+    },
+    "y": {
+      "field": "valeur",
+      "type": "quantitative",
+      "scale": {
+        "zero": false,
+        "padding": 12
+      },
+      "axis": {
+        "title": null,
+        "labelExpr": "replace(format(datum.value, ',.0f'), ',', ' ') + ' €'",
+        "tickCount": 7
+      }
+    },
+    "color": {
+      "field": "programme",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+        "Nouvelle Convergence"
+      ],
+      "scale": {
+        "domain": [
+          "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+          "Nouvelle Convergence"
+        ],
+        "range": [
+          "#7a7f8c",
+          "#1f7a4d"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "columns": 1,
+        "labelLimit": 2000
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 3
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "annee": 2070,
+            "programme": "Identiques : Système actuel, Les Républicains, Rassemblement national, Les Patriotes, Nouveau Front populaire",
+            "valeur": 2370.6882820544038,
+            "etiquette": "2 371 €"
+          },
+          {
+            "annee": 2070,
+            "programme": "Nouvelle Convergence",
+            "valeur": 2091.2828766900006,
+            "etiquette": "2 091 €"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 6,
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "etiquette"
+        }
+      }
+    }
+  ]
+}

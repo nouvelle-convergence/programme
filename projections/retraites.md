@@ -6,72 +6,73 @@ Ordre de grandeur, pas une microsimulation : agrégats et sensibilités publiés
 
 | Scénario | 2030 | 2040 | 2050 | 2070 |
 |---|---|---|---|---|
-| Sans réforme | -0,40 % à -0,40 % | -0,50 % à -0,50 % | -0,60 % à -0,60 % | -0,80 % à -0,80 % |
-| Réforme complète | -0,29 % à -0,20 % | -0,12 % à -0,18 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
-| Réforme sans équilibre automatique | -0,64 % à -0,52 % | -0,54 % à -0,49 % | -0,62 % à -0,59 % | -0,82 % à -0,79 % |
-| Réforme, capitalisation prélevée sur les cotisations | -0,30 % à -0,20 % | -0,14 % à -0,20 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
-| Réforme complète avec fonds collectif | -0,29 % à -0,20 % | -0,12 % à -0,18 % | 0,00 % à -0,07 % | -0,20 % à -0,20 % |
-| Refonte : âge indexé, fonds collectif, frein | -0,29 % à -0,20 % | -0,06 % à -0,14 % | 0,00 % à 0,00 % | 0,00 % à -0,08 % |
-| Refonte sans frein | -0,64 % à -0,52 % | -0,47 % à -0,45 % | -0,19 % à -0,26 % | -0,22 % à -0,39 % |
-| Refonte : âge indexé, cotisation +1 point permanente, frein | -0,20 % à -0,17 % | -0,03 % à -0,10 % | -0,01 % à -0,12 % | 0,01 % à -0,18 % |
-| Refonte : cotisation +1 point permanente, sans frein | -0,29 % à -0,17 % | -0,12 % à -0,10 % | -0,09 % à -0,12 % | -0,07 % à -0,18 % |
+| Sans réforme | -0,95 % à -0,95 % | -1,05 % à -1,05 % | -1,50 % à -1,50 % | -2,35 % à -2,35 % |
+| Réforme complète | -0,83 % à -0,71 % | -0,19 % à -0,20 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
+| Réforme sans équilibre automatique | -1,19 % à -1,07 % | -1,09 % à -1,04 % | -1,52 % à -1,49 % | -2,37 % à -2,34 % |
+| Réforme, capitalisation prélevée sur les cotisations | -0,84 % à -0,72 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
+| Réforme complète avec fonds collectif | -0,83 % à -0,71 % | -0,19 % à -0,20 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
+| Refonte : âge indexé, fonds collectif, frein | -0,83 % à -0,71 % | -0,14 % à -0,18 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
+| Refonte sans frein | -1,19 % à -1,07 % | -1,02 % à -1,00 % | -1,09 % à -1,16 % | -1,77 % à -1,94 % |
+| Refonte : âge indexé, cotisation +1 point permanente, frein | -0,48 % à -0,36 % | -0,09 % à -0,16 % | -0,20 % à -0,20 % | -0,20 % à -0,20 % |
+| Refonte : cotisation +1 point permanente, sans frein | -0,84 % à -0,72 % | -0,67 % à -0,65 % | -0,99 % à -1,02 % | -1,62 % à -1,73 % |
 
 ## Solde en milliards d'euros de 2024
 
 | Scénario | 2030 | 2040 | 2050 | 2070 |
 |---|---|---|---|---|
-| Sans réforme | -12 Md€ à -12 Md€ | -17 Md€ à -17 Md€ | -23 Md€ à -23 Md€ | -37 Md€ à -37 Md€ |
-| Réforme complète | -9 Md€ à -6 Md€ | -4 Md€ à -6 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
-| Réforme sans équilibre automatique | -20 Md€ à -16 Md€ | -19 Md€ à -17 Md€ | -24 Md€ à -22 Md€ | -38 Md€ à -36 Md€ |
-| Réforme, capitalisation prélevée sur les cotisations | -9 Md€ à -6 Md€ | -5 Md€ à -7 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
-| Réforme complète avec fonds collectif | -9 Md€ à -6 Md€ | -4 Md€ à -6 Md€ | 0 Md€ à -3 Md€ | -9 Md€ à -9 Md€ |
-| Refonte : âge indexé, fonds collectif, frein | -9 Md€ à -6 Md€ | -2 Md€ à -5 Md€ | 0 Md€ à 0 Md€ | 0 Md€ à -4 Md€ |
-| Refonte sans frein | -20 Md€ à -16 Md€ | -16 Md€ à -16 Md€ | -7 Md€ à -10 Md€ | -10 Md€ à -18 Md€ |
-| Refonte : âge indexé, cotisation +1 point permanente, frein | -6 Md€ à -5 Md€ | -1 Md€ à -4 Md€ | -0 Md€ à -5 Md€ | 1 Md€ à -8 Md€ |
-| Refonte : cotisation +1 point permanente, sans frein | -9 Md€ à -5 Md€ | -4 Md€ à -4 Md€ | -3 Md€ à -5 Md€ | -3 Md€ à -8 Md€ |
+| Sans réforme | -30 Md€ à -30 Md€ | -36 Md€ à -36 Md€ | -57 Md€ à -57 Md€ | -109 Md€ à -109 Md€ |
+| Réforme complète | -26 Md€ à -22 Md€ | -7 Md€ à -7 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
+| Réforme sans équilibre automatique | -37 Md€ à -33 Md€ | -37 Md€ à -36 Md€ | -58 Md€ à -56 Md€ | -110 Md€ à -108 Md€ |
+| Réforme, capitalisation prélevée sur les cotisations | -26 Md€ à -22 Md€ | -7 Md€ à -7 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
+| Réforme complète avec fonds collectif | -26 Md€ à -22 Md€ | -7 Md€ à -7 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
+| Refonte : âge indexé, fonds collectif, frein | -26 Md€ à -22 Md€ | -5 Md€ à -6 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
+| Refonte sans frein | -37 Md€ à -33 Md€ | -35 Md€ à -34 Md€ | -42 Md€ à -44 Md€ | -82 Md€ à -90 Md€ |
+| Refonte : âge indexé, cotisation +1 point permanente, frein | -15 Md€ à -11 Md€ | -3 Md€ à -5 Md€ | -8 Md€ à -8 Md€ | -9 Md€ à -9 Md€ |
+| Refonte : cotisation +1 point permanente, sans frein | -26 Md€ à -22 Md€ | -23 Md€ à -22 Md€ | -38 Md€ à -39 Md€ | -75 Md€ à -80 Md€ |
 
 ## Ce que les retraités absorbent : sous-indexation cumulée
 
 | Scénario | 2030 | 2040 | 2050 | 2070 |
 |---|---|---|---|---|
 | Sans réforme | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % |
-| Réforme complète | 2,97 % à 2,75 % | 3,65 % à 2,75 % | 3,79 % à 3,51 % | 5,73 % à 5,45 % |
+| Réforme complète | 2,97 % à 2,97 % | 7,61 % à 7,21 % | 11,15 % à 10,94 % | 17,88 % à 17,72 % |
 | Réforme sans équilibre automatique | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % |
-| Réforme, capitalisation prélevée sur les cotisations | 2,97 % à 2,80 % | 3,72 % à 2,85 % | 4,21 % à 3,93 % | 6,51 % à 6,24 % |
-| Réforme complète avec fonds collectif | 2,97 % à 2,75 % | 3,65 % à 2,75 % | 3,65 % à 2,75 % | 3,66 % à 4,14 % |
-| Refonte : âge indexé, fonds collectif, frein | 2,97 % à 2,75 % | 3,65 % à 2,75 % | 3,65 % à 2,75 % | 3,65 % à 2,75 % |
+| Réforme, capitalisation prélevée sur les cotisations | 2,97 % à 2,97 % | 7,74 % à 7,43 % | 11,54 % à 11,33 % | 18,57 % à 18,42 % |
+| Réforme complète avec fonds collectif | 2,97 % à 2,97 % | 7,61 % à 7,21 % | 9,06 % à 9,13 % | 16,26 % à 16,57 % |
+| Refonte : âge indexé, fonds collectif, frein | 2,97 % à 2,97 % | 7,52 % à 7,01 % | 7,64 % à 8,24 % | 13,31 % à 14,74 % |
 | Refonte sans frein | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % |
-| Refonte : âge indexé, cotisation +1 point permanente, frein | 0,76 % à 0,00 % | 0,76 % à 0,00 % | 0,76 % à 0,00 % | 0,76 % à 0,00 % |
+| Refonte : âge indexé, cotisation +1 point permanente, frein | 2,97 % à 2,97 % | 4,93 % à 4,24 % | 6,77 % à 7,06 % | 12,02 % à 12,96 % |
 | Refonte : cotisation +1 point permanente, sans frein | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % | 0,00 % à 0,00 % |
 
 ## Fonds collectif : taille en % du PIB, retrait annuel en Md€ 2024
 
 | Scénario | 2030 | 2040 | 2050 | 2070 |
 |---|---|---|---|---|
-| Réforme complète avec fonds collectif | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,16 % à 6,65 % ; retrait 8 Md€ à 8 Md€ | 3,38 % à 5,38 % ; retrait 7 Md€ à 10 Md€ |
-| Refonte : âge indexé, fonds collectif, frein | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,70 % à 7,84 % ; retrait 7 Md€ à 2 Md€ | 3,92 % à 13,05 % ; retrait 8 Md€ à 2 Md€ |
+| Réforme complète avec fonds collectif | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,10 % à 5,95 % ; retrait 8 Md€ à 9 Md€ | 3,34 % à 4,72 % ; retrait 6 Md€ à 9 Md€ |
+| Refonte : âge indexé, fonds collectif, frein | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,11 % à 5,97 % ; retrait 8 Md€ à 9 Md€ | 3,34 % à 4,74 % ; retrait 6 Md€ à 9 Md€ |
 | Refonte sans frein | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,10 % à 5,92 % ; retrait 8 Md€ à 9 Md€ | 3,34 % à 4,70 % ; retrait 6 Md€ à 9 Md€ |
-| Variante : âge indexé, fonds de réserve 15 ans, frein actif | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 6,07 % à 8,21 % ; retrait 5 Md€ à 0 Md€ | 6,07 % à 14,74 % ; retrait 6 Md€ à 0 Md€ |
-| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,00 % à 0,00 % ; retrait 0 Md€ à 0 Md€ | 0,88 % à 1,19 % ; retrait 0 Md€ à 0 Md€ | 1,89 % à 2,49 % ; retrait 0 Md€ à 0 Md€ | 2,79 % à 4,47 % ; retrait 0 Md€ à 0 Md€ |
-| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,12 % à 6,02 % ; retrait 8 Md€ à 10 Md€ | 3,35 % à 4,78 % ; retrait 6 Md€ à 9 Md€ |
-| Canada 1997 : fonds permanent, provisions automatiques | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 7,95 % à 9,13 % ; retrait 11 Md€ à 11 Md€ | 10,98 % à 15,46 % ; retrait 21 Md€ à 23 Md€ |
+| Variante : âge indexé, fonds de réserve 15 ans, frein actif | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,11 % à 6,08 % ; retrait 8 Md€ à 10 Md€ | 3,35 % à 4,83 % ; retrait 6 Md€ à 9 Md€ |
+| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,00 % à 0,00 % ; retrait 0 Md€ à 0 Md€ | 0,56 % à 0,86 % ; retrait 0 Md€ à 0 Md€ | 0,87 % à 1,41 % ; retrait 1 Md€ à 2 Md€ | 0,57 % à 1,12 % ; retrait 1 Md€ à 2 Md€ |
+| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 5,10 % à 5,94 % ; retrait 8 Md€ à 9 Md€ | 3,34 % à 4,71 % ; retrait 6 Md€ à 9 Md€ |
+| Canada 1997 : fonds permanent, provisions automatiques | 1,07 % à 1,08 % ; retrait 0 Md€ à 0 Md€ | 5,13 % à 5,46 % ; retrait 0 Md€ à 0 Md€ | 7,61 % à 8,54 % ; retrait 12 Md€ à 14 Md€ | 10,52 % à 12,81 % ; retrait 20 Md€ à 25 Md€ |
 
 ## Refonte : qui porte l'ajustement, en % du PIB (fourchette basse)
 
 | Scénario | 2030 | 2040 | 2050 | 2070 |
 |---|---|---|---|---|
-| Refonte : âge indexé, fonds collectif, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,32 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,31 % | âge 65,7 ans ; âge 0,11 %, fonds 0,17 %, frein 0,30 % | âge 66,4 ans ; âge 0,25 %, fonds 0,16 %, frein 0,29 % |
+| Refonte : âge indexé, fonds collectif, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,82 % | âge 65,7 ans ; âge 0,11 %, fonds 0,21 %, frein 0,96 % | âge 66,4 ans ; âge 0,25 %, fonds 0,14 %, frein 1,74 % |
 | Refonte sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,21 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,14 %, frein 0,00 % |
-| Refonte : âge indexé, cotisation +1 point permanente, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 0,00 % |
+| Refonte : âge indexé, cotisation +1 point permanente, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,49 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,82 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 1,53 % |
 | Refonte : cotisation +1 point permanente, sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 0,00 % |
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,00 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,00 % |
-| Variante : âge indexé, fonds de réserve 15 ans, frein actif | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,32 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,31 % | âge 66,1 ans ; âge 0,17 %, fonds 0,12 %, frein 0,30 % | âge 67,1 ans ; âge 0,38 %, fonds 0,12 %, frein 0,29 % |
-| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | âge 65,8 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 67,6 ans ; âge 0,43 %, fonds 0,00 %, frein 0,00 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,00 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 0,00 % |
-| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,26 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,51 % | âge 66,1 ans ; âge 0,17 %, fonds 0,21 %, frein 0,53 % | âge 67,1 ans ; âge 0,38 %, fonds 0,14 %, frein 0,96 % |
-| Italie 1995 : comptes notionnels, 67 ans indexés | âge 66,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,20 % | âge 67,6 ans ; âge 0,48 %, fonds 0,00 %, frein 0,22 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,21 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 0,20 % |
-| Allemagne 2007 : 67 ans, facteur de soutenabilité | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,20 % | âge 67,0 ans ; âge 0,24 %, fonds 0,00 %, frein 0,22 % | âge 67,0 ans ; âge 0,42 %, fonds 0,00 %, frein 0,22 % | âge 67,0 ans ; âge 0,42 %, fonds 0,00 %, frein 0,21 % |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,03 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,39 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,90 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,31 % |
+| Variante : même cap, frein sur toutes les pensions | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,49 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,77 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,41 % |
+| Variante : âge indexé, fonds de réserve 15 ans, frein actif | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,81 % | âge 66,1 ans ; âge 0,17 %, fonds 0,21 %, frein 0,90 % | âge 67,1 ans ; âge 0,38 %, fonds 0,14 %, frein 1,62 % |
+| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | âge 65,8 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 67,6 ans ; âge 0,43 %, fonds 0,00 %, frein 0,48 % | âge 68,1 ans ; âge 0,59 %, fonds 0,04 %, frein 0,66 % | âge 69,1 ans ; âge 0,80 %, fonds 0,02 %, frein 1,31 % |
+| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 1,06 % | âge 66,1 ans ; âge 0,17 %, fonds 0,21 %, frein 1,40 % | âge 67,1 ans ; âge 0,38 %, fonds 0,14 %, frein 2,51 % |
+| Italie 1995 : comptes notionnels, 67 ans indexés | âge 66,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 67,6 ans ; âge 0,48 %, fonds 0,00 %, frein 0,69 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,71 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 1,35 % |
+| Allemagne 2007 : 67 ans, facteur de soutenabilité | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 67,0 ans ; âge 0,24 %, fonds 0,00 %, frein 0,74 % | âge 67,0 ans ; âge 0,42 %, fonds 0,00 %, frein 0,88 % | âge 67,0 ans ; âge 0,42 %, fonds 0,00 %, frein 1,73 % |
 | Danemark : 67 ans puis âge indexé à 100 % | âge 65,8 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 67,6 ans ; âge 0,43 %, fonds 0,00 %, frein 0,00 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,00 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 0,00 % |
-| Suisse étalée avec âge indexé à 100 % et frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,31 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 1,17 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 2,80 % |
+| Suisse étalée avec âge indexé à 100 % et frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,35 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,86 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 1,87 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 3,67 % |
 | Les Républicains : 65 ans, seniors exonérés, épargne retraite volontaire | âge 65,6 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,0 ans ; âge 0,21 %, fonds 0,00 %, frein 0,00 % | âge 66,0 ans ; âge 0,21 %, fonds 0,00 %, frein 0,00 % | âge 66,0 ans ; âge 0,21 %, fonds 0,00 %, frein 0,00 % |
 | Rassemblement national : retour à 62 ans, 60 ans pour les carrières précoces | âge 62,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 62,5 ans ; âge -0,52 %, fonds 0,00 %, frein 0,00 % | âge 62,5 ans ; âge -0,52 %, fonds 0,00 %, frein 0,00 % | âge 62,5 ans ; âge -0,52 %, fonds 0,00 %, frein 0,00 % |
 | Les Patriotes : baisse de l’âge, transposée à 60 ans | âge 61,0 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 61,0 ans ; âge -0,84 %, fonds 0,00 %, frein 0,00 % | âge 61,0 ans ; âge -0,84 %, fonds 0,00 %, frein 0,00 % | âge 61,0 ans ; âge -0,84 %, fonds 0,00 %, frein 0,00 % |
@@ -83,17 +84,18 @@ Chaque pays est réduit à ses leviers, appliqués à la France à partir de 202
 
 | Scénario | Solde 2040 | Solde 2070 | Dépenses 2070 | Âge de référence 2070 | Retraités 2070 | Transition capitalisation 2070 |
 |---|---|---|---|---|---|---|
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 68,4 ans à 67,1 ans | 0,76 % à 0,00 % | 0,00 % |
-| Variante : âge indexé, fonds de réserve 15 ans, frein actif | -0,03 % à -0,12 % | 0,16 % à 0,00 % | 11,74 % à 11,95 % | 68,4 ans à 67,1 ans | 3,65 % à 2,75 % | 0,00 % |
-| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,01 % à 0,00 % | 0,28 % à 0,01 % | 11,62 % à 11,82 % | 70,4 ans à 69,1 ans | 0,76 % à 0,00 % | 0,00 % |
-| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | -0,20 % à -0,20 % | -0,20 % à -0,20 % | 11,22 % à 11,16 % | 68,4 ans à 67,1 ans | 6,66 % à 9,29 % | -0,87 % |
-| Italie 1995 : comptes notionnels, 67 ans indexés | 0,24 % à 0,20 % | 0,42 % à 0,20 % | 11,28 % à 11,50 % | 70,4 ans à 69,1 ans | 2,04 % à 2,04 % | 0,00 % |
-| Allemagne 2007 : 67 ans, facteur de soutenabilité | -0,03 % à -0,03 % | -0,17 % à -0,17 % | 11,87 % à 11,87 % | 67,0 ans à 67,0 ans | 2,04 % à 2,04 % | 0,00 % |
-| Canada 1997 : fonds permanent, provisions automatiques | -0,20 % à -0,20 % | 0,00 % à -0,04 % | 12,19 % à 12,19 % | 65,0 ans à 65,0 ans | 2,89 % à 2,89 % | 0,00 % |
-| Danemark : 67 ans puis âge indexé à 100 % | -0,03 % à -0,07 % | 0,22 % à -0,00 % | 11,48 % à 11,70 % | 70,4 ans à 69,1 ans | 0,00 % à 0,00 % | 0,00 % |
-| Suisse : 12 points capitalisés, TVA affectée, âge fixe | -1,45 % à -1,45 % | -4,65 % à -4,65 % | 12,50 % à 12,50 % | 65,0 ans à 65,0 ans | 0,00 % à 0,00 % | -4,20 % |
-| Suisse étalée : 12 points capitalisés, taux monté sur 40 ans | -0,57 % à -0,57 % | -4,65 % à -4,65 % | 12,50 % à 12,50 % | 65,0 ans à 65,0 ans | 0,00 % à 0,00 % | -4,20 % |
-| Suisse étalée avec âge indexé à 100 % et frein | -0,20 % à -0,20 % | -1,36 % à -1,48 % | 9,21 % à 9,33 % | 68,4 ans à 67,1 ans | 26,53 % à 27,10 % | -4,20 % |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | -0,24 % à -0,24 % | -0,12 % à -0,30 % | 12,37 % à 12,48 % | 68,4 ans à 67,1 ans | 11,13 % à 11,17 % | 0,00 % |
+| Variante : même cap, frein sur toutes les pensions | -0,06 % à -0,14 % | -0,20 % à -0,20 % | 12,45 % à 12,38 % | 68,4 ans à 67,1 ans | 10,46 % à 12,00 % | 0,00 % |
+| Variante : âge indexé, fonds de réserve 15 ans, frein actif | -0,11 % à -0,17 % | -0,20 % à -0,20 % | 12,30 % à 12,17 % | 68,4 ans à 67,1 ans | 11,74 % à 13,80 % | 0,00 % |
+| Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,00 % à 0,00 % | -0,20 % à -0,20 % | 12,15 % à 12,05 % | 70,4 ans à 69,1 ans | 9,76 % à 11,55 % | 0,00 % |
+| Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | -0,20 % à -0,20 % | -0,20 % à -0,20 % | 11,22 % à 11,16 % | 68,4 ans à 67,1 ans | 19,45 % à 21,57 % | -0,87 % |
+| Italie 1995 : comptes notionnels, 67 ans indexés | 0,16 % à 0,12 % | -0,20 % à -0,20 % | 11,90 % à 11,90 % | 70,4 ans à 69,1 ans | 10,16 % à 12,00 % | 0,00 % |
+| Allemagne 2007 : 67 ans, facteur de soutenabilité | -0,07 % à -0,07 % | -0,20 % à -0,20 % | 11,90 % à 11,90 % | 67,0 ans à 67,0 ans | 14,92 % à 14,92 % | 0,00 % |
+| Canada 1997 : fonds permanent, provisions automatiques | -0,20 % à -0,20 % | -0,20 % à -0,20 % | 12,43 % à 12,34 % | 65,0 ans à 65,0 ans | 13,53 % à 14,33 % | 0,00 % |
+| Danemark : 67 ans puis âge indexé à 100 % | -0,58 % à -0,62 % | -1,33 % à -1,55 % | 13,03 % à 13,25 % | 70,4 ans à 69,1 ans | 0,00 % à 0,00 % | 0,00 % |
+| Suisse : 12 points capitalisés, TVA affectée, âge fixe | -2,00 % à -2,00 % | -6,20 % à -6,20 % | 14,05 % à 14,05 % | 65,0 ans à 65,0 ans | 0,00 % à 0,00 % | -4,20 % |
+| Suisse étalée : 12 points capitalisés, taux monté sur 40 ans | -1,12 % à -1,12 % | -6,20 % à -6,20 % | 14,05 % à 14,05 % | 65,0 ans à 65,0 ans | 0,00 % à 0,00 % | -4,20 % |
+| Suisse étalée avec âge indexé à 100 % et frein | -0,20 % à -0,20 % | -2,02 % à -2,16 % | 9,87 % à 10,01 % | 68,4 ans à 67,1 ans | 31,20 % à 31,50 % | -4,20 % |
 
 « Retraités » : sous-indexation cumulée, pouvoir d'achat relatif perdu par les pensions au-dessus du plancher. « Transition capitalisation » : effet net sur le solde du prélèvement de cotisations vers la capitalisation, négatif tant que les entrants n'ont pas pris leur retraite.
 
@@ -103,30 +105,44 @@ Chaque programme est réduit aux mesures sur les retraites extraites du corpus, 
 
 | Scénario | Solde 2030 | Solde 2040 | Solde 2070 | Dépenses 2070 | Âge 2070 | Source |
 |---|---|---|---|---|---|---|
-| Sans réforme | -0,40 % à -0,40 % | -0,50 % à -0,50 % | -0,80 % à -0,80 % | 12,50 % à 12,50 % | 65,0 ans |  |
-| Renaissance / Ensemble : réforme de 2023 maintenue, étage par investissement | -0,40 % à -0,40 % | -0,50 % à -0,50 % | -0,80 % à -0,80 % | 12,50 % à 12,50 % | 65,0 ans | Ensemble 2024, p. 12 : « Indexation des retraites sur l’inflation » ; Renaissance 2025 (économie), p. 17 : « compléter notre système par répartition via une couche de retraites par investissement » |
-| Les Républicains : 65 ans, seniors exonérés, épargne retraite volontaire | -0,34 % à -0,36 % | -0,09 % à -0,16 % | -0,39 % à -0,46 % | 12,29 % à 12,29 % | 66,0 ans | LR 2026 (compétitivité), p. 26 : exonération totale de cotisations retraite et chômage pour les salariés ayant tous leurs trimestres ; LR 2026 (produire), p. 36 : « un étage de retraite fondé sur l’épargne individuelle, complémentaire et volontaire » ; 65 ans : déclaration de B. Retailleau, hors corpus |
-| Rassemblement national : retour à 62 ans, 60 ans pour les carrières précoces | -0,40 % à -0,40 % | -1,03 % à -1,03 % | -1,32 % à -1,32 % | 13,03 % à 13,03 % | 62,5 ans | RN 2024, p. 8 : « Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail » |
-| Les Patriotes : baisse de l’âge, transposée à 60 ans | -0,40 % à -0,40 % | -1,34 % à -1,34 % | -1,64 % à -1,64 % | 13,34 % à 13,34 % | 61,0 ans | Patriotes 2026, p. 4 : « Baisser l’âge de départ à la retraite. » — cible non précisée, 60 ans retenu |
-| Nouveau Front populaire : retour à 62 ans, pensions indexées sur les salaires | -0,59 % à -0,53 % | -1,74 % à -1,46 % | -2,72 % à -2,22 % | 14,42 % à 13,92 % | 63,0 ans | NFP 2024, p. 4 : « Abroger immédiatement les décrets d’application de la réforme […] passant l’âge de départ à la retraite à 64 ans » ; p. 16 : « Indexer le montant des retraites sur les salaires », « Réaffirmer l’objectif commun du droit à la retraite à 60 ans » (objectif, non chiffré ici) |
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein en garde-fou | -0,20 % à -0,17 % | -0,00 % à -0,08 % | 0,21 % à -0,06 % | 12,04 % à 12,24 % | 67,1 ans |  |
+| Sans réforme | -0,95 % à -0,95 % | -1,05 % à -1,05 % | -2,35 % à -2,35 % | 14,05 % à 14,05 % | 65,0 ans |  |
+| Renaissance / Ensemble : réforme de 2023 maintenue, étage par investissement | -0,95 % à -0,95 % | -1,05 % à -1,05 % | -2,35 % à -2,35 % | 14,05 % à 14,05 % | 65,0 ans | Ensemble 2024, p. 12 : « Indexation des retraites sur l’inflation » ; Renaissance 2025 (économie), p. 17 : « compléter notre système par répartition via une couche de retraites par investissement » |
+| Les Républicains : 65 ans, seniors exonérés, épargne retraite volontaire | -0,89 % à -0,91 % | -0,64 % à -0,71 % | -1,94 % à -2,01 % | 13,84 % à 13,84 % | 66,0 ans | LR 2026 (compétitivité), p. 26 : exonération totale de cotisations retraite et chômage pour les salariés ayant tous leurs trimestres ; LR 2026 (produire), p. 36 : « un étage de retraite fondé sur l’épargne individuelle, complémentaire et volontaire » ; 65 ans : déclaration de B. Retailleau, hors corpus |
+| Rassemblement national : retour à 62 ans, 60 ans pour les carrières précoces | -0,95 % à -0,95 % | -1,58 % à -1,58 % | -2,88 % à -2,88 % | 14,58 % à 14,58 % | 62,5 ans | RN 2024, p. 8 : « Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail » |
+| Les Patriotes : baisse de l’âge, transposée à 60 ans | -0,95 % à -0,95 % | -1,89 % à -1,89 % | -3,19 % à -3,19 % | 14,89 % à 14,89 % | 61,0 ans | Patriotes 2026, p. 4 : « Baisser l’âge de départ à la retraite. » — cible non précisée, 60 ans retenu |
+| Nouveau Front populaire : retour à 62 ans, pensions indexées sur les salaires | -1,15 % à -1,08 % | -2,32 % à -2,04 % | -4,46 % à -3,89 % | 16,16 % à 15,59 % | 63,0 ans | NFP 2024, p. 4 : « Abroger immédiatement les décrets d’application de la réforme […] passant l’âge de départ à la retraite à 64 ans » ; p. 16 : « Indexer le montant des retraites sur les salaires », « Réaffirmer l’objectif commun du droit à la retraite à 60 ans » (objectif, non chiffré ici) |
+| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | -0,81 % à -0,69 % | -0,24 % à -0,24 % | -0,12 % à -0,30 % | 12,37 % à 12,48 % | 67,1 ans |  |
+
+## Ce que change la démographie du PLFSS 2027
+
+Le cadrage par défaut suit le PLFSS 2027 (436 Md€ de pensions en 2027, ratio cotisants/retraités 1,3 en 2070). Le COR 2025 donnait 1,4 ; l'écart se voit surtout après 2040. Solde en 2070, hypothèse prudente, en milliards d'euros de 2024.
+
+| Programme | Cadrage COR 2025 | Cadrage PLFSS 2027 |
+|---|---|---|
+| Sans réforme | -37 Md€ | -109 Md€ |
+| Renaissance / Ensemble | -37 Md€ | -109 Md€ |
+| Les Républicains | -21 Md€ | -93 Md€ |
+| Rassemblement national | -61 Md€ | -133 Md€ |
+| Les Patriotes | -76 Md€ | -148 Md€ |
+| Nouveau Front populaire | -103 Md€ | -181 Md€ |
+| Nouvelle Convergence | -3 Md€ | -14 Md€ |
 
 ## Qui paie en 2070, en milliards d'euros d'aujourd'hui
 
-Le système actuel laisse 37 Md€ par an à trouver en 2070. Chaque programme y ajoute ou en retire ; ce qui reste se paie par la dette ou l'impôt.
+Le système actuel laisse 109 Md€ par an à trouver en 2070. Chaque programme y ajoute ou en retire ; ce qui reste se paie par la dette ou l'impôt.
 
 | Programme | Âge de départ en 2070 | Travailler plus longtemps | Pensions ralenties (frein) | Fonds de réserve | Cotisations en plus | Départ plus tôt | Pensions indexées sur les salaires | Autres mesures | Reste à financer |
 |---|---|---|---|---|---|---|---|---|---|
-| Système actuel (Renaissance / Ensemble) | 65,0 ans |  |  |  |  |  |  |  | 37 Md€ |
-| Nouvelle Convergence | 67,1 ans | +18 Md€ |  |  | +16 Md€ |  |  | +1 Md€ | 3 Md€ |
-| Les Républicains | 66,0 ans | +10 Md€ |  |  |  |  |  | +6 Md€ | 21 Md€ |
-| Rassemblement national | 62,5 ans |  |  |  |  | -24 Md€ |  |  | 61 Md€ |
-| Les Patriotes | 61,0 ans |  |  |  |  | -39 Md€ |  |  | 76 Md€ |
-| Nouveau Front populaire | 63,0 ans |  |  |  |  | -19 Md€ | -46 Md€ |  | 103 Md€ |
+| Système actuel (Renaissance / Ensemble) | 65,0 ans |  |  |  |  |  |  |  | 109 Md€ |
+| Nouvelle Convergence | 67,1 ans | +18 Md€ | +61 Md€ |  | +16 Md€ |  |  | +1 Md€ | 14 Md€ |
+| Les Républicains | 66,0 ans | +10 Md€ |  |  |  |  |  | +6 Md€ | 93 Md€ |
+| Rassemblement national | 62,5 ans |  |  |  |  | -24 Md€ |  |  | 133 Md€ |
+| Les Patriotes | 61,0 ans |  |  |  |  | -39 Md€ |  |  | 148 Md€ |
+| Nouveau Front populaire | 63,0 ans |  |  |  |  | -19 Md€ | -52 Md€ |  | 181 Md€ |
 
 ## Graphiques
 
-Trois graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en abscisse : `projection-retraites-trou`, `projection-retraites-salarie`, `projection-retraites-pension`. Trois graphiques techniques en % du PIB : `projection-retraites` (nos scénarios), `projection-retraites-modeles` (modèles étrangers), `projection-retraites-partis` (programmes). Chacun existe en `.svg`, `.vl.json` (à ouvrir dans l'éditeur Vega) et `.csv`.
+Quatre graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en abscisse : `projection-retraites-trou`, `projection-retraites-salarie`, `projection-retraites-pension` (pension déjà liquidée), `projection-retraites-depart` (pension de départ). Trois graphiques techniques en % du PIB : `projection-retraites` (nos scénarios), `projection-retraites-modeles` (modèles étrangers), `projection-retraites-partis` (programmes). Chacun existe en `.svg`, `.vl.json` (à ouvrir dans l'éditeur Vega) et `.csv`.
 
 ## Hypothèses
 
@@ -135,7 +151,8 @@ Trois graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en ab
 | cadrage.pibDepart | 2935.2 | Insee, comptes nationaux, PIB 2024 en Md€ courants (moteur des faits) | moteur |
 | cadrage.croissanceReelle | 0.01 | COR 2025, scénario central : productivité du travail +1 % par an | memoire |
 | cadrage.inflation | 0.0175 | COR 2025 : hypothèse d’inflation de long terme | memoire |
-| cadrage.depensesPib | {"2024":0.134,"2030":0.133,"2040":0.131,"2050":0.128,"2070":0.125} | COR 2025, scénario central, dépenses de retraite en % du PIB | memoire |
+| cadrage.depensesPib | {"2024":0.134,"2027":0.139,"2030":0.1385,"2040":0.1365,"2050":0.137,"2070":0.1405} | PLFSS 2027, p. 17 (436 Md€ en 2027, ratio cotisants/retraités 1,8 → 1,6 en 2040 → 1,3 en 2070) ; pente COR 2025 | document |
+| cadrage.ratioCotisantsRetraites | {"2024":1.8,"2040":1.6,"2070":1.3} | PLFSS 2027, p. 17, d’après la Conférence sur le travail, l’emploi et les retraites du 18 septembre 2026 | document |
 | cadrage.ressourcesPib | {"2024":0.132,"2030":0.129,"2040":0.126,"2050":0.122,"2070":0.117} | COR 2025, convention EPR (effort de l’État constant en part de PIB), ressources en % du PIB | memoire |
 | menages.salaireMedianBrut | 2800 | Insee, salaires 2023 : salaire médian net 2 180 € par mois, soit environ 2 800 € brut | memoire |
 | menages.pensionMoyenneNette | 1500 | DREES, pension moyenne nette de droit direct, 2023 | memoire |
@@ -149,6 +166,7 @@ Trois graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en ab
 | emploiSeniors.monteeAns | 10 | Rattrapage sur dix ans, rythme observé en Allemagne 2005-2015 | memoire |
 | equilibreAutomatique.seuilDeficitPib | 0.002 | Le mécanisme ne s’active qu’au-delà de 0,2 % du PIB de déficit | document |
 | equilibreAutomatique.sousIndexationMaxParAn | 0.01 | Au plus un point d’indexation retenu par an | document |
+| equilibreAutomatique.ecartPleinFrein | 0.003 | Le frein sur les pensions de départ serre à plein à 0,5 % du PIB de déficit, proportionnellement en deçà | document |
 | equilibreAutomatique.partPensionsExemptees | 0.15 | Pensions sous le minimum contributif exemptées : environ 15 % de la masse | memoire |
 | capitalisation.tauxCotisation | 0.02 | Deux points de salaire au-dessus du plafond, pour les entrants | document |
 | capitalisation.partSalairesAuDessusPlafond | 0.12 | Part de la masse salariale au-dessus du plafond de la Sécurité sociale | memoire |

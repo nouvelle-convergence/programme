@@ -44,1406 +44,1406 @@
       {
         "annee": 2025,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.003333333333333327,
-        "haute": -0.003333333333333327
+        "basse": -0.008833333333333332,
+        "haute": -0.008833333333333332
       },
       {
         "annee": 2029,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.003666666666666679,
-        "haute": -0.003666666666666679
+        "basse": -0.009166666666666684,
+        "haute": -0.009166666666666684
       },
       {
         "annee": 2030,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0040000000000000036,
-        "haute": -0.0040000000000000036
+        "basse": -0.009500000000000008,
+        "haute": -0.009500000000000008
       },
       {
         "annee": 2031,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0040999999999999925,
-        "haute": -0.0040999999999999925
+        "basse": -0.009599999999999997,
+        "haute": -0.009599999999999997
       },
       {
         "annee": 2032,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0041999999999999815,
-        "haute": -0.0041999999999999815
+        "basse": -0.009699999999999986,
+        "haute": -0.009699999999999986
       },
       {
         "annee": 2033,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.004300000000000026,
-        "haute": -0.004300000000000026
+        "basse": -0.009800000000000031,
+        "haute": -0.009800000000000031
       },
       {
         "annee": 2034,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.004400000000000015,
-        "haute": -0.004400000000000015
+        "basse": -0.00990000000000002,
+        "haute": -0.00990000000000002
       },
       {
         "annee": 2035,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.004500000000000004,
-        "haute": -0.004500000000000004
+        "basse": -0.010000000000000009,
+        "haute": -0.010000000000000009
       },
       {
         "annee": 2036,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.004599999999999993,
-        "haute": -0.004599999999999993
+        "basse": -0.010099999999999998,
+        "haute": -0.010099999999999998
       },
       {
         "annee": 2037,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.004699999999999982,
-        "haute": -0.004699999999999982
+        "basse": -0.010199999999999987,
+        "haute": -0.010199999999999987
       },
       {
         "annee": 2038,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0048000000000000265,
-        "haute": -0.0048000000000000265
+        "basse": -0.010300000000000031,
+        "haute": -0.010300000000000031
       },
       {
         "annee": 2039,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0049000000000000155,
-        "haute": -0.0049000000000000155
+        "basse": -0.01040000000000002,
+        "haute": -0.01040000000000002
       },
       {
         "annee": 2040,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0050000000000000044,
-        "haute": -0.0050000000000000044
+        "basse": -0.01050000000000001,
+        "haute": -0.01050000000000001
       },
       {
         "annee": 2041,
         "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005100000000000021,
-        "haute": -0.005100000000000021
-      },
-      {
-        "annee": 2042,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.00520000000000001,
-        "haute": -0.00520000000000001
-      },
-      {
-        "annee": 2043,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005299999999999999,
-        "haute": -0.005299999999999999
-      },
-      {
-        "annee": 2044,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005400000000000002,
-        "haute": -0.005400000000000002
-      },
-      {
-        "annee": 2045,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005500000000000005,
-        "haute": -0.005500000000000005
-      },
-      {
-        "annee": 2046,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005600000000000008,
-        "haute": -0.005600000000000008
-      },
-      {
-        "annee": 2047,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.005700000000000011,
-        "haute": -0.005700000000000011
-      },
-      {
-        "annee": 2048,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0058,
-        "haute": -0.0058
-      },
-      {
-        "annee": 2049,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0059000000000000025,
-        "haute": -0.0059000000000000025
-      },
-      {
-        "annee": 2050,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006000000000000005,
-        "haute": -0.006000000000000005
-      },
-      {
-        "annee": 2051,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006099999999999994,
-        "haute": -0.006099999999999994
-      },
-      {
-        "annee": 2052,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006200000000000011,
-        "haute": -0.006200000000000011
-      },
-      {
-        "annee": 2053,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0063,
-        "haute": -0.0063
-      },
-      {
-        "annee": 2054,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006400000000000017,
-        "haute": -0.006400000000000017
-      },
-      {
-        "annee": 2055,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006500000000000006,
-        "haute": -0.006500000000000006
-      },
-      {
-        "annee": 2056,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006599999999999995,
-        "haute": -0.006599999999999995
-      },
-      {
-        "annee": 2057,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0067000000000000115,
-        "haute": -0.0067000000000000115
-      },
-      {
-        "annee": 2058,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0068000000000000005,
-        "haute": -0.0068000000000000005
-      },
-      {
-        "annee": 2059,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.006900000000000017,
-        "haute": -0.006900000000000017
-      },
-      {
-        "annee": 2060,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007000000000000006,
-        "haute": -0.007000000000000006
-      },
-      {
-        "annee": 2061,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007099999999999981,
-        "haute": -0.007099999999999981
-      },
-      {
-        "annee": 2062,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007199999999999998,
-        "haute": -0.007199999999999998
-      },
-      {
-        "annee": 2063,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007299999999999987,
-        "haute": -0.007299999999999987
-      },
-      {
-        "annee": 2064,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007400000000000004,
-        "haute": -0.007400000000000004
-      },
-      {
-        "annee": 2065,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007499999999999993,
-        "haute": -0.007499999999999993
-      },
-      {
-        "annee": 2066,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007599999999999982,
-        "haute": -0.007599999999999982
-      },
-      {
-        "annee": 2067,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0076999999999999985,
-        "haute": -0.0076999999999999985
-      },
-      {
-        "annee": 2068,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.0077999999999999875,
-        "haute": -0.0077999999999999875
-      },
-      {
-        "annee": 2069,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007900000000000004,
-        "haute": -0.007900000000000004
-      },
-      {
-        "annee": 2070,
-        "scenario": "Système actuel (Renaissance / Ensemble)",
-        "basse": -0.007999999999999993,
-        "haute": -0.007999999999999993
-      },
-      {
-        "annee": 2024,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2025,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
-      },
-      {
-        "annee": 2026,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
-      },
-      {
-        "annee": 2027,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
-      },
-      {
-        "annee": 2028,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0008833333333333193,
-        "haute": -0.0003533333333333166
-      },
-      {
-        "annee": 2029,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0011866666666666692
-      },
-      {
-        "annee": 2030,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0016500000000000126
-      },
-      {
-        "annee": 2031,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0018418750655963545,
-        "haute": -0.001590000000000008
-      },
-      {
-        "annee": 2032,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0016835572972714319,
-        "haute": -0.0015299999999999758
-      },
-      {
-        "annee": 2033,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0015252395289465648,
-        "haute": -0.0014700000000000268
-      },
-      {
-        "annee": 2034,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0014100000000000223,
-        "haute": -0.00136692176062167
-      },
-      {
-        "annee": 2035,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0012449999999999961,
-        "haute": -0.0010416909727637425
-      },
-      {
-        "annee": 2036,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0010799999999999976,
-        "haute": -0.000716460184905815
-      },
-      {
-        "annee": 2037,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0009149999999999714,
-        "haute": -0.00039122939704791526
-      },
-      {
-        "annee": 2038,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0008800000000000197,
-        "haute": -0.00026599860919004903
-      },
-      {
-        "annee": 2039,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0008450000000000124,
-        "haute": -0.00014076782133212729
-      },
-      {
-        "annee": 2040,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0008100000000000329,
-        "haute": -0.00001553703347420554
-      },
-      {
-        "annee": 2041,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0007750000000000257,
-        "haute": 0.00010904674220096888
-      },
-      {
-        "annee": 2042,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0007400000000000184,
-        "haute": 0.0002336305178761433
-      },
-      {
-        "annee": 2043,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0007050000000000112,
-        "haute": 0.00035821429355131773
-      },
-      {
-        "annee": 2044,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0007000000000000062,
-        "haute": 0.00042318627653609164
-      },
-      {
-        "annee": 2045,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006950000000000289,
-        "haute": 0.00048815825952092107
-      },
-      {
-        "annee": 2046,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006900000000000239,
-        "haute": 0.0005531302425057227
-      },
-      {
-        "annee": 2047,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006850000000000189,
-        "haute": 0.0006181022254905522
-      },
-      {
-        "annee": 2048,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006800000000000139,
-        "haute": 0.0006830742084753816
-      },
-      {
-        "annee": 2049,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006750000000000367,
-        "haute": 0.0007480461914601833
-      },
-      {
-        "annee": 2050,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006700000000000317,
-        "haute": 0.0008130181744450127
-      },
-      {
-        "annee": 2051,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006649999999999989,
-        "haute": 0.0008789606757039214
-      },
-      {
-        "annee": 2052,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006600000000000217,
-        "haute": 0.0009449031769628302
-      },
-      {
-        "annee": 2053,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006550000000000167,
-        "haute": 0.001010845678221739
-      },
-      {
-        "annee": 2054,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006500000000000394,
-        "haute": 0.0010767881794806478
-      },
-      {
-        "annee": 2055,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006450000000000067,
-        "haute": 0.0011427306807395843
-      },
-      {
-        "annee": 2056,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006400000000000017,
-        "haute": 0.001208673181998493
-      },
-      {
-        "annee": 2057,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006350000000000244,
-        "haute": 0.0012746156832574018
-      },
-      {
-        "annee": 2058,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006300000000000194,
-        "haute": 0.0013405581845163106
-      },
-      {
-        "annee": 2059,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006250000000000422,
-        "haute": 0.0014065006857752055
-      },
-      {
-        "annee": 2060,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006200000000000233,
-        "haute": 0.0014724431870341281
-      },
-      {
-        "annee": 2061,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006149999999999906,
-        "haute": 0.0015383856882930647
-      },
-      {
-        "annee": 2062,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006100000000000133,
-        "haute": 0.0016043281895519595
-      },
-      {
-        "annee": 2063,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006049999999999944,
-        "haute": 0.001670270690810896
-      },
-      {
-        "annee": 2064,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0006000000000000172,
-        "haute": 0.001736213192069791
-      },
-      {
-        "annee": 2065,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005950000000000122,
-        "haute": 0.0018021556933287136
-      },
-      {
-        "annee": 2066,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005899999999999933,
-        "haute": 0.0018680981945876363
-      },
-      {
-        "annee": 2067,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005850000000000161,
-        "haute": 0.0019340406958465173
-      },
-      {
-        "annee": 2068,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005799999999999972,
-        "haute": 0.001999983197105454
-      },
-      {
-        "annee": 2069,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005750000000000199,
-        "haute": 0.0020659256983643487
-      },
-      {
-        "annee": 2070,
-        "scenario": "Nouvelle Convergence",
-        "basse": -0.0005700000000000011,
-        "haute": 0.0021318681996232713
-      },
-      {
-        "annee": 2024,
-        "scenario": "Les Républicains",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2025,
-        "scenario": "Les Républicains",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
-      },
-      {
-        "annee": 2026,
-        "scenario": "Les Républicains",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
-      },
-      {
-        "annee": 2027,
-        "scenario": "Les Républicains",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
-      },
-      {
-        "annee": 2028,
-        "scenario": "Les Républicains",
-        "basse": -0.003203333333333336,
-        "haute": -0.0031333333333333213
-      },
-      {
-        "annee": 2029,
-        "scenario": "Les Républicains",
-        "basse": -0.003406666666666669,
-        "haute": -0.0032666666666666677
-      },
-      {
-        "annee": 2030,
-        "scenario": "Les Républicains",
-        "basse": -0.003610000000000002,
-        "haute": -0.003400000000000014
-      },
-      {
-        "annee": 2031,
-        "scenario": "Les Républicains",
-        "basse": -0.00358,
-        "haute": -0.0032999999999999974
-      },
-      {
-        "annee": 2032,
-        "scenario": "Les Républicains",
-        "basse": -0.00354999999999997,
-        "haute": -0.0031999999999999806
-      },
-      {
-        "annee": 2033,
-        "scenario": "Les Républicains",
-        "basse": -0.003520000000000023,
-        "haute": -0.0031000000000000194
-      },
-      {
-        "annee": 2034,
-        "scenario": "Les Républicains",
-        "basse": -0.003070000000000017,
-        "haute": -0.002579999999999999
-      },
-      {
-        "annee": 2035,
-        "scenario": "Les Républicains",
-        "basse": -0.0026199999999999835,
-        "haute": -0.0020600000000000063
-      },
-      {
-        "annee": 2036,
-        "scenario": "Les Républicains",
-        "basse": -0.0021699999999999775,
-        "haute": -0.0015399999999999858
-      },
-      {
-        "annee": 2037,
-        "scenario": "Les Républicains",
-        "basse": -0.0017199999999999993,
-        "haute": -0.0010199999999999931
-      },
-      {
-        "annee": 2038,
-        "scenario": "Les Républicains",
-        "basse": -0.00140000000000004,
-        "haute": -0.0007000000000000339
-      },
-      {
-        "annee": 2039,
-        "scenario": "Les Républicains",
-        "basse": -0.001500000000000029,
-        "haute": -0.0008000000000000229
-      },
-      {
-        "annee": 2040,
-        "scenario": "Les Républicains",
-        "basse": -0.001600000000000018,
-        "haute": -0.0009000000000000119
-      },
-      {
-        "annee": 2041,
-        "scenario": "Les Républicains",
-        "basse": -0.0017000000000000348,
-        "haute": -0.0010000000000000286
-      },
-      {
-        "annee": 2042,
-        "scenario": "Les Républicains",
-        "basse": -0.0018000000000000238,
-        "haute": -0.0011000000000000176
-      },
-      {
-        "annee": 2043,
-        "scenario": "Les Républicains",
-        "basse": -0.0019000000000000128,
-        "haute": -0.0012000000000000066
-      },
-      {
-        "annee": 2044,
-        "scenario": "Les Républicains",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0013000000000000234
-      },
-      {
-        "annee": 2045,
-        "scenario": "Les Républicains",
-        "basse": -0.0021000000000000185,
-        "haute": -0.0014000000000000123
-      },
-      {
-        "annee": 2046,
-        "scenario": "Les Républicains",
-        "basse": -0.0022000000000000214,
-        "haute": -0.001500000000000029
-      },
-      {
-        "annee": 2047,
-        "scenario": "Les Républicains",
-        "basse": -0.0023000000000000242,
-        "haute": -0.001600000000000018
-      },
-      {
-        "annee": 2048,
-        "scenario": "Les Républicains",
-        "basse": -0.0024000000000000132,
-        "haute": -0.001700000000000007
-      },
-      {
-        "annee": 2049,
-        "scenario": "Les Républicains",
-        "basse": -0.002500000000000016,
-        "haute": -0.00180000000000001
-      },
-      {
-        "annee": 2050,
-        "scenario": "Les Républicains",
-        "basse": -0.002600000000000019,
-        "haute": -0.0019000000000000128
-      },
-      {
-        "annee": 2051,
-        "scenario": "Les Républicains",
-        "basse": -0.002700000000000008,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2052,
-        "scenario": "Les Républicains",
-        "basse": -0.0028000000000000247,
-        "haute": -0.0021000000000000185
-      },
-      {
-        "annee": 2053,
-        "scenario": "Les Républicains",
-        "basse": -0.0029000000000000137,
-        "haute": -0.0022000000000000075
-      },
-      {
-        "annee": 2054,
-        "scenario": "Les Républicains",
-        "basse": -0.0030000000000000304,
-        "haute": -0.0023000000000000242
-      },
-      {
-        "annee": 2055,
-        "scenario": "Les Républicains",
-        "basse": -0.0031000000000000194,
-        "haute": -0.0024000000000000132
-      },
-      {
-        "annee": 2056,
-        "scenario": "Les Républicains",
-        "basse": -0.0031999999999999945,
-        "haute": -0.0024999999999999883
-      },
-      {
-        "annee": 2057,
-        "scenario": "Les Républicains",
-        "basse": -0.0033000000000000113,
-        "haute": -0.002600000000000005
-      },
-      {
-        "annee": 2058,
-        "scenario": "Les Républicains",
-        "basse": -0.0034000000000000002,
-        "haute": -0.002699999999999994
-      },
-      {
-        "annee": 2059,
-        "scenario": "Les Républicains",
-        "basse": -0.003500000000000017,
-        "haute": -0.002800000000000011
-      },
-      {
-        "annee": 2060,
-        "scenario": "Les Républicains",
-        "basse": -0.003600000000000006,
-        "haute": -0.0029
-      },
-      {
-        "annee": 2061,
-        "scenario": "Les Républicains",
-        "basse": -0.003699999999999981,
-        "haute": -0.002999999999999975
-      },
-      {
-        "annee": 2062,
-        "scenario": "Les Républicains",
-        "basse": -0.003799999999999998,
-        "haute": -0.0030999999999999917
-      },
-      {
-        "annee": 2063,
-        "scenario": "Les Républicains",
-        "basse": -0.003899999999999987,
-        "haute": -0.0031999999999999806
-      },
-      {
-        "annee": 2064,
-        "scenario": "Les Républicains",
-        "basse": -0.0040000000000000036,
-        "haute": -0.0032999999999999974
-      },
-      {
-        "annee": 2065,
-        "scenario": "Les Républicains",
-        "basse": -0.0040999999999999925,
-        "haute": -0.0033999999999999864
-      },
-      {
-        "annee": 2066,
-        "scenario": "Les Républicains",
-        "basse": -0.0041999999999999815,
-        "haute": -0.0034999999999999754
-      },
-      {
-        "annee": 2067,
-        "scenario": "Les Républicains",
-        "basse": -0.004299999999999998,
-        "haute": -0.003599999999999992
-      },
-      {
-        "annee": 2068,
-        "scenario": "Les Républicains",
-        "basse": -0.004399999999999987,
-        "haute": -0.003699999999999981
-      },
-      {
-        "annee": 2069,
-        "scenario": "Les Républicains",
-        "basse": -0.004500000000000004,
-        "haute": -0.003799999999999998
-      },
-      {
-        "annee": 2070,
-        "scenario": "Les Républicains",
-        "basse": -0.004599999999999993,
-        "haute": -0.003899999999999987
-      },
-      {
-        "annee": 2024,
-        "scenario": "Rassemblement national",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2025,
-        "scenario": "Rassemblement national",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
-      },
-      {
-        "annee": 2026,
-        "scenario": "Rassemblement national",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
-      },
-      {
-        "annee": 2027,
-        "scenario": "Rassemblement national",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
-      },
-      {
-        "annee": 2028,
-        "scenario": "Rassemblement national",
-        "basse": -0.003333333333333327,
-        "haute": -0.003333333333333327
-      },
-      {
-        "annee": 2029,
-        "scenario": "Rassemblement national",
-        "basse": -0.003666666666666679,
-        "haute": -0.003666666666666679
-      },
-      {
-        "annee": 2030,
-        "scenario": "Rassemblement national",
-        "basse": -0.0040000000000000036,
-        "haute": -0.0040000000000000036
-      },
-      {
-        "annee": 2031,
-        "scenario": "Rassemblement national",
-        "basse": -0.0040999999999999925,
-        "haute": -0.0040999999999999925
-      },
-      {
-        "annee": 2032,
-        "scenario": "Rassemblement national",
-        "basse": -0.0041999999999999815,
-        "haute": -0.0041999999999999815
-      },
-      {
-        "annee": 2033,
-        "scenario": "Rassemblement national",
-        "basse": -0.004300000000000026,
-        "haute": -0.004300000000000026
-      },
-      {
-        "annee": 2034,
-        "scenario": "Rassemblement national",
-        "basse": -0.0061500000000000166,
-        "haute": -0.0061500000000000166
-      },
-      {
-        "annee": 2035,
-        "scenario": "Rassemblement national",
-        "basse": -0.008000000000000007,
-        "haute": -0.008000000000000007
-      },
-      {
-        "annee": 2036,
-        "scenario": "Rassemblement national",
-        "basse": -0.009849999999999998,
-        "haute": -0.009849999999999998
-      },
-      {
-        "annee": 2037,
-        "scenario": "Rassemblement national",
-        "basse": -0.009949999999999987,
-        "haute": -0.009949999999999987
-      },
-      {
-        "annee": 2038,
-        "scenario": "Rassemblement national",
-        "basse": -0.010050000000000031,
-        "haute": -0.010050000000000031
-      },
-      {
-        "annee": 2039,
-        "scenario": "Rassemblement national",
-        "basse": -0.01015000000000002,
-        "haute": -0.01015000000000002
-      },
-      {
-        "annee": 2040,
-        "scenario": "Rassemblement national",
-        "basse": -0.010250000000000009,
-        "haute": -0.010250000000000009
-      },
-      {
-        "annee": 2041,
-        "scenario": "Rassemblement national",
-        "basse": -0.010350000000000026,
-        "haute": -0.010350000000000026
-      },
-      {
-        "annee": 2042,
-        "scenario": "Rassemblement national",
-        "basse": -0.010450000000000015,
-        "haute": -0.010450000000000015
-      },
-      {
-        "annee": 2043,
-        "scenario": "Rassemblement national",
-        "basse": -0.010550000000000004,
-        "haute": -0.010550000000000004
-      },
-      {
-        "annee": 2044,
-        "scenario": "Rassemblement national",
-        "basse": -0.010650000000000007,
-        "haute": -0.010650000000000007
-      },
-      {
-        "annee": 2045,
-        "scenario": "Rassemblement national",
-        "basse": -0.01075000000000001,
-        "haute": -0.01075000000000001
-      },
-      {
-        "annee": 2046,
-        "scenario": "Rassemblement national",
-        "basse": -0.010850000000000012,
-        "haute": -0.010850000000000012
-      },
-      {
-        "annee": 2047,
-        "scenario": "Rassemblement national",
         "basse": -0.010950000000000015,
         "haute": -0.010950000000000015
       },
       {
+        "annee": 2042,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.011399999999999993,
+        "haute": -0.011399999999999993
+      },
+      {
+        "annee": 2043,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.011850000000000027,
+        "haute": -0.011850000000000027
+      },
+      {
+        "annee": 2044,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01230000000000002,
+        "haute": -0.01230000000000002
+      },
+      {
+        "annee": 2045,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.012750000000000011,
+        "haute": -0.012750000000000011
+      },
+      {
+        "annee": 2046,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.013200000000000003,
+        "haute": -0.013200000000000003
+      },
+      {
+        "annee": 2047,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.013649999999999995,
+        "haute": -0.013649999999999995
+      },
+      {
         "annee": 2048,
-        "scenario": "Rassemblement national",
-        "basse": -0.011050000000000004,
-        "haute": -0.011050000000000004
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01410000000000003,
+        "haute": -0.01410000000000003
       },
       {
         "annee": 2049,
-        "scenario": "Rassemblement national",
-        "basse": -0.011150000000000007,
-        "haute": -0.011150000000000007
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.014550000000000021,
+        "haute": -0.014550000000000021
       },
       {
         "annee": 2050,
-        "scenario": "Rassemblement national",
-        "basse": -0.01125000000000001,
-        "haute": -0.01125000000000001
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.015000000000000013,
+        "haute": -0.015000000000000013
       },
       {
         "annee": 2051,
-        "scenario": "Rassemblement national",
-        "basse": -0.011349999999999999,
-        "haute": -0.011349999999999999
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.015425000000000022,
+        "haute": -0.015425000000000022
       },
       {
         "annee": 2052,
-        "scenario": "Rassemblement national",
-        "basse": -0.011450000000000016,
-        "haute": -0.011450000000000016
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.015850000000000003,
+        "haute": -0.015850000000000003
       },
       {
         "annee": 2053,
-        "scenario": "Rassemblement national",
-        "basse": -0.011550000000000005,
-        "haute": -0.011550000000000005
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01627500000000001,
+        "haute": -0.01627500000000001
       },
       {
         "annee": 2054,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01670000000000002,
+        "haute": -0.01670000000000002
+      },
+      {
+        "annee": 2055,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01712500000000003,
+        "haute": -0.01712500000000003
+      },
+      {
+        "annee": 2056,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01755000000000001,
+        "haute": -0.01755000000000001
+      },
+      {
+        "annee": 2057,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01797500000000002,
+        "haute": -0.01797500000000002
+      },
+      {
+        "annee": 2058,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.018400000000000027,
+        "haute": -0.018400000000000027
+      },
+      {
+        "annee": 2059,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.01882500000000001,
+        "haute": -0.01882500000000001
+      },
+      {
+        "annee": 2060,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.019250000000000017,
+        "haute": -0.019250000000000017
+      },
+      {
+        "annee": 2061,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.019675000000000012,
+        "haute": -0.019675000000000012
+      },
+      {
+        "annee": 2062,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.020099999999999993,
+        "haute": -0.020099999999999993
+      },
+      {
+        "annee": 2063,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.020525,
+        "haute": -0.020525
+      },
+      {
+        "annee": 2064,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.02095000000000001,
+        "haute": -0.02095000000000001
+      },
+      {
+        "annee": 2065,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.02137499999999999,
+        "haute": -0.02137499999999999
+      },
+      {
+        "annee": 2066,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.0218,
+        "haute": -0.0218
+      },
+      {
+        "annee": 2067,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.02222500000000001,
+        "haute": -0.02222500000000001
+      },
+      {
+        "annee": 2068,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.022650000000000017,
+        "haute": -0.022650000000000017
+      },
+      {
+        "annee": 2069,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.023075,
+        "haute": -0.023075
+      },
+      {
+        "annee": 2070,
+        "scenario": "Système actuel (Renaissance / Ensemble)",
+        "basse": -0.023500000000000007,
+        "haute": -0.023500000000000007
+      },
+      {
+        "annee": 2024,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.006335704999999997,
+        "haute": -0.005805908999999998
+      },
+      {
+        "annee": 2029,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.007583197297333311,
+        "haute": -0.006544396885333342
+      },
+      {
+        "annee": 2030,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.008093300117680002,
+        "haute": -0.0068662181826400215
+      },
+      {
+        "annee": 2031,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.007744629520614804,
+        "haute": -0.006619375819835405
+      },
+      {
+        "annee": 2032,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.007350617677479104,
+        "haute": -0.006327562538468612
+      },
+      {
+        "annee": 2033,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.006911978868254148,
+        "haute": -0.0059914588151472326
+      },
+      {
+        "annee": 2034,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.006429419389445856,
+        "haute": -0.0056117375780384005
+      },
+      {
+        "annee": 2035,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.005737646694089604,
+        "haute": -0.005085319947141842
+      },
+      {
+        "annee": 2036,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.005004330302701504,
+        "haute": -0.004518321497500505
+      },
+      {
+        "annee": 2037,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.004234880895517185,
+        "haute": -0.003919557010315683
+      },
+      {
+        "annee": 2038,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.003638085790149792,
+        "haute": -0.0034261572591058054
+      },
+      {
+        "annee": 2039,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.003022823466249519,
+        "haute": -0.0029153935984604917
+      },
+      {
+        "annee": 2040,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0023979779803933454,
+        "haute": -0.002394600938905589
+      },
+      {
+        "annee": 2041,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.002208297488759531,
+        "haute": -0.0021094589300506006
+      },
+      {
+        "annee": 2042,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0020153376861334338,
+        "haute": -0.0018175958129836023
+      },
+      {
+        "annee": 2043,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0018184080457217533,
+        "haute": -0.0015264406674265485
+      },
+      {
+        "annee": 2044,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0016485302637820054,
+        "haute": -0.0012939975713828211
+      },
+      {
+        "annee": 2045,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0014790682486073292,
+        "haute": -0.0010624473929057299
+      },
+      {
+        "annee": 2046,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0013100220001977247,
+        "haute": -0.0008317901319953303
+      },
+      {
+        "annee": 2047,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0011413915185531642,
+        "haute": -0.0006020257886515668
+      },
+      {
+        "annee": 2048,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0009731768036737309,
+        "haute": -0.00037315436287452264
+      },
+      {
+        "annee": 2049,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0008053778555593138,
+        "haute": -0.00014517585466411465
+      },
+      {
+        "annee": 2050,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0006379946742099407,
+        "haute": 0.00008190973597962947
+      },
+      {
+        "annee": 2051,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00043728191202788147,
+        "haute": 0.0003419023768055085
+      },
+      {
+        "annee": 2052,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00023603999214483196,
+        "haute": 0.0006019479873175526
+      },
+      {
+        "annee": 2053,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00008074011456082886,
+        "haute": 0.0008156253475157527
+      },
+      {
+        "annee": 2054,
+        "scenario": "Nouvelle Convergence",
+        "basse": 0.000029011270724160765,
+        "haute": 0.0009833915534001036
+      },
+      {
+        "annee": 2055,
+        "scenario": "Nouvelle Convergence",
+        "basse": 0.00009360401383018413,
+        "haute": 0.0011056991535726146
+      },
+      {
+        "annee": 2056,
+        "scenario": "Nouvelle Convergence",
+        "basse": 0.00011342429963978606,
+        "haute": 0.0011829961944756634
+      },
+      {
+        "annee": 2057,
+        "scenario": "Nouvelle Convergence",
+        "basse": 0.0000888546821178754,
+        "haute": 0.001215726265180267
+      },
+      {
+        "annee": 2058,
+        "scenario": "Nouvelle Convergence",
+        "basse": 0.000020274118311638945,
+        "haute": 0.0012043285417289579
+      },
+      {
+        "annee": 2059,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00009194199796662417,
+        "haute": 0.0011492378310374446
+      },
+      {
+        "annee": 2060,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00024742180277047277,
+        "haute": 0.0010508846143593986
+      },
+      {
+        "annee": 2061,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00044471083827121727,
+        "haute": 0.0009096950903192125
+      },
+      {
+        "annee": 2062,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0006754154791965145,
+        "haute": 0.0007305783898786666
+      },
+      {
+        "annee": 2063,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0009327216719019621,
+        "haute": 0.0005218302330581154
+      },
+      {
+        "annee": 2064,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0012095938172761028,
+        "haute": 0.0002919408587751804
+      },
+      {
+        "annee": 2065,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0014988489608399602,
+        "haute": 0.000049513261180134105
+      },
+      {
+        "annee": 2066,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.001798005611165332,
+        "haute": -0.00020154400355001933
+      },
+      {
+        "annee": 2067,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00210292262458614,
+        "haute": -0.0004572478758926857
+      },
+      {
+        "annee": 2068,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.002406690507721368,
+        "haute": -0.0007135857548157126
+      },
+      {
+        "annee": 2069,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.00270277063682961,
+        "haute": -0.0009699236337387118
+      },
+      {
+        "annee": 2070,
+        "scenario": "Nouvelle Convergence",
+        "basse": -0.0029847793795517025,
+        "haute": -0.0012262615126617388
+      },
+      {
+        "annee": 2024,
+        "scenario": "Les Républicains",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Les Républicains",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Les Républicains",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Les Républicains",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Les Républicains",
+        "basse": -0.00870333333333334,
+        "haute": -0.008633333333333326
+      },
+      {
+        "annee": 2029,
+        "scenario": "Les Républicains",
+        "basse": -0.008906666666666674,
+        "haute": -0.008766666666666673
+      },
+      {
+        "annee": 2030,
+        "scenario": "Les Républicains",
+        "basse": -0.009110000000000007,
+        "haute": -0.008900000000000019
+      },
+      {
+        "annee": 2031,
+        "scenario": "Les Républicains",
+        "basse": -0.009080000000000005,
+        "haute": -0.008800000000000002
+      },
+      {
+        "annee": 2032,
+        "scenario": "Les Républicains",
+        "basse": -0.009049999999999975,
+        "haute": -0.008699999999999986
+      },
+      {
+        "annee": 2033,
+        "scenario": "Les Républicains",
+        "basse": -0.009020000000000028,
+        "haute": -0.008600000000000024
+      },
+      {
+        "annee": 2034,
+        "scenario": "Les Républicains",
+        "basse": -0.008570000000000022,
+        "haute": -0.008080000000000004
+      },
+      {
+        "annee": 2035,
+        "scenario": "Les Républicains",
+        "basse": -0.008119999999999988,
+        "haute": -0.007560000000000011
+      },
+      {
+        "annee": 2036,
+        "scenario": "Les Républicains",
+        "basse": -0.007669999999999982,
+        "haute": -0.007039999999999991
+      },
+      {
+        "annee": 2037,
+        "scenario": "Les Républicains",
+        "basse": -0.007220000000000004,
+        "haute": -0.006519999999999998
+      },
+      {
+        "annee": 2038,
+        "scenario": "Les Républicains",
+        "basse": -0.006900000000000045,
+        "haute": -0.006200000000000039
+      },
+      {
+        "annee": 2039,
+        "scenario": "Les Républicains",
+        "basse": -0.007000000000000034,
+        "haute": -0.006300000000000028
+      },
+      {
+        "annee": 2040,
+        "scenario": "Les Républicains",
+        "basse": -0.007100000000000023,
+        "haute": -0.006400000000000017
+      },
+      {
+        "annee": 2041,
+        "scenario": "Les Républicains",
+        "basse": -0.007550000000000029,
+        "haute": -0.006850000000000023
+      },
+      {
+        "annee": 2042,
+        "scenario": "Les Républicains",
+        "basse": -0.008000000000000007,
+        "haute": -0.007300000000000001
+      },
+      {
+        "annee": 2043,
+        "scenario": "Les Républicains",
+        "basse": -0.00845000000000004,
+        "haute": -0.007750000000000035
+      },
+      {
+        "annee": 2044,
+        "scenario": "Les Républicains",
+        "basse": -0.008900000000000019,
+        "haute": -0.00820000000000004
+      },
+      {
+        "annee": 2045,
+        "scenario": "Les Républicains",
+        "basse": -0.009350000000000025,
+        "haute": -0.008650000000000019
+      },
+      {
+        "annee": 2046,
+        "scenario": "Les Républicains",
+        "basse": -0.009800000000000017,
+        "haute": -0.009100000000000025
+      },
+      {
+        "annee": 2047,
+        "scenario": "Les Républicains",
+        "basse": -0.010250000000000009,
+        "haute": -0.009550000000000003
+      },
+      {
+        "annee": 2048,
+        "scenario": "Les Républicains",
+        "basse": -0.010700000000000043,
+        "haute": -0.010000000000000037
+      },
+      {
+        "annee": 2049,
+        "scenario": "Les Républicains",
+        "basse": -0.011150000000000035,
+        "haute": -0.010450000000000029
+      },
+      {
+        "annee": 2050,
+        "scenario": "Les Républicains",
+        "basse": -0.011600000000000027,
+        "haute": -0.01090000000000002
+      },
+      {
+        "annee": 2051,
+        "scenario": "Les Républicains",
+        "basse": -0.012025000000000036,
+        "haute": -0.01132500000000003
+      },
+      {
+        "annee": 2052,
+        "scenario": "Les Républicains",
+        "basse": -0.012450000000000017,
+        "haute": -0.01175000000000001
+      },
+      {
+        "annee": 2053,
+        "scenario": "Les Républicains",
+        "basse": -0.012875000000000025,
+        "haute": -0.01217500000000002
+      },
+      {
+        "annee": 2054,
+        "scenario": "Les Républicains",
+        "basse": -0.013300000000000034,
+        "haute": -0.012600000000000028
+      },
+      {
+        "annee": 2055,
+        "scenario": "Les Républicains",
+        "basse": -0.013725000000000043,
+        "haute": -0.013025000000000037
+      },
+      {
+        "annee": 2056,
+        "scenario": "Les Républicains",
+        "basse": -0.014150000000000024,
+        "haute": -0.013450000000000017
+      },
+      {
+        "annee": 2057,
+        "scenario": "Les Républicains",
+        "basse": -0.014575000000000032,
+        "haute": -0.013875000000000026
+      },
+      {
+        "annee": 2058,
+        "scenario": "Les Républicains",
+        "basse": -0.015000000000000041,
+        "haute": -0.014300000000000035
+      },
+      {
+        "annee": 2059,
+        "scenario": "Les Républicains",
+        "basse": -0.015425000000000022,
+        "haute": -0.014725000000000016
+      },
+      {
+        "annee": 2060,
+        "scenario": "Les Républicains",
+        "basse": -0.01585000000000003,
+        "haute": -0.015150000000000025
+      },
+      {
+        "annee": 2061,
+        "scenario": "Les Républicains",
+        "basse": -0.016275000000000026,
+        "haute": -0.01557500000000002
+      },
+      {
+        "annee": 2062,
+        "scenario": "Les Républicains",
+        "basse": -0.016700000000000007,
+        "haute": -0.016
+      },
+      {
+        "annee": 2063,
+        "scenario": "Les Républicains",
+        "basse": -0.017125000000000015,
+        "haute": -0.01642500000000001
+      },
+      {
+        "annee": 2064,
+        "scenario": "Les Républicains",
+        "basse": -0.017550000000000024,
+        "haute": -0.016850000000000018
+      },
+      {
+        "annee": 2065,
+        "scenario": "Les Républicains",
+        "basse": -0.017975000000000005,
+        "haute": -0.017275
+      },
+      {
+        "annee": 2066,
+        "scenario": "Les Républicains",
+        "basse": -0.018400000000000014,
+        "haute": -0.017700000000000007
+      },
+      {
+        "annee": 2067,
+        "scenario": "Les Républicains",
+        "basse": -0.018825000000000022,
+        "haute": -0.018125000000000016
+      },
+      {
+        "annee": 2068,
+        "scenario": "Les Républicains",
+        "basse": -0.01925000000000003,
+        "haute": -0.018550000000000025
+      },
+      {
+        "annee": 2069,
+        "scenario": "Les Républicains",
+        "basse": -0.019675000000000012,
+        "haute": -0.018975000000000006
+      },
+      {
+        "annee": 2070,
+        "scenario": "Les Républicains",
+        "basse": -0.02010000000000002,
+        "haute": -0.019400000000000014
+      },
+      {
+        "annee": 2024,
+        "scenario": "Rassemblement national",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Rassemblement national",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Rassemblement national",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Rassemblement national",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Rassemblement national",
+        "basse": -0.008833333333333332,
+        "haute": -0.008833333333333332
+      },
+      {
+        "annee": 2029,
+        "scenario": "Rassemblement national",
+        "basse": -0.009166666666666684,
+        "haute": -0.009166666666666684
+      },
+      {
+        "annee": 2030,
+        "scenario": "Rassemblement national",
+        "basse": -0.009500000000000008,
+        "haute": -0.009500000000000008
+      },
+      {
+        "annee": 2031,
+        "scenario": "Rassemblement national",
+        "basse": -0.009599999999999997,
+        "haute": -0.009599999999999997
+      },
+      {
+        "annee": 2032,
+        "scenario": "Rassemblement national",
+        "basse": -0.009699999999999986,
+        "haute": -0.009699999999999986
+      },
+      {
+        "annee": 2033,
+        "scenario": "Rassemblement national",
+        "basse": -0.009800000000000031,
+        "haute": -0.009800000000000031
+      },
+      {
+        "annee": 2034,
         "scenario": "Rassemblement national",
         "basse": -0.011650000000000021,
         "haute": -0.011650000000000021
       },
       {
-        "annee": 2055,
-        "scenario": "Rassemblement national",
-        "basse": -0.01175000000000001,
-        "haute": -0.01175000000000001
-      },
-      {
-        "annee": 2056,
-        "scenario": "Rassemblement national",
-        "basse": -0.01185,
-        "haute": -0.01185
-      },
-      {
-        "annee": 2057,
-        "scenario": "Rassemblement national",
-        "basse": -0.011950000000000016,
-        "haute": -0.011950000000000016
-      },
-      {
-        "annee": 2058,
-        "scenario": "Rassemblement national",
-        "basse": -0.012050000000000005,
-        "haute": -0.012050000000000005
-      },
-      {
-        "annee": 2059,
-        "scenario": "Rassemblement national",
-        "basse": -0.012150000000000022,
-        "haute": -0.012150000000000022
-      },
-      {
-        "annee": 2060,
-        "scenario": "Rassemblement national",
-        "basse": -0.012250000000000011,
-        "haute": -0.012250000000000011
-      },
-      {
-        "annee": 2061,
-        "scenario": "Rassemblement national",
-        "basse": -0.012349999999999986,
-        "haute": -0.012349999999999986
-      },
-      {
-        "annee": 2062,
-        "scenario": "Rassemblement national",
-        "basse": -0.012450000000000003,
-        "haute": -0.012450000000000003
-      },
-      {
-        "annee": 2063,
-        "scenario": "Rassemblement national",
-        "basse": -0.012549999999999992,
-        "haute": -0.012549999999999992
-      },
-      {
-        "annee": 2064,
-        "scenario": "Rassemblement national",
-        "basse": -0.012650000000000008,
-        "haute": -0.012650000000000008
-      },
-      {
-        "annee": 2065,
-        "scenario": "Rassemblement national",
-        "basse": -0.012749999999999997,
-        "haute": -0.012749999999999997
-      },
-      {
-        "annee": 2066,
-        "scenario": "Rassemblement national",
-        "basse": -0.012849999999999986,
-        "haute": -0.012849999999999986
-      },
-      {
-        "annee": 2067,
-        "scenario": "Rassemblement national",
-        "basse": -0.012950000000000003,
-        "haute": -0.012950000000000003
-      },
-      {
-        "annee": 2068,
-        "scenario": "Rassemblement national",
-        "basse": -0.013049999999999992,
-        "haute": -0.013049999999999992
-      },
-      {
-        "annee": 2069,
-        "scenario": "Rassemblement national",
-        "basse": -0.013150000000000009,
-        "haute": -0.013150000000000009
-      },
-      {
-        "annee": 2070,
-        "scenario": "Rassemblement national",
-        "basse": -0.013249999999999998,
-        "haute": -0.013249999999999998
-      },
-      {
-        "annee": 2024,
-        "scenario": "Les Patriotes",
-        "basse": -0.0020000000000000018,
-        "haute": -0.0020000000000000018
-      },
-      {
-        "annee": 2025,
-        "scenario": "Les Patriotes",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
-      },
-      {
-        "annee": 2026,
-        "scenario": "Les Patriotes",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
-      },
-      {
-        "annee": 2027,
-        "scenario": "Les Patriotes",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
-      },
-      {
-        "annee": 2028,
-        "scenario": "Les Patriotes",
-        "basse": -0.003333333333333327,
-        "haute": -0.003333333333333327
-      },
-      {
-        "annee": 2029,
-        "scenario": "Les Patriotes",
-        "basse": -0.003666666666666679,
-        "haute": -0.003666666666666679
-      },
-      {
-        "annee": 2030,
-        "scenario": "Les Patriotes",
-        "basse": -0.0040000000000000036,
-        "haute": -0.0040000000000000036
-      },
-      {
-        "annee": 2031,
-        "scenario": "Les Patriotes",
-        "basse": -0.0040999999999999925,
-        "haute": -0.0040999999999999925
-      },
-      {
-        "annee": 2032,
-        "scenario": "Les Patriotes",
-        "basse": -0.0041999999999999815,
-        "haute": -0.0041999999999999815
-      },
-      {
-        "annee": 2033,
-        "scenario": "Les Patriotes",
-        "basse": -0.004300000000000026,
-        "haute": -0.004300000000000026
-      },
-      {
-        "annee": 2034,
-        "scenario": "Les Patriotes",
-        "basse": -0.007200000000000012,
-        "haute": -0.007200000000000012
-      },
-      {
         "annee": 2035,
-        "scenario": "Les Patriotes",
-        "basse": -0.010099999999999998,
-        "haute": -0.010099999999999998
-      },
-      {
-        "annee": 2036,
-        "scenario": "Les Patriotes",
-        "basse": -0.012999999999999984,
-        "haute": -0.012999999999999984
-      },
-      {
-        "annee": 2037,
-        "scenario": "Les Patriotes",
-        "basse": -0.013099999999999973,
-        "haute": -0.013099999999999973
-      },
-      {
-        "annee": 2038,
-        "scenario": "Les Patriotes",
-        "basse": -0.013200000000000017,
-        "haute": -0.013200000000000017
-      },
-      {
-        "annee": 2039,
-        "scenario": "Les Patriotes",
-        "basse": -0.013300000000000006,
-        "haute": -0.013300000000000006
-      },
-      {
-        "annee": 2040,
-        "scenario": "Les Patriotes",
-        "basse": -0.013399999999999995,
-        "haute": -0.013399999999999995
-      },
-      {
-        "annee": 2041,
-        "scenario": "Les Patriotes",
+        "scenario": "Rassemblement national",
         "basse": -0.013500000000000012,
         "haute": -0.013500000000000012
       },
       {
+        "annee": 2036,
+        "scenario": "Rassemblement national",
+        "basse": -0.015350000000000003,
+        "haute": -0.015350000000000003
+      },
+      {
+        "annee": 2037,
+        "scenario": "Rassemblement national",
+        "basse": -0.015449999999999992,
+        "haute": -0.015449999999999992
+      },
+      {
+        "annee": 2038,
+        "scenario": "Rassemblement national",
+        "basse": -0.015550000000000036,
+        "haute": -0.015550000000000036
+      },
+      {
+        "annee": 2039,
+        "scenario": "Rassemblement national",
+        "basse": -0.015650000000000025,
+        "haute": -0.015650000000000025
+      },
+      {
+        "annee": 2040,
+        "scenario": "Rassemblement national",
+        "basse": -0.015750000000000014,
+        "haute": -0.015750000000000014
+      },
+      {
+        "annee": 2041,
+        "scenario": "Rassemblement national",
+        "basse": -0.01620000000000002,
+        "haute": -0.01620000000000002
+      },
+      {
+        "annee": 2042,
+        "scenario": "Rassemblement national",
+        "basse": -0.016649999999999998,
+        "haute": -0.016649999999999998
+      },
+      {
+        "annee": 2043,
+        "scenario": "Rassemblement national",
+        "basse": -0.017100000000000032,
+        "haute": -0.017100000000000032
+      },
+      {
+        "annee": 2044,
+        "scenario": "Rassemblement national",
+        "basse": -0.017550000000000024,
+        "haute": -0.017550000000000024
+      },
+      {
+        "annee": 2045,
+        "scenario": "Rassemblement national",
+        "basse": -0.018000000000000016,
+        "haute": -0.018000000000000016
+      },
+      {
+        "annee": 2046,
+        "scenario": "Rassemblement national",
+        "basse": -0.018450000000000008,
+        "haute": -0.018450000000000008
+      },
+      {
+        "annee": 2047,
+        "scenario": "Rassemblement national",
+        "basse": -0.0189,
+        "haute": -0.0189
+      },
+      {
+        "annee": 2048,
+        "scenario": "Rassemblement national",
+        "basse": -0.019350000000000034,
+        "haute": -0.019350000000000034
+      },
+      {
+        "annee": 2049,
+        "scenario": "Rassemblement national",
+        "basse": -0.019800000000000026,
+        "haute": -0.019800000000000026
+      },
+      {
+        "annee": 2050,
+        "scenario": "Rassemblement national",
+        "basse": -0.020250000000000018,
+        "haute": -0.020250000000000018
+      },
+      {
+        "annee": 2051,
+        "scenario": "Rassemblement national",
+        "basse": -0.020675000000000027,
+        "haute": -0.020675000000000027
+      },
+      {
+        "annee": 2052,
+        "scenario": "Rassemblement national",
+        "basse": -0.021100000000000008,
+        "haute": -0.021100000000000008
+      },
+      {
+        "annee": 2053,
+        "scenario": "Rassemblement national",
+        "basse": -0.021525000000000016,
+        "haute": -0.021525000000000016
+      },
+      {
+        "annee": 2054,
+        "scenario": "Rassemblement national",
+        "basse": -0.021950000000000025,
+        "haute": -0.021950000000000025
+      },
+      {
+        "annee": 2055,
+        "scenario": "Rassemblement national",
+        "basse": -0.022375000000000034,
+        "haute": -0.022375000000000034
+      },
+      {
+        "annee": 2056,
+        "scenario": "Rassemblement national",
+        "basse": -0.022800000000000015,
+        "haute": -0.022800000000000015
+      },
+      {
+        "annee": 2057,
+        "scenario": "Rassemblement national",
+        "basse": -0.023225000000000023,
+        "haute": -0.023225000000000023
+      },
+      {
+        "annee": 2058,
+        "scenario": "Rassemblement national",
+        "basse": -0.023650000000000032,
+        "haute": -0.023650000000000032
+      },
+      {
+        "annee": 2059,
+        "scenario": "Rassemblement national",
+        "basse": -0.024075000000000013,
+        "haute": -0.024075000000000013
+      },
+      {
+        "annee": 2060,
+        "scenario": "Rassemblement national",
+        "basse": -0.024500000000000022,
+        "haute": -0.024500000000000022
+      },
+      {
+        "annee": 2061,
+        "scenario": "Rassemblement national",
+        "basse": -0.024925000000000017,
+        "haute": -0.024925000000000017
+      },
+      {
+        "annee": 2062,
+        "scenario": "Rassemblement national",
+        "basse": -0.025349999999999998,
+        "haute": -0.025349999999999998
+      },
+      {
+        "annee": 2063,
+        "scenario": "Rassemblement national",
+        "basse": -0.025775000000000006,
+        "haute": -0.025775000000000006
+      },
+      {
+        "annee": 2064,
+        "scenario": "Rassemblement national",
+        "basse": -0.026200000000000015,
+        "haute": -0.026200000000000015
+      },
+      {
+        "annee": 2065,
+        "scenario": "Rassemblement national",
+        "basse": -0.026624999999999996,
+        "haute": -0.026624999999999996
+      },
+      {
+        "annee": 2066,
+        "scenario": "Rassemblement national",
+        "basse": -0.027050000000000005,
+        "haute": -0.027050000000000005
+      },
+      {
+        "annee": 2067,
+        "scenario": "Rassemblement national",
+        "basse": -0.027475000000000013,
+        "haute": -0.027475000000000013
+      },
+      {
+        "annee": 2068,
+        "scenario": "Rassemblement national",
+        "basse": -0.027900000000000022,
+        "haute": -0.027900000000000022
+      },
+      {
+        "annee": 2069,
+        "scenario": "Rassemblement national",
+        "basse": -0.028325000000000003,
+        "haute": -0.028325000000000003
+      },
+      {
+        "annee": 2070,
+        "scenario": "Rassemblement national",
+        "basse": -0.02875000000000001,
+        "haute": -0.02875000000000001
+      },
+      {
+        "annee": 2024,
+        "scenario": "Les Patriotes",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Les Patriotes",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Les Patriotes",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Les Patriotes",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Les Patriotes",
+        "basse": -0.008833333333333332,
+        "haute": -0.008833333333333332
+      },
+      {
+        "annee": 2029,
+        "scenario": "Les Patriotes",
+        "basse": -0.009166666666666684,
+        "haute": -0.009166666666666684
+      },
+      {
+        "annee": 2030,
+        "scenario": "Les Patriotes",
+        "basse": -0.009500000000000008,
+        "haute": -0.009500000000000008
+      },
+      {
+        "annee": 2031,
+        "scenario": "Les Patriotes",
+        "basse": -0.009599999999999997,
+        "haute": -0.009599999999999997
+      },
+      {
+        "annee": 2032,
+        "scenario": "Les Patriotes",
+        "basse": -0.009699999999999986,
+        "haute": -0.009699999999999986
+      },
+      {
+        "annee": 2033,
+        "scenario": "Les Patriotes",
+        "basse": -0.009800000000000031,
+        "haute": -0.009800000000000031
+      },
+      {
+        "annee": 2034,
+        "scenario": "Les Patriotes",
+        "basse": -0.012700000000000017,
+        "haute": -0.012700000000000017
+      },
+      {
+        "annee": 2035,
+        "scenario": "Les Patriotes",
+        "basse": -0.015600000000000003,
+        "haute": -0.015600000000000003
+      },
+      {
+        "annee": 2036,
+        "scenario": "Les Patriotes",
+        "basse": -0.01849999999999999,
+        "haute": -0.01849999999999999
+      },
+      {
+        "annee": 2037,
+        "scenario": "Les Patriotes",
+        "basse": -0.018599999999999978,
+        "haute": -0.018599999999999978
+      },
+      {
+        "annee": 2038,
+        "scenario": "Les Patriotes",
+        "basse": -0.018700000000000022,
+        "haute": -0.018700000000000022
+      },
+      {
+        "annee": 2039,
+        "scenario": "Les Patriotes",
+        "basse": -0.01880000000000001,
+        "haute": -0.01880000000000001
+      },
+      {
+        "annee": 2040,
+        "scenario": "Les Patriotes",
+        "basse": -0.0189,
+        "haute": -0.0189
+      },
+      {
+        "annee": 2041,
+        "scenario": "Les Patriotes",
+        "basse": -0.019350000000000006,
+        "haute": -0.019350000000000006
+      },
+      {
         "annee": 2042,
         "scenario": "Les Patriotes",
-        "basse": -0.013600000000000001,
-        "haute": -0.013600000000000001
+        "basse": -0.019799999999999984,
+        "haute": -0.019799999999999984
       },
       {
         "annee": 2043,
         "scenario": "Les Patriotes",
-        "basse": -0.01369999999999999,
-        "haute": -0.01369999999999999
+        "basse": -0.020250000000000018,
+        "haute": -0.020250000000000018
       },
       {
         "annee": 2044,
         "scenario": "Les Patriotes",
-        "basse": -0.013799999999999993,
-        "haute": -0.013799999999999993
+        "basse": -0.02070000000000001,
+        "haute": -0.02070000000000001
       },
       {
         "annee": 2045,
         "scenario": "Les Patriotes",
-        "basse": -0.013899999999999996,
-        "haute": -0.013899999999999996
+        "basse": -0.021150000000000002,
+        "haute": -0.021150000000000002
       },
       {
         "annee": 2046,
         "scenario": "Les Patriotes",
-        "basse": -0.013999999999999999,
-        "haute": -0.013999999999999999
+        "basse": -0.021599999999999994,
+        "haute": -0.021599999999999994
       },
       {
         "annee": 2047,
         "scenario": "Les Patriotes",
-        "basse": -0.014100000000000001,
-        "haute": -0.014100000000000001
+        "basse": -0.022049999999999986,
+        "haute": -0.022049999999999986
       },
       {
         "annee": 2048,
         "scenario": "Les Patriotes",
-        "basse": -0.01419999999999999,
-        "haute": -0.01419999999999999
+        "basse": -0.02250000000000002,
+        "haute": -0.02250000000000002
       },
       {
         "annee": 2049,
         "scenario": "Les Patriotes",
-        "basse": -0.014299999999999993,
-        "haute": -0.014299999999999993
+        "basse": -0.022950000000000012,
+        "haute": -0.022950000000000012
       },
       {
         "annee": 2050,
         "scenario": "Les Patriotes",
-        "basse": -0.014399999999999996,
-        "haute": -0.014399999999999996
+        "basse": -0.023400000000000004,
+        "haute": -0.023400000000000004
       },
       {
         "annee": 2051,
         "scenario": "Les Patriotes",
-        "basse": -0.014499999999999985,
-        "haute": -0.014499999999999985
+        "basse": -0.023825000000000013,
+        "haute": -0.023825000000000013
       },
       {
         "annee": 2052,
         "scenario": "Les Patriotes",
-        "basse": -0.014600000000000002,
-        "haute": -0.014600000000000002
+        "basse": -0.024249999999999994,
+        "haute": -0.024249999999999994
       },
       {
         "annee": 2053,
         "scenario": "Les Patriotes",
-        "basse": -0.01469999999999999,
-        "haute": -0.01469999999999999
+        "basse": -0.024675000000000002,
+        "haute": -0.024675000000000002
       },
       {
         "annee": 2054,
         "scenario": "Les Patriotes",
-        "basse": -0.014800000000000008,
-        "haute": -0.014800000000000008
+        "basse": -0.02510000000000001,
+        "haute": -0.02510000000000001
       },
       {
         "annee": 2055,
         "scenario": "Les Patriotes",
-        "basse": -0.014899999999999997,
-        "haute": -0.014899999999999997
+        "basse": -0.02552500000000002,
+        "haute": -0.02552500000000002
       },
       {
         "annee": 2056,
         "scenario": "Les Patriotes",
-        "basse": -0.014999999999999986,
-        "haute": -0.014999999999999986
+        "basse": -0.02595,
+        "haute": -0.02595
       },
       {
         "annee": 2057,
         "scenario": "Les Patriotes",
-        "basse": -0.015100000000000002,
-        "haute": -0.015100000000000002
+        "basse": -0.02637500000000001,
+        "haute": -0.02637500000000001
       },
       {
         "annee": 2058,
         "scenario": "Les Patriotes",
-        "basse": -0.015199999999999991,
-        "haute": -0.015199999999999991
+        "basse": -0.026800000000000018,
+        "haute": -0.026800000000000018
       },
       {
         "annee": 2059,
         "scenario": "Les Patriotes",
-        "basse": -0.015300000000000008,
-        "haute": -0.015300000000000008
+        "basse": -0.027225,
+        "haute": -0.027225
       },
       {
         "annee": 2060,
         "scenario": "Les Patriotes",
-        "basse": -0.015399999999999997,
-        "haute": -0.015399999999999997
+        "basse": -0.027650000000000008,
+        "haute": -0.027650000000000008
       },
       {
         "annee": 2061,
         "scenario": "Les Patriotes",
-        "basse": -0.015499999999999972,
-        "haute": -0.015499999999999972
+        "basse": -0.028075000000000003,
+        "haute": -0.028075000000000003
       },
       {
         "annee": 2062,
         "scenario": "Les Patriotes",
-        "basse": -0.015599999999999989,
-        "haute": -0.015599999999999989
+        "basse": -0.028499999999999984,
+        "haute": -0.028499999999999984
       },
       {
         "annee": 2063,
         "scenario": "Les Patriotes",
-        "basse": -0.015699999999999978,
-        "haute": -0.015699999999999978
+        "basse": -0.028924999999999992,
+        "haute": -0.028924999999999992
       },
       {
         "annee": 2064,
         "scenario": "Les Patriotes",
-        "basse": -0.015799999999999995,
-        "haute": -0.015799999999999995
+        "basse": -0.02935,
+        "haute": -0.02935
       },
       {
         "annee": 2065,
         "scenario": "Les Patriotes",
-        "basse": -0.015899999999999984,
-        "haute": -0.015899999999999984
+        "basse": -0.029774999999999982,
+        "haute": -0.029774999999999982
       },
       {
         "annee": 2066,
         "scenario": "Les Patriotes",
-        "basse": -0.015999999999999973,
-        "haute": -0.015999999999999973
+        "basse": -0.03019999999999999,
+        "haute": -0.03019999999999999
       },
       {
         "annee": 2067,
         "scenario": "Les Patriotes",
-        "basse": -0.01609999999999999,
-        "haute": -0.01609999999999999
+        "basse": -0.030625,
+        "haute": -0.030625
       },
       {
         "annee": 2068,
         "scenario": "Les Patriotes",
-        "basse": -0.01619999999999998,
-        "haute": -0.01619999999999998
+        "basse": -0.031050000000000008,
+        "haute": -0.031050000000000008
       },
       {
         "annee": 2069,
         "scenario": "Les Patriotes",
-        "basse": -0.016299999999999995,
-        "haute": -0.016299999999999995
+        "basse": -0.03147499999999999,
+        "haute": -0.03147499999999999
       },
       {
         "annee": 2070,
         "scenario": "Les Patriotes",
-        "basse": -0.016399999999999984,
-        "haute": -0.016399999999999984
+        "basse": -0.0319,
+        "haute": -0.0319
       },
       {
         "annee": 2024,
@@ -1454,278 +1454,278 @@
       {
         "annee": 2025,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.002333333333333326,
-        "haute": -0.002333333333333326
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
       },
       {
         "annee": 2026,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.0026666666666666783,
-        "haute": -0.0026666666666666783
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
       },
       {
         "annee": 2027,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.0030000000000000027,
-        "haute": -0.0030000000000000027
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
       },
       {
         "annee": 2028,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.003973333333333329,
-        "haute": -0.0037599999999999856
+        "basse": -0.009499733333333343,
+        "haute": -0.009277599999999997
       },
       {
         "annee": 2029,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.004945066666666692,
-        "haute": -0.004518933333333336
+        "basse": -0.010497866666666689,
+        "haute": -0.010054133333333354
       },
       {
         "annee": 2030,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.005915200000000009,
-        "haute": -0.005276799999999998
+        "basse": -0.011494400000000016,
+        "haute": -0.010829599999999995
       },
       {
         "annee": 2031,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.0066497600000000046,
-        "haute": -0.0057998400000000006
+        "basse": -0.012255359999999993,
+        "haute": -0.011370240000000004
       },
       {
         "annee": 2032,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.007382399999999983,
-        "haute": -0.006321599999999983
+        "basse": -0.013014399999999982,
+        "haute": -0.011909599999999992
       },
       {
         "annee": 2033,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.00811312000000003,
-        "haute": -0.006842080000000028
+        "basse": -0.013771520000000037,
+        "haute": -0.012447680000000044
       },
       {
         "annee": 2034,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.010941919999999994,
-        "haute": -0.009461280000000016
+        "basse": -0.01662672000000001,
+        "haute": -0.015084480000000011
       },
       {
         "annee": 2035,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.013768800000000025,
-        "haute": -0.012079200000000012
+        "basse": -0.019480000000000025,
+        "haute": -0.017720000000000014
       },
       {
         "annee": 2036,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.014493759999999994,
-        "haute": -0.012595839999999997
+        "basse": -0.020231360000000004,
+        "haute": -0.018254240000000005
       },
       {
         "annee": 2037,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.015216800000000003,
-        "haute": -0.01311119999999999
+        "basse": -0.020980799999999994,
+        "haute": -0.018787200000000004
       },
       {
         "annee": 2038,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.015937920000000022,
-        "haute": -0.013625280000000045
+        "basse": -0.02172832000000005,
+        "haute": -0.019318880000000038
       },
       {
         "annee": 2039,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.016657120000000025,
-        "haute": -0.014138080000000025
+        "basse": -0.022473920000000036,
+        "haute": -0.019849280000000025
       },
       {
         "annee": 2040,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.017374400000000012,
-        "haute": -0.014649600000000013
+        "basse": -0.023217600000000033,
+        "haute": -0.02037840000000002
       },
       {
         "annee": 2041,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.018083040000000022,
-        "haute": -0.015155360000000034
+        "basse": -0.024326160000000013,
+        "haute": -0.021267440000000026
       },
       {
         "annee": 2042,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.018788800000000022,
-        "haute": -0.015659200000000012
+        "basse": -0.02543519999999999,
+        "haute": -0.022156800000000004
       },
       {
         "annee": 2043,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.01949168000000001,
-        "haute": -0.01616112
+        "basse": -0.02654472000000005,
+        "haute": -0.023046480000000036
       },
       {
         "annee": 2044,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.020191680000000004,
-        "haute": -0.016661120000000015
+        "basse": -0.027654720000000035,
+        "haute": -0.023936480000000024
       },
       {
         "annee": 2045,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.020888800000000013,
-        "haute": -0.017159200000000013
+        "basse": -0.02876520000000002,
+        "haute": -0.02482680000000001
       },
       {
         "annee": 2046,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02158304000000001,
-        "haute": -0.017655360000000023
+        "basse": -0.02987616,
+        "haute": -0.025717440000000022
       },
       {
         "annee": 2047,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.022274400000000028,
-        "haute": -0.018149600000000016
+        "basse": -0.030987600000000004,
+        "haute": -0.026608400000000004
       },
       {
         "annee": 2048,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02296288000000002,
-        "haute": -0.018641920000000006
+        "basse": -0.03209952000000005,
+        "haute": -0.027499680000000026
       },
       {
         "annee": 2049,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.023648480000000013,
-        "haute": -0.019132320000000022
+        "basse": -0.03321192000000002,
+        "haute": -0.028391280000000033
       },
       {
         "annee": 2050,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.024331200000000025,
-        "haute": -0.01962080000000002
+        "basse": -0.034324800000000016,
+        "haute": -0.029283200000000037
       },
       {
         "annee": 2051,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.025028319999999993,
-        "haute": -0.020118880000000006
+        "basse": -0.035427560000000025,
+        "haute": -0.030160040000000027
       },
       {
         "annee": 2052,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.025724000000000025,
-        "haute": -0.020616000000000023
+        "basse": -0.03653200000000001,
+        "haute": -0.03103800000000001
       },
       {
         "annee": 2053,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.025805999999999996,
-        "haute": -0.020704
+        "basse": -0.03697800000000001,
+        "haute": -0.03147700000000003
       },
       {
         "annee": 2054,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.025888000000000022,
-        "haute": -0.020792000000000033
+        "basse": -0.03742400000000004,
+        "haute": -0.03191600000000003
       },
       {
         "annee": 2055,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02597000000000002,
-        "haute": -0.02088000000000001
+        "basse": -0.03787000000000004,
+        "haute": -0.03235500000000005
       },
       {
         "annee": 2056,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026051999999999992,
-        "haute": -0.020968000000000014
+        "basse": -0.03831600000000002,
+        "haute": -0.03279400000000002
       },
       {
         "annee": 2057,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02613400000000002,
-        "haute": -0.02105600000000002
+        "basse": -0.03876200000000002,
+        "haute": -0.03323300000000004
       },
       {
         "annee": 2058,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026216000000000017,
-        "haute": -0.021144000000000024
+        "basse": -0.03920800000000005,
+        "haute": -0.033672000000000035
       },
       {
         "annee": 2059,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026298000000000016,
-        "haute": -0.02123200000000003
+        "basse": -0.03965400000000002,
+        "haute": -0.03411100000000003
       },
       {
         "annee": 2060,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026380000000000015,
-        "haute": -0.021320000000000006
+        "basse": -0.040100000000000025,
+        "haute": -0.034550000000000025
       },
       {
         "annee": 2061,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026462,
-        "haute": -0.021407999999999996
+        "basse": -0.04054600000000001,
+        "haute": -0.034989000000000034
       },
       {
         "annee": 2062,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026543999999999998,
-        "haute": -0.021496
+        "basse": -0.04099199999999999,
+        "haute": -0.035428
       },
       {
         "annee": 2063,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026625999999999997,
-        "haute": -0.021584000000000006
+        "basse": -0.041438000000000016,
+        "haute": -0.035867000000000024
       },
       {
         "annee": 2064,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026708000000000023,
-        "haute": -0.02167200000000001
+        "basse": -0.04188400000000002,
+        "haute": -0.03630600000000002
       },
       {
         "annee": 2065,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026789999999999994,
-        "haute": -0.021759999999999988
+        "basse": -0.04232999999999999,
+        "haute": -0.036745000000000014
       },
       {
         "annee": 2066,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.026871999999999993,
-        "haute": -0.021847999999999992
+        "basse": -0.042775999999999995,
+        "haute": -0.03718400000000001
       },
       {
         "annee": 2067,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02695400000000002,
-        "haute": -0.021935999999999997
+        "basse": -0.043222000000000024,
+        "haute": -0.03762300000000003
       },
       {
         "annee": 2068,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.02703599999999999,
-        "haute": -0.022024000000000002
+        "basse": -0.043668000000000026,
+        "haute": -0.038062000000000026
       },
       {
         "annee": 2069,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.027118000000000017,
-        "haute": -0.022112000000000007
+        "basse": -0.044114,
+        "haute": -0.038500999999999994
       },
       {
         "annee": 2070,
         "scenario": "Nouveau Front populaire",
-        "basse": -0.027200000000000016,
-        "haute": -0.02220000000000001
+        "basse": -0.04456,
+        "haute": -0.038940000000000016
       }
     ]
   },
@@ -1797,8 +1797,8 @@
           "type": "quantitative",
           "scale": {
             "domain": [
-              -0.027700000000000016,
-              0.0026318681996232714
+              -0.032,
+              0.001715726265180267
             ],
             "nice": false
           },
@@ -1934,7 +1934,13 @@
     },
     {
       "data": {
-        "values": []
+        "values": [
+          {
+            "annee": 2070,
+            "rang": 0,
+            "libelle": "Nouveau Front populaire : -3,89 % en 2070, hors cadre"
+          }
+        ]
       },
       "mark": {
         "type": "text",
