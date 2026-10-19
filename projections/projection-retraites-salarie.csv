@@ -85,49 +85,92 @@ annee;programme;valeur
 2068.00000;Nouvelle Convergence;30.34585
 2069.00000;Nouvelle Convergence;33.11787
 2070.00000;Nouvelle Convergence;35.95151
-2028.00000;Les Républicains;69.62667
-2029.00000;Les Républicains;71.25333
-2030.00000;Les Républicains;72.88000
-2031.00000;Les Républicains;72.64000
-2032.00000;Les Républicains;72.40000
-2033.00000;Les Républicains;72.16000
-2034.00000;Les Républicains;68.56000
-2035.00000;Les Républicains;64.96000
-2036.00000;Les Républicains;61.36000
-2037.00000;Les Républicains;57.76000
-2038.00000;Les Républicains;55.20000
-2039.00000;Les Républicains;56.00000
-2040.00000;Les Républicains;56.80000
-2041.00000;Les Républicains;60.40000
-2042.00000;Les Républicains;64.00000
-2043.00000;Les Républicains;67.60000
-2044.00000;Les Républicains;71.20000
-2045.00000;Les Républicains;74.80000
-2046.00000;Les Républicains;78.40000
-2047.00000;Les Républicains;82.00000
-2048.00000;Les Républicains;85.60000
-2049.00000;Les Républicains;89.20000
-2050.00000;Les Républicains;92.80000
-2051.00000;Les Républicains;96.20000
-2052.00000;Les Républicains;99.60000
-2053.00000;Les Républicains;103.00000
-2054.00000;Les Républicains;106.40000
-2055.00000;Les Républicains;109.80000
-2056.00000;Les Républicains;113.20000
-2057.00000;Les Républicains;116.60000
-2058.00000;Les Républicains;120.00000
-2059.00000;Les Républicains;123.40000
-2060.00000;Les Républicains;126.80000
-2061.00000;Les Républicains;130.20000
-2062.00000;Les Républicains;133.60000
-2063.00000;Les Républicains;137.00000
-2064.00000;Les Républicains;140.40000
-2065.00000;Les Républicains;143.80000
-2066.00000;Les Républicains;147.20000
-2067.00000;Les Républicains;150.60000
-2068.00000;Les Républicains;154.00000
-2069.00000;Les Républicains;157.40000
-2070.00000;Les Républicains;160.80000
+2028.00000;Les Républicains;97.62667
+2029.00000;Les Républicains;99.25333
+2030.00000;Les Républicains;100.88000
+2031.00000;Les Républicains;100.64000
+2032.00000;Les Républicains;100.40000
+2033.00000;Les Républicains;100.16000
+2034.00000;Les Républicains;96.56000
+2035.00000;Les Républicains;92.96000
+2036.00000;Les Républicains;89.36000
+2037.00000;Les Républicains;85.76000
+2038.00000;Les Républicains;83.20000
+2039.00000;Les Républicains;84.00000
+2040.00000;Les Républicains;84.80000
+2041.00000;Les Républicains;88.40000
+2042.00000;Les Républicains;92.00000
+2043.00000;Les Républicains;95.60000
+2044.00000;Les Républicains;99.20000
+2045.00000;Les Républicains;102.80000
+2046.00000;Les Républicains;106.40000
+2047.00000;Les Républicains;110.00000
+2048.00000;Les Républicains;113.60000
+2049.00000;Les Républicains;117.20000
+2050.00000;Les Républicains;120.80000
+2051.00000;Les Républicains;124.20000
+2052.00000;Les Républicains;127.60000
+2053.00000;Les Républicains;131.00000
+2054.00000;Les Républicains;134.40000
+2055.00000;Les Républicains;137.80000
+2056.00000;Les Républicains;141.20000
+2057.00000;Les Républicains;144.60000
+2058.00000;Les Républicains;148.00000
+2059.00000;Les Républicains;151.40000
+2060.00000;Les Républicains;154.80000
+2061.00000;Les Républicains;158.20000
+2062.00000;Les Républicains;161.60000
+2063.00000;Les Républicains;165.00000
+2064.00000;Les Républicains;168.40000
+2065.00000;Les Républicains;171.80000
+2066.00000;Les Républicains;175.20000
+2067.00000;Les Républicains;178.60000
+2068.00000;Les Républicains;182.00000
+2069.00000;Les Républicains;185.40000
+2070.00000;Les Républicains;188.80000
+2028.00000;Nouvelle Énergie (Lisnard);77.66667
+2029.00000;Nouvelle Énergie (Lisnard);77.25278
+2030.00000;Nouvelle Énergie (Lisnard);77.43521
+2031.00000;Nouvelle Énergie (Lisnard);76.32872
+2032.00000;Nouvelle Énergie (Lisnard);75.77238
+2033.00000;Nouvelle Énergie (Lisnard);75.74165
+2034.00000;Nouvelle Énergie (Lisnard);76.21261
+2035.00000;Nouvelle Énergie (Lisnard);77.16185
+2036.00000;Nouvelle Énergie (Lisnard);78.56653
+2037.00000;Nouvelle Énergie (Lisnard);80.40426
+2038.00000;Nouvelle Énergie (Lisnard);82.65310
+2039.00000;Nouvelle Énergie (Lisnard);85.29156
+2040.00000;Nouvelle Énergie (Lisnard);88.29851
+2041.00000;Nouvelle Énergie (Lisnard);94.29114
+2042.00000;Nouvelle Énergie (Lisnard);100.59780
+2043.00000;Nouvelle Énergie (Lisnard);107.20053
+2044.00000;Nouvelle Énergie (Lisnard);114.08153
+2045.00000;Nouvelle Énergie (Lisnard);121.22322
+2046.00000;Nouvelle Énergie (Lisnard);130.10790
+2047.00000;Nouvelle Énergie (Lisnard);139.52169
+2048.00000;Nouvelle Énergie (Lisnard);148.81452
+2049.00000;Nouvelle Énergie (Lisnard);157.98035
+2050.00000;Nouvelle Énergie (Lisnard);167.01313
+2051.00000;Nouvelle Énergie (Lisnard);175.61398
+2052.00000;Nouvelle Énergie (Lisnard);184.06968
+2053.00000;Nouvelle Énergie (Lisnard);192.37418
+2054.00000;Nouvelle Énergie (Lisnard);200.52750
+2055.00000;Nouvelle Énergie (Lisnard);208.52961
+2056.00000;Nouvelle Énergie (Lisnard);216.38054
+2057.00000;Nouvelle Énergie (Lisnard);224.08027
+2058.00000;Nouvelle Énergie (Lisnard);231.62880
+2059.00000;Nouvelle Énergie (Lisnard);239.02614
+2060.00000;Nouvelle Énergie (Lisnard);246.27229
+2061.00000;Nouvelle Énergie (Lisnard);253.36724
+2062.00000;Nouvelle Énergie (Lisnard);260.31099
+2063.00000;Nouvelle Énergie (Lisnard);267.10356
+2064.00000;Nouvelle Énergie (Lisnard);273.74493
+2065.00000;Nouvelle Énergie (Lisnard);280.23510
+2066.00000;Nouvelle Énergie (Lisnard);286.57408
+2067.00000;Nouvelle Énergie (Lisnard);292.76187
+2068.00000;Nouvelle Énergie (Lisnard);291.79846
+2069.00000;Nouvelle Énergie (Lisnard);290.68990
+2070.00000;Nouvelle Énergie (Lisnard);289.44225
 2028.00000;Rassemblement national;70.66667
 2029.00000;Rassemblement national;73.33333
 2030.00000;Rassemblement national;76.00000

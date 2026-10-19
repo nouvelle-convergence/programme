@@ -883,6 +883,288 @@
       },
       {
         "annee": 2024,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.0020000000000000018,
+        "haute": -0.0020000000000000018
+      },
+      {
+        "annee": 2025,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.00416666666666668,
+        "haute": -0.00416666666666668
+      },
+      {
+        "annee": 2026,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.00633333333333333,
+        "haute": -0.00633333333333333
+      },
+      {
+        "annee": 2027,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.008500000000000008,
+        "haute": -0.008500000000000008
+      },
+      {
+        "annee": 2028,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009708333333333319,
+        "haute": -0.009708333333333319
+      },
+      {
+        "annee": 2029,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009656597657657667,
+        "haute": -0.009656597657657667
+      },
+      {
+        "annee": 2030,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009679401786749892,
+        "haute": -0.009679401786749892
+      },
+      {
+        "annee": 2031,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009541090056588208,
+        "haute": -0.009541090056588208
+      },
+      {
+        "annee": 2032,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.00947154721409059,
+        "haute": -0.00947154721409059
+      },
+      {
+        "annee": 2033,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009467706622435956,
+        "haute": -0.009467706622435956
+      },
+      {
+        "annee": 2034,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009526575848440758,
+        "haute": -0.009526575848440758
+      },
+      {
+        "annee": 2035,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009645231873526394,
+        "haute": -0.009645231873526394
+      },
+      {
+        "annee": 2036,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.009820816548562372,
+        "haute": -0.009820816548562372
+      },
+      {
+        "annee": 2037,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.010050532282605093,
+        "haute": -0.010050532282605093
+      },
+      {
+        "annee": 2038,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.010331637955899364,
+        "haute": -0.010331637955899364
+      },
+      {
+        "annee": 2039,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.010661445047851312,
+        "haute": -0.010661445047851312
+      },
+      {
+        "annee": 2040,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.01103731397101057,
+        "haute": -0.01103731397101057
+      },
+      {
+        "annee": 2041,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.011786392150379923,
+        "haute": -0.011786392150379923
+      },
+      {
+        "annee": 2042,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.01257472520722587,
+        "haute": -0.01257472520722587
+      },
+      {
+        "annee": 2043,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.013400065728296176,
+        "haute": -0.013400065728296176
+      },
+      {
+        "annee": 2044,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.014260191269685057,
+        "haute": -0.014260191269685057
+      },
+      {
+        "annee": 2045,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.015152901947553324,
+        "haute": -0.015152901947553324
+      },
+      {
+        "annee": 2046,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.01626348698088527,
+        "haute": -0.01626348698088527
+      },
+      {
+        "annee": 2047,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.017440210675477866,
+        "haute": -0.017440210675477866
+      },
+      {
+        "annee": 2048,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.018601814938469352,
+        "haute": -0.018601814938469352
+      },
+      {
+        "annee": 2049,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.019747543798279588,
+        "haute": -0.019747543798279588
+      },
+      {
+        "annee": 2050,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.020876641283328598,
+        "haute": -0.020876641283328598
+      },
+      {
+        "annee": 2051,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.021951747159044827,
+        "haute": -0.021951747159044827
+      },
+      {
+        "annee": 2052,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.0230087097168397,
+        "haute": -0.0230087097168397
+      },
+      {
+        "annee": 2053,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.02404677298513315,
+        "haute": -0.02404677298513315
+      },
+      {
+        "annee": 2054,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.0250659369639252,
+        "haute": -0.0250659369639252
+      },
+      {
+        "annee": 2055,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.026066201653215798,
+        "haute": -0.026066201653215798
+      },
+      {
+        "annee": 2056,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.02704756705300497,
+        "haute": -0.02704756705300497
+      },
+      {
+        "annee": 2057,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.028010033163292716,
+        "haute": -0.028010033163292716
+      },
+      {
+        "annee": 2058,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.02895359998407908,
+        "haute": -0.02895359998407908
+      },
+      {
+        "annee": 2059,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.029878267515363946,
+        "haute": -0.029878267515363946
+      },
+      {
+        "annee": 2060,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.030784035757147457,
+        "haute": -0.030784035757147457
+      },
+      {
+        "annee": 2061,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.0316709047094295,
+        "haute": -0.0316709047094295
+      },
+      {
+        "annee": 2062,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03253887437221012,
+        "haute": -0.03253887437221012
+      },
+      {
+        "annee": 2063,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.033387944745489326,
+        "haute": -0.033387944745489326
+      },
+      {
+        "annee": 2064,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03421811582926712,
+        "haute": -0.03421811582926712
+      },
+      {
+        "annee": 2065,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03502938762354346,
+        "haute": -0.03502938762354346
+      },
+      {
+        "annee": 2066,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03582176012831842,
+        "haute": -0.03582176012831842
+      },
+      {
+        "annee": 2067,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03659523334359191,
+        "haute": -0.03659523334359191
+      },
+      {
+        "annee": 2068,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03647480726936403,
+        "haute": -0.03647480726936403
+      },
+      {
+        "annee": 2069,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.03633623787721474,
+        "haute": -0.03633623787721474
+      },
+      {
+        "annee": 2070,
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "basse": -0.036180281138724166,
+        "haute": -0.036180281138724166
+      },
+      {
+        "annee": 2024,
         "scenario": "Rassemblement national",
         "basse": -0.0020000000000000018,
         "haute": -0.0020000000000000018
@@ -1760,6 +2042,7 @@
         "Système actuel (Renaissance / Ensemble)",
         "Nouvelle Convergence",
         "Les Républicains",
+        "Nouvelle Énergie (Lisnard)",
         "Rassemblement national",
         "Les Patriotes",
         "Nouveau Front populaire"
@@ -1769,6 +2052,7 @@
           "Système actuel (Renaissance / Ensemble)",
           "Nouvelle Convergence",
           "Les Républicains",
+          "Nouvelle Énergie (Lisnard)",
           "Rassemblement national",
           "Les Patriotes",
           "Nouveau Front populaire"
@@ -1779,7 +2063,8 @@
           "#d1641f",
           "#1f5f8b",
           "#8e2a84",
-          "#b59a12"
+          "#b59a12",
+          "#12a0a0"
         ]
       }
     }
@@ -1830,6 +2115,7 @@
               "Système actuel (Renaissance / Ensemble)",
               "Nouvelle Convergence",
               "Les Républicains",
+              "Nouvelle Énergie (Lisnard)",
               "Rassemblement national",
               "Les Patriotes",
               "Nouveau Front populaire"
@@ -1837,6 +2123,7 @@
             "range": [
               2.5,
               4,
+              2.5,
               2.5,
               2.5,
               2.5,
@@ -1938,6 +2225,11 @@
           {
             "annee": 2070,
             "rang": 0,
+            "libelle": "Nouvelle Énergie (Lisnard) : -3,62 % en 2070, hors cadre"
+          },
+          {
+            "annee": 2070,
+            "rang": 1,
             "libelle": "Nouveau Front populaire : -3,89 % en 2070, hors cadre"
           }
         ]

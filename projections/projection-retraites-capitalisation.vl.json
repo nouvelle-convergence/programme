@@ -1,0 +1,285 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "La pension de départ, répartition et compte par capitalisation",
+    "subtitle": [
+      "Salarié au salaire médian, carrière complète, euros d’aujourd’hui, rendement prudent. Le compte",
+      "remplace une part de la répartition quand la cotisation y est prise, et s’y ajoute quand elle",
+      "est en plus."
+    ],
+    "anchor": "start",
+    "fontSize": 16,
+    "subtitleColor": "#6b6f7b",
+    "subtitlePadding": 6,
+    "offset": 12
+  },
+  "background": "#fbfaf7",
+  "config": {
+    "font": "system-ui, sans-serif",
+    "axis": {
+      "gridColor": "#d9d6cf",
+      "labelColor": "#6b6f7b",
+      "domain": false,
+      "tickColor": "#d9d6cf"
+    },
+    "legend": {
+      "orient": "bottom",
+      "columns": 3,
+      "labelLimit": 400,
+      "symbolOpacity": 1
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Nouvelle Convergence",
+        "source": "Répartition",
+        "valeur": 1553.550794432586
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Nouvelle Convergence",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Nouvelle Convergence",
+        "source": "Répartition",
+        "valeur": 1770.5520681800094
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Nouvelle Convergence",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Nouvelle Convergence",
+        "source": "Répartition",
+        "valeur": 2077.7187702715214
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Nouvelle Convergence",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "NC, le point placé",
+        "source": "Répartition",
+        "valeur": 1543.4436180602813
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "NC, le point placé",
+        "source": "Rente du compte",
+        "valeur": 16.38809986369917
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "NC, le point placé",
+        "source": "Répartition",
+        "valeur": 1637.5789331170752
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "NC, le point placé",
+        "source": "Rente du compte",
+        "valeur": 47.68419530244396
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "NC, le point placé",
+        "source": "Répartition",
+        "valeur": 2028.6983955985477
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "NC, le point placé",
+        "source": "Rente du compte",
+        "valeur": 96.26210623104468
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Répartition",
+        "valeur": 1515.1754199273091
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Rente du compte",
+        "valeur": 40.97024965924792
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Répartition",
+        "valeur": 1506.858735421877
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Rente du compte",
+        "valeur": 119.21048825610988
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Répartition",
+        "valeur": 1885.567720167475
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "NC + 2,5 points à la suédoise",
+        "source": "Rente du compte",
+        "valeur": 240.6552655776118
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Les Républicains",
+        "source": "Répartition",
+        "valeur": 1758.8679673855481
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Les Républicains",
+        "source": "Rente du compte",
+        "valeur": 16.38809986369917
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Les Républicains",
+        "source": "Répartition",
+        "valeur": 2041.9911067293526
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Les Républicains",
+        "source": "Rente du compte",
+        "valeur": 47.68419530244396
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Les Républicains",
+        "source": "Répartition",
+        "valeur": 2370.6882820544038
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Les Républicains",
+        "source": "Rente du compte",
+        "valeur": 96.26210623104468
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Répartition",
+        "valeur": 1737.9290630119108
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Rente du compte",
+        "valeur": 25.958864552643956
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Répartition",
+        "valeur": 1925.3587951029256
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Rente du compte",
+        "valeur": 156.9617088453328
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Répartition",
+        "valeur": 2054.315290677037
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Nouvelle Énergie (Lisnard)",
+        "source": "Rente du compte",
+        "valeur": 467.72154092404935
+      }
+    ]
+  },
+  "facet": {
+    "row": {
+      "field": "annee",
+      "type": "nominal",
+      "title": null,
+      "header": {
+        "labelFontSize": 13,
+        "labelAngle": 0,
+        "labelAlign": "left"
+      }
+    }
+  },
+  "spec": {
+    "width": 620,
+    "height": {
+      "step": 22
+    },
+    "mark": {
+      "type": "bar"
+    },
+    "encoding": {
+      "y": {
+        "field": "scenario",
+        "type": "nominal",
+        "title": null,
+        "sort": [
+          "Nouvelle Convergence",
+          "NC, le point placé",
+          "NC + 2,5 points à la suédoise",
+          "Les Républicains",
+          "Nouvelle Énergie (Lisnard)"
+        ],
+        "axis": {
+          "labelLimit": 400
+        }
+      },
+      "x": {
+        "field": "valeur",
+        "type": "quantitative",
+        "stack": "zero",
+        "title": null,
+        "axis": {
+          "labelExpr": "replace(format(datum.value, ',.0f'), ',', ' ') + ' €'"
+        }
+      },
+      "color": {
+        "field": "source",
+        "type": "nominal",
+        "title": null,
+        "scale": {
+          "domain": [
+            "Répartition",
+            "Rente du compte"
+          ],
+          "range": [
+            "#1f5f8b",
+            "#d1641f"
+          ]
+        }
+      },
+      "order": {
+        "field": "source",
+        "sort": "ascending"
+      }
+    }
+  }
+}

@@ -2288,8 +2288,8 @@
       {
         "annee": 2070,
         "scenario": "Suisse",
-        "basse": -0.062,
-        "haute": -0.062
+        "basse": -0.06032000000000001,
+        "haute": -0.06032000000000001
       }
     ]
   },
@@ -2522,7 +2522,7 @@
           {
             "annee": 2070,
             "rang": 2,
-            "libelle": "Suisse : -6,20 % en 2070, hors cadre"
+            "libelle": "Suisse : -6,03 % en 2070, hors cadre"
           }
         ]
       },

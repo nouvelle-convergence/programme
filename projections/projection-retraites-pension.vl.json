@@ -3,9 +3,11 @@
   "title": {
     "text": "Une pension de 1 500 € aujourd’hui : ce qu’elle vaut chaque année",
     "subtitle": [
-      "Pouvoir d’achat en euros d’aujourd’hui d’une personne déjà à la retraite. Aucun programme ne",
-      "baisse les pensions ; le NFP les indexe sur les salaires, sans financement prévu. Le frein de",
-      "Nouvelle Convergence ne touche jamais une pension déjà liquidée."
+      "Pouvoir d’achat en euros d’aujourd’hui d’une personne déjà à la retraite. Le NFP indexe les",
+      "pensions sur les salaires, sans financement prévu. Nouvelle Énergie désindexe celles au-dessus",
+      "de 2 000 € brut par mois jusqu’à ce qu’elles retombent à ce seuil : une pension de 2 700 € perd",
+      "jusqu’à 25,93 % ; une pension de 1 500 € n’est pas touchée. Le frein de Nouvelle Convergence ne",
+      "touche jamais une pension déjà liquidée."
     ],
     "anchor": "start",
     "fontSize": 16,
@@ -38,217 +40,217 @@
     "values": [
       {
         "annee": 2028,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2029,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2030,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2031,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2032,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2033,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2034,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2035,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2036,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2037,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2038,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2039,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2040,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2041,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2042,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2043,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2044,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2045,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2046,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2047,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2048,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2049,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2050,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2051,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2052,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2053,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2054,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2055,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2056,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2057,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2058,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2059,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2060,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2061,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2062,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2063,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2064,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2065,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2066,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2067,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2068,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2069,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
         "annee": 2070,
-        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "valeur": 1500
       },
       {
@@ -508,17 +510,17 @@
       "type": "nominal",
       "title": null,
       "sort": [
-        "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+        "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
         "Nouveau Front populaire"
       ],
       "scale": {
         "domain": [
-          "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+          "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
           "Nouveau Front populaire"
         ],
         "range": [
           "#7a7f8c",
-          "#b59a12"
+          "#12a0a0"
         ]
       },
       "legend": {
@@ -540,7 +542,7 @@
         "values": [
           {
             "annee": 2070,
-            "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Rassemblement national, Les Patriotes",
+            "programme": "Identiques : Système actuel, Nouvelle Convergence, Les Républicains, Nouvelle Énergie (Lisnard), Rassemblement national, Les Patriotes",
             "valeur": 1500,
             "etiquette": "1 500 €"
           },
