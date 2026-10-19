@@ -155,6 +155,7 @@ Pension de départ de la carrière complète qui vaut aujourd'hui 1 500 € ne
 
 | Scénario | Cotisation au compte en 2040, par mois | Il manque en 2040 | Il manque en 2070 | Déficits cumulés 2028-2070 | Encours des comptes en 2070 | Part des pensions versée par les comptes en 2070 | Départ 2040 | Départ 2055 | Départ 2070 |
 |---|---|---|---|---|---|---|---|---|---|
+| Sans réforme | 0 € | 36 Md€ | 109 Md€ | 2 547 Md€ |  |  | 1 759 € | 2 042 € | 2 371 € |
 | Nouvelle Convergence | 0 € | 8 Md€ | 5 Md€ | 251 Md€ |  |  | 1 554 € | 1 771 € | 2 078 € |
 | NC, le point placé | 31 € | 20 Md€ | rien | 490 Md€ | 622 Md€ à 797 Md€ | 2,65 % à 3,39 % | 1 560 €, dont 16 € de rente | 1 685 €, dont 48 € de rente | 2 125 €, dont 96 € de rente |
 | NC + 2,5 points à la suédoise | 77 € | 36 Md€ | rien | 881 Md€ | 1 554 Md€ à 1 993 Md€ | 6,82 % à 8,64 % | 1 556 €, dont 41 € de rente | 1 626 €, dont 119 € de rente | 2 126 €, dont 241 € de rente |

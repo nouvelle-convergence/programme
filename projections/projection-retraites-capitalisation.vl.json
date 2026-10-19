@@ -36,6 +36,42 @@
     "values": [
       {
         "annee": "Départ en 2040",
+        "scenario": "Sans réforme",
+        "source": "Répartition",
+        "valeur": 1758.8679673855481
+      },
+      {
+        "annee": "Départ en 2040",
+        "scenario": "Sans réforme",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Sans réforme",
+        "source": "Répartition",
+        "valeur": 2041.9911067293526
+      },
+      {
+        "annee": "Départ en 2055",
+        "scenario": "Sans réforme",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Sans réforme",
+        "source": "Répartition",
+        "valeur": 2370.6882820544038
+      },
+      {
+        "annee": "Départ en 2070",
+        "scenario": "Sans réforme",
+        "source": "Rente du compte",
+        "valeur": 0
+      },
+      {
+        "annee": "Départ en 2040",
         "scenario": "Nouvelle Convergence",
         "source": "Répartition",
         "valeur": 1553.550794432586
@@ -242,6 +278,7 @@
         "type": "nominal",
         "title": null,
         "sort": [
+          "Sans réforme",
           "Nouvelle Convergence",
           "NC, le point placé",
           "NC + 2,5 points à la suédoise",

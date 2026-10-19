@@ -1,4 +1,10 @@
 annee;scenario;source;valeur
+Départ en 2040;Sans réforme;Répartition;1758.86797
+Départ en 2040;Sans réforme;Rente du compte;0.00000
+Départ en 2055;Sans réforme;Répartition;2041.99111
+Départ en 2055;Sans réforme;Rente du compte;0.00000
+Départ en 2070;Sans réforme;Répartition;2370.68828
+Départ en 2070;Sans réforme;Rente du compte;0.00000
 Départ en 2040;Nouvelle Convergence;Répartition;1553.55079
 Départ en 2040;Nouvelle Convergence;Rente du compte;0.00000
 Départ en 2055;Nouvelle Convergence;Répartition;1770.55207
