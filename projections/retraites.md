@@ -64,13 +64,14 @@ Ordre de grandeur, pas une microsimulation : agrégats et sensibilités publiés
 | Refonte sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,22 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,15 %, frein 0,00 % |
 | Refonte : âge indexé, cotisation +1 point permanente, frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,01 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,41 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,87 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 1,95 % |
 | Refonte : cotisation +1 point permanente, sans frein | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,4 ans ; âge 0,04 %, fonds 0,00 %, frein 0,00 % | âge 65,7 ans ; âge 0,11 %, fonds 0,00 %, frein 0,00 % | âge 66,4 ans ; âge 0,25 %, fonds 0,00 %, frein 0,00 % |
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,09 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,38 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,48 % |
-| Variante : âge minimal figé à 63 ans quand l’âge de référence monte | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,09 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,40 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,53 % |
-| Variante : sans accord des partenaires sociaux, frein sur les seuls régimes de base | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,09 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,37 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,43 % |
-| Variante : même cap, frein piloté sur le solde de l’année | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,15 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,69 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,99 % |
-| Variante : même cap, frein sur toutes les pensions | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,01 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,40 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,83 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,84 % |
-| Variante capitalisée : le point de cotisation va sur un compte à son nom | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,02 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,26 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,70 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,72 % |
-| Variante capitalisée : un point de plus, et 2,5 points des cotisations placés, à la suédoise | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,03 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,42 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 1,13 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,94 % |
+| Nouvelle Convergence : âge de référence à 66 ans en 2035 puis indexé sur l’espérance de vie, comptes notionnels, deux points de cotisation, frein sur les pensions de départ | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,02 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,85 % |
+| Variante : un seul point de cotisation, sans relèvement de l’âge avant l’indexation | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,09 % | âge 66,1 ans ; âge 0,17 %, fonds 0,00 %, frein 0,38 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 1,48 % |
+| Variante : âge minimal figé à 63 ans quand l’âge de référence monte | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,04 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,94 % |
+| Variante : sans accord des partenaires sociaux, frein sur les seuls régimes de base | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,02 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 0,80 % |
+| Variante : même cap, frein piloté sur le solde de l’année | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,03 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 1,23 % |
+| Variante : même cap, frein sur toutes les pensions | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,00 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,23 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 1,12 % |
+| Variante capitalisée : un des deux points de cotisation va sur un compte à son nom | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,05 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,21 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 1,19 % |
+| Variante capitalisée : deux points de plus, et 2,5 points des cotisations placés, à la suédoise | âge 65,5 ans ; âge 0,00 %, fonds 0,00 %, frein 0,03 % | âge 66,6 ans ; âge 0,27 %, fonds 0,00 %, frein 0,39 % | âge 67,1 ans ; âge 0,38 %, fonds 0,00 %, frein 0,91 % | âge 68,1 ans ; âge 0,59 %, fonds 0,00 %, frein 1,38 % |
 | Variante : âge indexé, fonds de réserve 15 ans, frein actif | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,26 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,64 % | âge 66,1 ans ; âge 0,17 %, fonds 0,23 %, frein 0,84 % | âge 67,1 ans ; âge 0,38 %, fonds 0,16 %, frein 1,92 % |
 | Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | âge 65,8 ans ; âge 0,00 %, fonds 0,00 %, frein 0,00 % | âge 67,6 ans ; âge 0,43 %, fonds 0,00 %, frein 0,10 % | âge 68,1 ans ; âge 0,59 %, fonds 0,01 %, frein 0,69 % | âge 69,1 ans ; âge 0,80 %, fonds 0,00 %, frein 1,70 % |
 | Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | âge 65,1 ans ; âge 0,00 %, fonds 0,00 %, frein 0,16 % | âge 65,6 ans ; âge 0,06 %, fonds 0,00 %, frein 0,77 % | âge 66,1 ans ; âge 0,17 %, fonds 0,23 %, frein 1,18 % | âge 67,1 ans ; âge 0,38 %, fonds 0,16 %, frein 2,60 % |
@@ -89,13 +90,14 @@ Chaque pays est réduit à ses leviers, appliqués à la France à partir de 202
 
 | Scénario | Solde 2040 | Solde 2070 | Dépenses 2070 | Âge de référence 2070 | Retraités 2070 | Transition capitalisation 2070 |
 |---|---|---|---|---|---|---|
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | -0,40 % à -0,38 % | -0,42 % à -0,45 % | 13,57 % à 13,60 % | 68,4 ans à 67,1 ans | 10,75 % à 11,66 % | 0,00 % |
-| Variante : âge minimal figé à 63 ans quand l’âge de référence monte | -0,45 % à -0,40 % | -0,45 % à -0,46 % | 13,60 % à 13,61 % | 68,4 ans à 67,1 ans | 11,85 % à 12,00 % | 0,00 % |
-| Variante : sans accord des partenaires sociaux, frein sur les seuls régimes de base | -0,45 % à -0,41 % | -0,48 % à -0,50 % | 13,63 % à 13,65 % | 68,4 ans à 67,1 ans | 14,77 % à 14,72 % | 0,00 % |
-| Variante : même cap, frein piloté sur le solde de l’année | -0,33 % à -0,35 % | -0,13 % à 0,05 % | 13,27 % à 13,10 % | 68,4 ans à 67,1 ans | 14,00 % à 15,49 % | 0,00 % |
-| Variante : même cap, frein sur toutes les pensions | -0,10 % à -0,10 % | -0,10 % à -0,10 % | 13,25 % à 13,25 % | 68,4 ans à 67,1 ans | 14,21 % à 14,34 % | 0,00 % |
-| Variante capitalisée : le point de cotisation va sur un compte à son nom | -0,51 % à -0,49 % | -0,46 % à -0,46 % | 13,36 % à 13,36 % | 68,4 ans à 67,1 ans | 13,36 % à 13,42 % | 0,00 % |
-| Variante capitalisée : un point de plus, et 2,5 points des cotisations placés, à la suédoise | -1,00 % à -0,89 % | -0,16 % à -0,24 % | 12,43 % à 12,51 % | 68,4 ans à 67,1 ans | 16,38 % à 15,82 % | -0,25 % |
+| Nouvelle Convergence : âge de référence à 66 ans en 2035 puis indexé sur l’espérance de vie, comptes notionnels, deux points de cotisation, frein sur les pensions de départ | -0,04 % à 0,04 % | -0,49 % à -0,57 % | 13,88 % à 13,96 % | 69,4 ans à 68,1 ans | 6,26 % à 6,75 % | 0,00 % |
+| Variante : un seul point de cotisation, sans relèvement de l’âge avant l’indexation | -0,40 % à -0,38 % | -0,42 % à -0,45 % | 13,57 % à 13,60 % | 68,4 ans à 67,1 ans | 10,75 % à 11,66 % | 0,00 % |
+| Variante : âge minimal figé à 63 ans quand l’âge de référence monte | -0,12 % à -0,01 % | -0,51 % à -0,56 % | 13,90 % à 13,95 % | 69,4 ans à 68,1 ans | 7,78 % à 7,40 % | 0,00 % |
+| Variante : sans accord des partenaires sociaux, frein sur les seuls régimes de base | -0,04 % à 0,04 % | -0,60 % à -0,70 % | 13,99 % à 14,09 % | 69,4 ans à 68,1 ans | 7,87 % à 8,43 % | 0,00 % |
+| Variante : même cap, frein piloté sur le solde de l’année | -0,04 % à 0,04 % | -0,17 % à -0,33 % | 13,56 % à 13,72 % | 69,4 ans à 68,1 ans | 10,21 % à 9,86 % | 0,00 % |
+| Variante : même cap, frein sur toutes les pensions | -0,03 % à 0,04 % | -0,10 % à -0,10 % | 13,49 % à 13,49 % | 69,4 ans à 68,1 ans | 7,83 % à 8,70 % | 0,00 % |
+| Variante capitalisée : un des deux points de cotisation va sur un compte à son nom | -0,20 % à -0,18 % | -0,49 % à -0,51 % | 13,63 % à 13,66 % | 69,4 ans à 68,1 ans | 8,52 % à 9,44 % | 0,00 % |
+| Variante capitalisée : deux points de plus, et 2,5 points des cotisations placés, à la suédoise | -0,63 % à -0,55 % | -0,12 % à -0,30 % | 12,63 % à 12,81 % | 69,4 ans à 68,1 ans | 11,80 % à 11,42 % | -0,25 % |
 | Variante : âge indexé, fonds de réserve 15 ans, frein actif | -0,10 % à -0,10 % | -0,10 % à -0,10 % | 13,23 % à 13,16 % | 68,4 ans à 67,1 ans | 14,32 % à 14,99 % | 0,00 % |
 | Cap v3 : 67 ans en 2035 puis âge indexé, point de cotisation d’abord au régime, frein en garde-fou | 0,00 % à 0,00 % | -0,10 % à -0,10 % | 13,01 % à 13,00 % | 70,4 ans à 69,1 ans | 13,77 % à 13,63 % | 0,00 % |
 | Suède 1994 : comptes notionnels, frein, réserve, 2,5 points capitalisés | -0,10 % à -0,10 % | -0,10 % à -0,10 % | 12,35 % à 12,28 % | 68,4 ans à 67,1 ans | 18,54 % à 20,57 % | -0,84 % |
@@ -122,7 +124,7 @@ Chaque programme est réduit aux mesures sur les retraites extraites du corpus, 
 | Rassemblement national : retour à 62 ans, 60 ans pour les carrières précoces | -0,20 % à -0,20 % | -1,19 % à -1,19 % | -2,92 % à -2,92 % | 15,82 % à 15,82 % | 62,5 ans | RN 2024, p. 8 : « Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail » |
 | Les Patriotes : baisse de l’âge, transposée à 60 ans | -0,20 % à -0,20 % | -1,51 % à -1,51 % | -3,24 % à -3,24 % | 16,14 % à 16,14 % | 61,0 ans | Patriotes 2026, p. 4 : « Baisser l’âge de départ à la retraite. » — cible non précisée, 60 ans retenu |
 | Nouveau Front populaire : retour à 62 ans, pensions indexées sur les salaires | -0,40 % à -0,34 % | -1,97 % à -1,68 % | -4,66 % à -4,04 % | 17,56 % à 16,94 % | 63,0 ans | NFP 2024, p. 4 : « Abroger immédiatement les décrets d’application de la réforme […] passant l’âge de départ à la retraite à 64 ans » ; p. 16 : « Indexer le montant des retraites sur les salaires », « Réaffirmer l’objectif commun du droit à la retraite à 60 ans » (objectif, non chiffré ici) |
-| Nouvelle Convergence : âge indexé sur l’espérance de vie, comptes notionnels, un point de cotisation, frein sur les pensions de départ | -0,24 % à -0,10 % | -0,40 % à -0,38 % | -0,42 % à -0,45 % | 13,57 % à 13,60 % | 67,1 ans |  |
+| Nouvelle Convergence : âge de référence à 66 ans en 2035 puis indexé sur l’espérance de vie, comptes notionnels, deux points de cotisation, frein sur les pensions de départ | 0,00 % à 0,15 % | -0,04 % à 0,04 % | -0,49 % à -0,57 % | 13,88 % à 13,96 % | 68,1 ans |  |
 
 ## Ce que change le cadrage : COR 2026 contre l'ancien cadrage
 
@@ -137,7 +139,7 @@ Le cadrage par défaut est le scénario de référence du COR 2026 : dépenses d
 | Rassemblement national | -30 Md€ | -6 Md€ | -133 Md€ | -118 Md€ |
 | Les Patriotes | -30 Md€ | -6 Md€ | -148 Md€ | -131 Md€ |
 | Nouveau Front populaire | -34 Md€ | -10 Md€ | -181 Md€ | -164 Md€ |
-| Nouvelle Convergence | -26 Md€ | -3 Md€ | -14 Md€ | -18 Md€ |
+| Nouvelle Convergence | -19 Md€ | 5 Md€ | -17 Md€ | -23 Md€ |
 
 ## Qui paie en 2070, en milliards d'euros d'aujourd'hui
 
@@ -146,7 +148,7 @@ Le système actuel laisse 97 Md€ par an à trouver en 2070. Chaque programme y
 | Programme | Âge de départ en 2070 | Travailler plus longtemps | Pensions ralenties (frein) | Fonds de réserve | Cotisations en plus | Départ plus tôt | Pensions indexées sur les salaires | Pensions gelées au-dessus de 2 000 € | Cotisations placées sur les comptes | Pension plancher relevée | Autres mesures | Reste à financer |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Système actuel (Renaissance / Ensemble) | 65,0 ans |  |  |  |  |  |  |  |  |  |  | 97 Md€ |
-| Nouvelle Convergence | 67,1 ans | +15 Md€ | +60 Md€ |  | +10 Md€ |  |  |  |  | -2 Md€ | -5 Md€ | 18 Md€ |
+| Nouvelle Convergence | 68,1 ans | +24 Md€ | +34 Md€ |  | +20 Md€ |  |  |  |  | +1 Md€ | -5 Md€ | 23 Md€ |
 | Les Républicains | 66,0 ans | +8 Md€ |  |  |  |  |  |  |  |  | +5 Md€ | 83 Md€ |
 | Nouvelle Énergie (Lisnard) | 65,0 ans |  |  |  |  |  |  | +54 Md€ | -100 Md€ |  |  | 144 Md€ |
 | Rassemblement national | 62,5 ans |  |  |  |  | -21 Md€ |  |  |  |  |  | 118 Md€ |
@@ -162,9 +164,9 @@ Pension de départ de la carrière complète qui vaut aujourd'hui 1 500 € ne
 | Scénario | Cotisation au compte en 2040, par mois | Il manque en 2040 | Il manque en 2070 | Déficits cumulés 2028-2070 | Encours des comptes en 2070 | Part des pensions versée par les comptes en 2070 | Départ 2040 | Départ 2055 | Départ 2070 |
 |---|---|---|---|---|---|---|---|---|---|
 | Sans réforme | 0 € | 22 Md€ | 97 Md€ | 1 885 Md€ |  |  | 1 677 € | 1 862 € | 2 068 € |
-| Nouvelle Convergence | 0 € | 13 Md€ | 18 Md€ | 635 Md€ |  |  | 1 615 € | 1 663 € | 1 734 € |
-| NC, le point placé | 30 € | 16 Md€ | 19 Md€ | 679 Md€ | 573 Md€ à 739 Md€ | 2,52 % à 3,26 % | 1 574 €, dont 16 € de rente | 1 677 €, dont 45 € de rente | 1 791 €, dont 90 € de rente |
-| NC + 2,5 points à la suédoise | 74 € | 29 Md€ | 10 Md€ | 780 Md€ | 1 433 Md€ à 1 847 Md€ | 6,46 % à 8,29 % | 1 486 €, dont 40 € de rente | 1 624 €, dont 114 € de rente | 1 843 €, dont 225 € de rente |
+| Nouvelle Convergence | 0 € | rien | 23 Md€ | 473 Md€ |  |  | 1 677 € | 1 769 € | 1 798 € |
+| NC, un point placé | 30 € | 6 Md€ | 21 Md€ | 587 Md€ | 573 Md€ à 739 Md€ | 2,47 % à 3,19 % | 1 664 €, dont 16 € de rente | 1 757 €, dont 45 € de rente | 1 849 €, dont 90 € de rente |
+| NC + 2,5 points à la suédoise | 74 € | 18 Md€ | 12 Md€ | 567 Md€ | 1 433 Md€ à 1 847 Md€ | 6,32 % à 8,17 % | 1 515 €, dont 40 € de rente | 1 708 €, dont 114 € de rente | 1 916 €, dont 225 € de rente |
 | Les Républicains | 30 € | 11 Md€ | 83 Md€ | 1 442 Md€ | 383 Md€ à 494 Md€ | 1,51 % à 1,95 % | 1 693 €, dont 16 € de rente | 1 908 €, dont 45 € de rente | 2 158 €, dont 90 € de rente |
 | Nouvelle Énergie (Lisnard) | 96 € | 22 Md€ | 144 Md€ | 2 750 Md€ | 3 420 Md€ à 4 102 Md€ | 9,22 % à 10,88 % | 1 683 €, dont 25 € de rente | 1 910 €, dont 148 € de rente | 2 242 €, dont 428 € de rente |
 
@@ -188,11 +190,11 @@ Le COR 2026 publie deux variantes autour de sa référence de 0,7 % : 0,4 % et 1
 | Scénario | Productivité | Solde 2030 | Solde 2070 | Frein sur la pension de départ en 2070 | Pension de départ en 2070 |
 |---|---|---|---|---|---|
 | Sans réforme | 0,4 % | -6 Md€ | -113 Md€ | 0,00 % | 1 802 € |
-| Nouvelle Convergence | 0,4 % | -3 Md€ | -14 Md€ | 24,90 % | 1 354 € |
+| Nouvelle Convergence | 0,4 % | 4 Md€ | -16 Md€ | 20,70 % | 1 429 € |
 | Sans réforme | 0,7 % | -6 Md€ | -97 Md€ | 0,00 % | 2 068 € |
-| Nouvelle Convergence | 0,7 % | -3 Md€ | -18 Md€ | 16,15 % | 1 734 € |
+| Nouvelle Convergence | 0,7 % | 5 Md€ | -23 Md€ | 13,02 % | 1 798 € |
 | Sans réforme | 1 % | -6 Md€ | -74 Md€ | 0,00 % | 2 371 € |
-| Nouvelle Convergence | 1 % | -3 Md€ | -1 Md€ | 7,10 % | 2 202 € |
+| Nouvelle Convergence | 1 % | 5 Md€ | -9 Md€ | 2,90 % | 2 302 € |
 
 ## Graphiques
 
