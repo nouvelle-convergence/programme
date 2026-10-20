@@ -198,7 +198,7 @@ Le COR 2026 publie deux variantes autour de sa référence de 0,7 % : 0,4 % et 1
 
 ## Graphiques
 
-Quatre graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en abscisse : `projection-retraites-trou`, `projection-retraites-salarie`, `projection-retraites-pension` (pension déjà liquidée), `projection-retraites-depart` (pension de départ). Un graphique sur la capitalisation : `projection-retraites-capitalisation` (pension de départ, répartition et rente du compte). Trois graphiques techniques en % du PIB : `projection-retraites` (nos scénarios), `projection-retraites-modeles` (modèles étrangers), `projection-retraites-partis` (programmes). Chacun existe en `.svg`, `.vl.json` (à ouvrir dans l'éditeur Vega) et `.csv`.
+Quatre graphiques pour les visiteurs, tous en euros d'aujourd'hui, le temps en abscisse : `projection-retraites-trou`, `projection-retraites-salarie`, `projection-retraites-pension` (pension déjà liquidée), `projection-retraites-depart` (pension de départ), `projection-retraites-remplacement` (pension de départ rapportée au dernier salaire). Un graphique sur la capitalisation : `projection-retraites-capitalisation` (pension de départ, répartition et rente du compte). Trois graphiques techniques en % du PIB : `projection-retraites` (nos scénarios), `projection-retraites-modeles` (modèles étrangers), `projection-retraites-partis` (programmes). Chacun existe en `.svg`, `.vl.json` (à ouvrir dans l'éditeur Vega) et `.csv`.
 
 ## Hypothèses
 
