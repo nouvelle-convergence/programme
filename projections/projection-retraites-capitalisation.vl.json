@@ -38,7 +38,7 @@
         "annee": "Départ en 2040",
         "scenario": "Sans réforme",
         "source": "Répartition",
-        "valeur": 1758.8679673855481
+        "valeur": 1677.114786276905
       },
       {
         "annee": "Départ en 2040",
@@ -50,7 +50,7 @@
         "annee": "Départ en 2055",
         "scenario": "Sans réforme",
         "source": "Répartition",
-        "valeur": 2041.9911067293526
+        "valeur": 1862.1079154906513
       },
       {
         "annee": "Départ en 2055",
@@ -62,7 +62,7 @@
         "annee": "Départ en 2070",
         "scenario": "Sans réforme",
         "source": "Répartition",
-        "valeur": 2370.6882820544038
+        "valeur": 2067.5065996111466
       },
       {
         "annee": "Départ en 2070",
@@ -74,7 +74,7 @@
         "annee": "Départ en 2040",
         "scenario": "Nouvelle Convergence",
         "source": "Répartition",
-        "valeur": 1553.550794432586
+        "valeur": 1615.2841024563136
       },
       {
         "annee": "Départ en 2040",
@@ -86,7 +86,7 @@
         "annee": "Départ en 2055",
         "scenario": "Nouvelle Convergence",
         "source": "Répartition",
-        "valeur": 1770.5520681800094
+        "valeur": 1663.3068465063502
       },
       {
         "annee": "Départ en 2055",
@@ -98,7 +98,7 @@
         "annee": "Départ en 2070",
         "scenario": "Nouvelle Convergence",
         "source": "Répartition",
-        "valeur": 2077.7187702715214
+        "valeur": 1733.541207669154
       },
       {
         "annee": "Départ en 2070",
@@ -110,145 +110,145 @@
         "annee": "Départ en 2040",
         "scenario": "NC, le point placé",
         "source": "Répartition",
-        "valeur": 1543.4436180602813
+        "valeur": 1558.2308615716067
       },
       {
         "annee": "Départ en 2040",
         "scenario": "NC, le point placé",
         "source": "Rente du compte",
-        "valeur": 16.38809986369917
+        "valeur": 15.94006981069031
       },
       {
         "annee": "Départ en 2055",
         "scenario": "NC, le point placé",
         "source": "Répartition",
-        "valeur": 1637.5789331170752
+        "valeur": 1631.8679693640606
       },
       {
         "annee": "Départ en 2055",
         "scenario": "NC, le point placé",
         "source": "Rente du compte",
-        "valeur": 47.68419530244396
+        "valeur": 45.45735950652789
       },
       {
         "annee": "Départ en 2070",
         "scenario": "NC, le point placé",
         "source": "Répartition",
-        "valeur": 2028.6983955985477
+        "valeur": 1700.5543491874962
       },
       {
         "annee": "Départ en 2070",
         "scenario": "NC, le point placé",
         "source": "Rente du compte",
-        "valeur": 96.26210623104468
+        "valeur": 90.09051744190913
       },
       {
         "annee": "Départ en 2040",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Répartition",
-        "valeur": 1515.1754199273091
+        "valeur": 1445.7322450061627
       },
       {
         "annee": "Départ en 2040",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Rente du compte",
-        "valeur": 40.97024965924792
+        "valeur": 39.850174526725766
       },
       {
         "annee": "Départ en 2055",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Répartition",
-        "valeur": 1506.858735421877
+        "valeur": 1509.915499658411
       },
       {
         "annee": "Départ en 2055",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Rente du compte",
-        "valeur": 119.21048825610988
+        "valeur": 113.6433987663197
       },
       {
         "annee": "Départ en 2070",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Répartition",
-        "valeur": 1885.567720167475
+        "valeur": 1617.869151401328
       },
       {
         "annee": "Départ en 2070",
         "scenario": "NC + 2,5 points à la suédoise",
         "source": "Rente du compte",
-        "valeur": 240.6552655776118
+        "valeur": 225.22629360477288
       },
       {
         "annee": "Départ en 2040",
         "scenario": "Les Républicains",
         "source": "Répartition",
-        "valeur": 1758.8679673855481
+        "valeur": 1677.114786276905
       },
       {
         "annee": "Départ en 2040",
         "scenario": "Les Républicains",
         "source": "Rente du compte",
-        "valeur": 16.38809986369917
+        "valeur": 15.94006981069031
       },
       {
         "annee": "Départ en 2055",
         "scenario": "Les Républicains",
         "source": "Répartition",
-        "valeur": 2041.9911067293526
+        "valeur": 1862.1079154906513
       },
       {
         "annee": "Départ en 2055",
         "scenario": "Les Républicains",
         "source": "Rente du compte",
-        "valeur": 47.68419530244396
+        "valeur": 45.45735950652789
       },
       {
         "annee": "Départ en 2070",
         "scenario": "Les Républicains",
         "source": "Répartition",
-        "valeur": 2370.6882820544038
+        "valeur": 2067.5065996111466
       },
       {
         "annee": "Départ en 2070",
         "scenario": "Les Républicains",
         "source": "Rente du compte",
-        "valeur": 96.26210623104468
+        "valeur": 90.09051744190913
       },
       {
         "annee": "Départ en 2040",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Répartition",
-        "valeur": 1737.9290630119108
+        "valeur": 1657.8772931401993
       },
       {
         "annee": "Départ en 2040",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Rente du compte",
-        "valeur": 25.958864552643956
+        "valeur": 25.10815681025096
       },
       {
         "annee": "Départ en 2055",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Répartition",
-        "valeur": 1925.3587951029256
+        "valeur": 1761.9432991348529
       },
       {
         "annee": "Départ en 2055",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Rente du compte",
-        "valeur": 156.9617088453328
+        "valeur": 147.59812473606527
       },
       {
         "annee": "Départ en 2070",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Répartition",
-        "valeur": 2054.315290677037
+        "valeur": 1814.135692796055
       },
       {
         "annee": "Départ en 2070",
         "scenario": "Nouvelle Énergie (Lisnard)",
         "source": "Rente du compte",
-        "valeur": 467.72154092404935
+        "valeur": 428.16852330284127
       }
     ]
   },

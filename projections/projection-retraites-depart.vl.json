@@ -4,9 +4,9 @@
     "text": "La pension de départ de celui qui prend sa retraite cette année-là",
     "subtitle": [
       "Pour une carrière qui vaut 1 500 € de pension aujourd’hui, en euros d’aujourd’hui, les salaires",
-      "progressant de 1 % par an. Le frein de Nouvelle Convergence ralentit cette pension de départ,",
-      "d’un point par an au plus, et la relâche quand les comptes le permettent. Rente des comptes par",
-      "capitalisation comprise (Les Républicains, Nouvelle Énergie), rendement prudent."
+      "progressant de 0,7 % par an (COR 2026). Le frein de Nouvelle Convergence ralentit cette pension",
+      "de départ, d’un point par an au plus, et la relâche quand les comptes le permettent. Rente des",
+      "comptes par capitalisation comprise (Les Républicains, Nouvelle Énergie), rendement prudent."
     ],
     "anchor": "start",
     "fontSize": 16,
@@ -40,862 +40,862 @@
       {
         "annee": 2028,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1560.906015
+        "valeur": 1542.4430616014993
       },
       {
         "annee": 2029,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1576.5150751500003
+        "valeur": 1553.2401630327097
       },
       {
         "annee": 2030,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1592.2802259015002
+        "valeur": 1564.1128441739384
       },
       {
         "annee": 2031,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1608.203028160515
+        "valeur": 1575.061634083156
       },
       {
         "annee": 2032,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1624.2850584421203
+        "valeur": 1586.0870655217377
       },
       {
         "annee": 2033,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1640.5279090265412
+        "valeur": 1597.1896749803896
       },
       {
         "annee": 2034,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1656.9331881168068
+        "valeur": 1608.3700027052525
       },
       {
         "annee": 2035,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1673.5025199979748
+        "valeur": 1619.628592724189
       },
       {
         "annee": 2036,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1690.2375451979547
+        "valeur": 1630.9659928732583
       },
       {
         "annee": 2037,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1707.1399206499343
+        "valeur": 1642.382754823371
       },
       {
         "annee": 2038,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1724.2113198564339
+        "valeur": 1653.8794341071343
       },
       {
         "annee": 2039,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1741.453433054998
+        "valeur": 1665.456590145884
       },
       {
         "annee": 2040,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1758.8679673855481
+        "valeur": 1677.114786276905
       },
       {
         "annee": 2041,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1776.4566470594034
+        "valeur": 1688.8545897808433
       },
       {
         "annee": 2042,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1794.2212135299976
+        "valeur": 1700.6765719093087
       },
       {
         "annee": 2043,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1812.1634256652974
+        "valeur": 1712.581307912674
       },
       {
         "annee": 2044,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1830.2850599219505
+        "valeur": 1724.5693770680623
       },
       {
         "annee": 2045,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1848.5879105211702
+        "valeur": 1736.6413627075387
       },
       {
         "annee": 2046,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1867.0737896263818
+        "valeur": 1748.7978522464912
       },
       {
         "annee": 2047,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1885.7445275226455
+        "valeur": 1761.0394372122164
       },
       {
         "annee": 2048,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1904.6019727978721
+        "valeur": 1773.3667132727016
       },
       {
         "annee": 2049,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1923.6479925258507
+        "valeur": 1785.7802802656104
       },
       {
         "annee": 2050,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1942.8844724511096
+        "valeur": 1798.2807422274695
       },
       {
         "annee": 2051,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1962.3133171756206
+        "valeur": 1810.8687074230618
       },
       {
         "annee": 2052,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 1981.9364503473766
+        "valeur": 1823.544788375023
       },
       {
         "annee": 2053,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2001.7558148508506
+        "valeur": 1836.3096018936478
       },
       {
         "annee": 2054,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2021.773372999359
+        "valeur": 1849.1637691069031
       },
       {
         "annee": 2055,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2041.9911067293526
+        "valeur": 1862.1079154906513
       },
       {
         "annee": 2056,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2062.411017796646
+        "valeur": 1875.1426708990857
       },
       {
         "annee": 2057,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2083.0351279746124
+        "valeur": 1888.2686695953792
       },
       {
         "annee": 2058,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2103.865479254359
+        "valeur": 1901.4865502825467
       },
       {
         "annee": 2059,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2124.904134046902
+        "valeur": 1914.7969561345242
       },
       {
         "annee": 2060,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2146.1531753873714
+        "valeur": 1928.2005348274658
       },
       {
         "annee": 2061,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2167.614707141245
+        "valeur": 1941.697938571258
       },
       {
         "annee": 2062,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2189.2908542126575
+        "valeur": 1955.2898241412565
       },
       {
         "annee": 2063,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2211.1837627547843
+        "valeur": 1968.976852910245
       },
       {
         "annee": 2064,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2233.295600382332
+        "valeur": 1982.7596908806165
       },
       {
         "annee": 2065,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2255.6285563861557
+        "valeur": 1996.6390087167806
       },
       {
         "annee": 2066,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2278.184841950017
+        "valeur": 2010.6154817777979
       },
       {
         "annee": 2067,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2300.966690369517
+        "valeur": 2024.6897901502423
       },
       {
         "annee": 2068,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2323.9763572732127
+        "valeur": 2038.8626186812937
       },
       {
         "annee": 2069,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2347.2161208459443
+        "valeur": 2053.1346570120627
       },
       {
         "annee": 2070,
         "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-        "valeur": 2370.6882820544038
+        "valeur": 2067.5065996111466
       },
       {
         "annee": 2028,
         "programme": "Nouvelle Convergence",
-        "valeur": 1545.29695485
+        "valeur": 1542.4430616014993
       },
       {
         "annee": 2029,
         "programme": "Nouvelle Convergence",
-        "valeur": 1545.1424251545152
+        "valeur": 1553.2401630327097
       },
       {
         "annee": 2030,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.9879109119995
+        "valeur": 1564.1128441739384
       },
       {
         "annee": 2031,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.8334121209082
+        "valeur": 1573.1692865468115
       },
       {
         "annee": 2032,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.6789287796962
+        "valeur": 1580.5630123874953
       },
       {
         "annee": 2033,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.524460886818
+        "valeur": 1586.5552055251287
       },
       {
         "annee": 2034,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.3700084407296
+        "valeur": 1591.3834601705933
       },
       {
         "annee": 2035,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.2155714398853
+        "valeur": 1595.8180952135056
       },
       {
         "annee": 2036,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.0611498827413
+        "valeur": 1599.9632004846362
       },
       {
         "annee": 2037,
         "programme": "Nouvelle Convergence",
-        "valeur": 1543.9067437677531
+        "valeur": 1603.9092555524317
       },
       {
         "annee": 2038,
         "programme": "Nouvelle Convergence",
-        "valeur": 1544.379812453603
+        "valeur": 1607.7346001449187
       },
       {
         "annee": 2039,
         "programme": "Nouvelle Convergence",
-        "valeur": 1547.5375712758425
+        "valeur": 1611.5068323732455
       },
       {
         "annee": 2040,
         "programme": "Nouvelle Convergence",
-        "valeur": 1553.550794432586
+        "valeur": 1615.2841024563136
       },
       {
         "annee": 2041,
         "programme": "Nouvelle Convergence",
-        "valeur": 1560.7729507921856
+        "valeur": 1619.1162864630744
       },
       {
         "annee": 2042,
         "programme": "Nouvelle Convergence",
-        "valeur": 1569.3307062758258
+        "valeur": 1623.0460358530488
       },
       {
         "annee": 2043,
         "programme": "Nouvelle Convergence",
-        "valeur": 1579.337437645679
+        "valeur": 1627.1097057909517
       },
       {
         "annee": 2044,
         "programme": "Nouvelle Convergence",
-        "valeur": 1590.7399262425806
+        "valeur": 1631.1787528018124
       },
       {
         "annee": 2045,
         "programme": "Nouvelle Convergence",
-        "valeur": 1603.6234656406004
+        "valeur": 1635.3018419334983
       },
       {
         "annee": 2046,
         "programme": "Nouvelle Convergence",
-        "valeur": 1618.0598059342012
+        "valeur": 1638.8552864687563
       },
       {
         "annee": 2047,
         "programme": "Nouvelle Convergence",
-        "valeur": 1634.1065878484678
+        "valeur": 1641.9761970153481
       },
       {
         "annee": 2048,
         "programme": "Nouvelle Convergence",
-        "valeur": 1650.4476537269527
+        "valeur": 1644.7862461286268
       },
       {
         "annee": 2049,
         "programme": "Nouvelle Convergence",
-        "valeur": 1666.952130264222
+        "valeur": 1647.392883927626
       },
       {
         "annee": 2050,
         "programme": "Nouvelle Convergence",
-        "valeur": 1683.6216515668646
+        "valeur": 1649.8906313867997
       },
       {
         "annee": 2051,
         "programme": "Nouvelle Convergence",
-        "valeur": 1700.4578680825332
+        "valeur": 1652.3623734789353
       },
       {
         "annee": 2052,
         "programme": "Nouvelle Convergence",
-        "valeur": 1717.4624467633585
+        "valeur": 1654.8806011119555
       },
       {
         "annee": 2053,
         "programme": "Nouvelle Convergence",
-        "valeur": 1734.6370712309922
+        "valeur": 1657.5085707300186
       },
       {
         "annee": 2054,
         "programme": "Nouvelle Convergence",
-        "valeur": 1751.983441943302
+        "valeur": 1660.301364811216
       },
       {
         "annee": 2055,
         "programme": "Nouvelle Convergence",
-        "valeur": 1770.5520681800094
+        "valeur": 1663.3068465063502
       },
       {
         "annee": 2056,
         "programme": "Nouvelle Convergence",
-        "valeur": 1790.3136001649227
+        "valeur": 1666.566508385817
       },
       {
         "annee": 2057,
         "programme": "Nouvelle Convergence",
-        "valeur": 1811.0057153086145
+        "valeur": 1670.0995800552766
       },
       {
         "annee": 2058,
         "programme": "Nouvelle Convergence",
-        "valeur": 1832.3464167130478
+        "valeur": 1673.9071974189048
       },
       {
         "annee": 2059,
         "programme": "Nouvelle Convergence",
-        "valeur": 1854.036608362072
+        "valeur": 1677.9769667429193
       },
       {
         "annee": 2060,
         "programme": "Nouvelle Convergence",
-        "valeur": 1875.7634997844716
+        "valeur": 1682.2867353723036
       },
       {
         "annee": 2061,
         "programme": "Nouvelle Convergence",
-        "valeur": 1897.2048544603424
+        "valeur": 1686.8125281758382
       },
       {
         "annee": 2062,
         "programme": "Nouvelle Convergence",
-        "valeur": 1918.0340436321267
+        "valeur": 1691.5297133382046
       },
       {
         "annee": 2063,
         "programme": "Nouvelle Convergence",
-        "valeur": 1937.925809636155
+        "valeur": 1696.4139159896758
       },
       {
         "annee": 2064,
         "programme": "Nouvelle Convergence",
-        "valeur": 1957.3050677325164
+        "valeur": 1701.4417241591325
       },
       {
         "annee": 2065,
         "programme": "Nouvelle Convergence",
-        "valeur": 1976.8781184098418
+        "valeur": 1706.5912237108435
       },
       {
         "annee": 2066,
         "programme": "Nouvelle Convergence",
-        "valeur": 1996.6468995939401
+        "valeur": 1711.8423924414788
       },
       {
         "annee": 2067,
         "programme": "Nouvelle Convergence",
-        "valeur": 2016.6133685898794
+        "valeur": 1717.17737821927
       },
       {
         "annee": 2068,
         "programme": "Nouvelle Convergence",
-        "valeur": 2036.7795022757787
+        "valeur": 1722.580681761701
       },
       {
         "annee": 2069,
         "programme": "Nouvelle Convergence",
-        "valeur": 2057.1472972985357
+        "valeur": 1728.0392611918037
       },
       {
         "annee": 2070,
         "programme": "Nouvelle Convergence",
-        "valeur": 2077.7187702715214
+        "valeur": 1733.541207669154
       },
       {
         "annee": 2028,
         "programme": "Les Républicains",
-        "valeur": 1560.906015
+        "valeur": 1542.4430616014993
       },
       {
         "annee": 2029,
         "programme": "Les Républicains",
-        "valeur": 1577.648622760588
+        "valeur": 1554.3603026376213
       },
       {
         "annee": 2030,
         "programme": "Les Républicains",
-        "valeur": 1594.5858617414358
+        "valeur": 1566.3878477115138
       },
       {
         "annee": 2031,
         "programme": "Les Républicains",
-        "valeur": 1611.7203311781698
+        "valeur": 1578.527114151854
       },
       {
         "annee": 2032,
         "programme": "Les Républicains",
-        "valeur": 1629.054671968935
+        "valeur": 1590.779544693429
       },
       {
         "annee": 2033,
         "programme": "Les Républicains",
-        "valeur": 1646.5915674671032
+        "valeur": 1603.1466080266155
       },
       {
         "annee": 2034,
         "programme": "Les Républicains",
-        "valeur": 1664.333744290937
+        "valeur": 1615.6297993596227
       },
       {
         "annee": 2035,
         "programme": "Les Républicains",
-        "valeur": 1682.2839731505885
+        "valeur": 1628.2306409938042
       },
       {
         "annee": 2036,
         "programme": "Les Républicains",
-        "valeur": 1700.4450696928388
+        "valeur": 1640.950682912353
       },
       {
         "annee": 2037,
         "programme": "Les Républicains",
-        "valeur": 1718.8198953639694
+        "valeur": 1653.7915033826898
       },
       {
         "annee": 2038,
         "programme": "Les Républicains",
-        "valeur": 1737.4113582911923
+        "valeur": 1666.7547095728776
       },
       {
         "annee": 2039,
         "programme": "Les Républicains",
-        "valeur": 1756.222414183053
+        "valeur": 1679.8419381823933
       },
       {
         "annee": 2040,
         "programme": "Les Républicains",
-        "valeur": 1775.2560672492473
+        "valeur": 1693.0548560875955
       },
       {
         "annee": 2041,
         "programme": "Les Républicains",
-        "valeur": 1794.515371140288
+        "valeur": 1706.3951610022443
       },
       {
         "annee": 2042,
         "programme": "Les Républicains",
-        "valeur": 1814.0034299074846
+        "valeur": 1719.8645821534242
       },
       {
         "annee": 2043,
         "programme": "Les Républicains",
-        "valeur": 1833.723398983692
+        "valeur": 1733.464880973243
       },
       {
         "annee": 2044,
         "programme": "Les Républicains",
-        "valeur": 1853.678486185313
+        "valeur": 1747.197851806674
       },
       {
         "annee": 2045,
         "programme": "Les Républicains",
-        "valeur": 1873.8719527360329
+        "valeur": 1761.0653226359382
       },
       {
         "annee": 2046,
         "programme": "Les Républicains",
-        "valeur": 1894.3071143127925
+        "valeur": 1775.0691558218055
       },
       {
         "annee": 2047,
         "programme": "Les Républicains",
-        "valeur": 1914.9873421145053
+        "valeur": 1789.2112488622322
       },
       {
         "annee": 2048,
         "programme": "Les Républicains",
-        "valeur": 1935.9160639540416
+        "valeur": 1803.493535168734
       },
       {
         "annee": 2049,
         "programme": "Les Républicains",
-        "valeur": 1957.0967653740145
+        "valeur": 1817.9179848609285
       },
       {
         "annee": 2050,
         "programme": "Les Républicains",
-        "valeur": 1978.5329907869177
+        "valeur": 1832.4866055796729
       },
       {
         "annee": 2051,
         "programme": "Les Républicains",
-        "valeur": 2000.2283446401696
+        "valeur": 1847.2014433192417
       },
       {
         "annee": 2052,
         "programme": "Les Républicains",
-        "valeur": 2022.186492606643
+        "valeur": 1862.0645832789996
       },
       {
         "annee": 2053,
         "programme": "Les Républicains",
-        "valeur": 2044.4111628012633
+        "valeur": 1877.0781507350323
       },
       {
         "annee": 2054,
         "programme": "Les Républicains",
-        "valeur": 2066.906147024275
+        "valeur": 1892.244311932211
       },
       {
         "annee": 2055,
         "programme": "Les Républicains",
-        "valeur": 2089.6753020317965
+        "valeur": 1907.5652749971791
       },
       {
         "annee": 2056,
         "programme": "Les Républicains",
-        "valeur": 2112.722550834288
+        "valeur": 1923.0432908727566
       },
       {
         "annee": 2057,
         "programme": "Les Républicains",
-        "valeur": 2136.0518840235763
+        "valeur": 1938.6806542742775
       },
       {
         "annee": 2058,
         "programme": "Les Républicains",
-        "valeur": 2159.667361129101
+        "valeur": 1954.4797046683789
       },
       {
         "annee": 2059,
         "programme": "Les Républicains",
-        "valeur": 2183.5731120040473
+        "valeur": 1970.4428272747791
       },
       {
         "annee": 2060,
         "programme": "Les Républicains",
-        "valeur": 2207.773338242071
+        "valeur": 1986.5724540915937
       },
       {
         "annee": 2061,
         "programme": "Les Républicains",
-        "valeur": 2232.2723146253065
+        "valeur": 2002.8710649447473
       },
       {
         "annee": 2062,
         "programme": "Les Républicains",
-        "valeur": 2257.074390604394
+        "valeur": 2019.3411885620612
       },
       {
         "annee": 2063,
         "programme": "Les Républicains",
-        "valeur": 2282.1839918112605
+        "valeur": 2035.9854036726013
       },
       {
         "annee": 2064,
         "programme": "Les Républicains",
-        "valeur": 2307.605621605415
+        "valeur": 2052.8063401318896
       },
       {
         "annee": 2065,
         "programme": "Les Républicains",
-        "valeur": 2333.3438626545367
+        "valeur": 2069.8066800735987
       },
       {
         "annee": 2066,
         "programme": "Les Républicains",
-        "valeur": 2359.4033785501424
+        "valeur": 2086.989159088359
       },
       {
         "annee": 2067,
         "programme": "Les Républicains",
-        "valeur": 2385.7889154591617
+        "valeur": 2104.356567430324
       },
       {
         "annee": 2068,
         "programme": "Les Républicains",
-        "valeur": 2412.5053038122364
+        "valeur": 2121.9117512521634
       },
       {
         "annee": 2069,
         "programme": "Les Républicains",
-        "valeur": 2439.5574600296045
+        "valeur": 2139.6576138691516
       },
       {
         "annee": 2070,
         "programme": "Les Républicains",
-        "valeur": 2466.9503882854483
+        "valeur": 2157.5971170530556
       },
       {
         "annee": 2028,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1560.906015
+        "valeur": 1542.4430616014993
       },
       {
         "annee": 2029,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1576.5616058214046
+        "valeur": 1553.290700273915
       },
       {
         "annee": 2030,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1592.4243176250793
+        "valeur": 1564.2702777729405
       },
       {
         "annee": 2031,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1608.5000641845386
+        "valeur": 1575.3890340084695
       },
       {
         "annee": 2032,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1624.795203874656
+        "valeur": 1586.6540228160886
       },
       {
         "annee": 2033,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1641.3162620126066
+        "valeur": 1598.0726618186495
       },
       {
         "annee": 2034,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1658.0699949374637
+        "valeur": 1609.652631104202
       },
       {
         "annee": 2035,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1675.0633973735016
+        "valeur": 1621.4018806507981
       },
       {
         "annee": 2036,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1692.303710005696
+        "valeur": 1633.3286379418907
       },
       {
         "annee": 2037,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1709.7984272731258
+        "valeur": 1645.4414157770257
       },
       {
         "annee": 2038,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1727.5553053861508
+        "valeur": 1657.7490202826336
       },
       {
         "annee": 2039,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1745.5823705733724
+        "valeur": 1670.2605591278575
       },
       {
         "annee": 2040,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1763.8879275645547
+        "valeur": 1682.9854499504502
       },
       {
         "annee": 2041,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1782.5258067137759
+        "valeur": 1695.9334289979297
       },
       {
         "annee": 2042,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1801.4747375436793
+        "valeur": 1709.1145599892661
       },
       {
         "annee": 2043,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1820.745924794704
+        "valeur": 1722.5392432025444
       },
       {
         "annee": 2044,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1840.3509668368433
+        "valeur": 1736.2182247941346
       },
       {
         "annee": 2045,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1860.3018675606418
+        "valeur": 1750.1626063550832
       },
       {
         "annee": 2046,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1880.6110485928866
+        "valeur": 1764.498793626421
       },
       {
         "annee": 2047,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1901.2913618453467
+        "valeur": 1779.15010737675
       },
       {
         "annee": 2048,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1922.3561024051255
+        "valeur": 1794.1310773894106
       },
       {
         "annee": 2049,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1943.8190217754122
+        "valeur": 1809.4566609455137
       },
       {
         "annee": 2050,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1965.6943414756388
+        "valeur": 1825.1422541156148
       },
       {
         "annee": 2051,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 1988.0717896256358
+        "valeur": 1841.203703329446
       },
       {
         "annee": 2052,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2010.9059559092955
+        "valeur": 1857.6573172304857
       },
       {
         "annee": 2053,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2034.2137318861226
+        "valeur": 1874.5198788223142
       },
       {
         "annee": 2054,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2058.012570830469
+        "valeur": 1891.8086579138753
       },
       {
         "annee": 2055,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2082.320503948258
+        "valeur": 1909.5414238709182
       },
       {
         "annee": 2056,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2107.15615702343
+        "valeur": 1927.7364586810902
       },
       {
         "annee": 2057,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2132.5387675049724
+        "valeur": 1946.412570340312
       },
       {
         "annee": 2058,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2158.4882020456666
+        "valeur": 1965.5891065682604
       },
       {
         "annee": 2059,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2185.024974503945
+        "valeur": 1985.2859688609688
       },
       {
         "annee": 2060,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2212.1702644205543
+        "valeur": 2005.5236268887468
       },
       {
         "annee": 2061,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2239.9459359819834
+        "valeur": 2026.323133247817
       },
       {
         "annee": 2062,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2268.3745574829327
+        "valeur": 2047.7061385742718
       },
       {
         "annee": 2063,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2297.4794213003897
+        "valeur": 2069.6949070291585
       },
       {
         "annee": 2064,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2327.2845643921796
+        "valeur": 2092.312332163707
       },
       {
         "annee": 2065,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2357.8147893331998
+        "valeur": 2115.581953173941
       },
       {
         "annee": 2066,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2389.09568590284
+        "valeur": 2139.527971554126
       },
       {
         "annee": 2067,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2421.153653237455
+        "valeur": 2164.175268158741
       },
       {
         "annee": 2068,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2454.0159225620605
+        "valeur": 2189.549420682891
       },
       {
         "annee": 2069,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2487.637135177665
+        "valeur": 2215.5869328613107
       },
       {
         "annee": 2070,
         "programme": "Nouvelle Énergie (Lisnard)",
-        "valeur": 2522.0368316010863
+        "valeur": 2242.304216098896
       }
     ]
   },
@@ -978,26 +978,26 @@
           {
             "annee": 2070,
             "programme": "Identiques : Système actuel, Rassemblement national, Les Patriotes, Nouveau Front populaire",
-            "valeur": 2370.6882820544038,
-            "etiquette": "2 371 €"
+            "valeur": 2067.5065996111466,
+            "etiquette": "2 068 €"
           },
           {
             "annee": 2070,
             "programme": "Nouvelle Convergence",
-            "valeur": 2077.7187702715214,
-            "etiquette": "2 078 €"
+            "valeur": 1733.541207669154,
+            "etiquette": "1 734 €"
           },
           {
             "annee": 2070,
             "programme": "Les Républicains",
-            "valeur": 2466.9503882854483,
-            "etiquette": "2 467 €"
+            "valeur": 2157.5971170530556,
+            "etiquette": "2 158 €"
           },
           {
             "annee": 2070,
             "programme": "Nouvelle Énergie (Lisnard)",
-            "valeur": 2522.0368316010863,
-            "etiquette": "2 522 €"
+            "valeur": 2242.304216098896,
+            "etiquette": "2 242 €"
           }
         ]
       },

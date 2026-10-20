@@ -1,37 +1,37 @@
 annee;scenario;source;valeur
-Départ en 2040;Sans réforme;Répartition;1758.86797
+Départ en 2040;Sans réforme;Répartition;1677.11479
 Départ en 2040;Sans réforme;Rente du compte;0.00000
-Départ en 2055;Sans réforme;Répartition;2041.99111
+Départ en 2055;Sans réforme;Répartition;1862.10792
 Départ en 2055;Sans réforme;Rente du compte;0.00000
-Départ en 2070;Sans réforme;Répartition;2370.68828
+Départ en 2070;Sans réforme;Répartition;2067.50660
 Départ en 2070;Sans réforme;Rente du compte;0.00000
-Départ en 2040;Nouvelle Convergence;Répartition;1553.55079
+Départ en 2040;Nouvelle Convergence;Répartition;1615.28410
 Départ en 2040;Nouvelle Convergence;Rente du compte;0.00000
-Départ en 2055;Nouvelle Convergence;Répartition;1770.55207
+Départ en 2055;Nouvelle Convergence;Répartition;1663.30685
 Départ en 2055;Nouvelle Convergence;Rente du compte;0.00000
-Départ en 2070;Nouvelle Convergence;Répartition;2077.71877
+Départ en 2070;Nouvelle Convergence;Répartition;1733.54121
 Départ en 2070;Nouvelle Convergence;Rente du compte;0.00000
-Départ en 2040;NC, le point placé;Répartition;1543.44362
-Départ en 2040;NC, le point placé;Rente du compte;16.38810
-Départ en 2055;NC, le point placé;Répartition;1637.57893
-Départ en 2055;NC, le point placé;Rente du compte;47.68420
-Départ en 2070;NC, le point placé;Répartition;2028.69840
-Départ en 2070;NC, le point placé;Rente du compte;96.26211
-Départ en 2040;NC + 2,5 points à la suédoise;Répartition;1515.17542
-Départ en 2040;NC + 2,5 points à la suédoise;Rente du compte;40.97025
-Départ en 2055;NC + 2,5 points à la suédoise;Répartition;1506.85874
-Départ en 2055;NC + 2,5 points à la suédoise;Rente du compte;119.21049
-Départ en 2070;NC + 2,5 points à la suédoise;Répartition;1885.56772
-Départ en 2070;NC + 2,5 points à la suédoise;Rente du compte;240.65527
-Départ en 2040;Les Républicains;Répartition;1758.86797
-Départ en 2040;Les Républicains;Rente du compte;16.38810
-Départ en 2055;Les Républicains;Répartition;2041.99111
-Départ en 2055;Les Républicains;Rente du compte;47.68420
-Départ en 2070;Les Républicains;Répartition;2370.68828
-Départ en 2070;Les Républicains;Rente du compte;96.26211
-Départ en 2040;Nouvelle Énergie (Lisnard);Répartition;1737.92906
-Départ en 2040;Nouvelle Énergie (Lisnard);Rente du compte;25.95886
-Départ en 2055;Nouvelle Énergie (Lisnard);Répartition;1925.35880
-Départ en 2055;Nouvelle Énergie (Lisnard);Rente du compte;156.96171
-Départ en 2070;Nouvelle Énergie (Lisnard);Répartition;2054.31529
-Départ en 2070;Nouvelle Énergie (Lisnard);Rente du compte;467.72154
+Départ en 2040;NC, le point placé;Répartition;1558.23086
+Départ en 2040;NC, le point placé;Rente du compte;15.94007
+Départ en 2055;NC, le point placé;Répartition;1631.86797
+Départ en 2055;NC, le point placé;Rente du compte;45.45736
+Départ en 2070;NC, le point placé;Répartition;1700.55435
+Départ en 2070;NC, le point placé;Rente du compte;90.09052
+Départ en 2040;NC + 2,5 points à la suédoise;Répartition;1445.73225
+Départ en 2040;NC + 2,5 points à la suédoise;Rente du compte;39.85017
+Départ en 2055;NC + 2,5 points à la suédoise;Répartition;1509.91550
+Départ en 2055;NC + 2,5 points à la suédoise;Rente du compte;113.64340
+Départ en 2070;NC + 2,5 points à la suédoise;Répartition;1617.86915
+Départ en 2070;NC + 2,5 points à la suédoise;Rente du compte;225.22629
+Départ en 2040;Les Républicains;Répartition;1677.11479
+Départ en 2040;Les Républicains;Rente du compte;15.94007
+Départ en 2055;Les Républicains;Répartition;1862.10792
+Départ en 2055;Les Républicains;Rente du compte;45.45736
+Départ en 2070;Les Républicains;Répartition;2067.50660
+Départ en 2070;Les Républicains;Rente du compte;90.09052
+Départ en 2040;Nouvelle Énergie (Lisnard);Répartition;1657.87729
+Départ en 2040;Nouvelle Énergie (Lisnard);Rente du compte;25.10816
+Départ en 2055;Nouvelle Énergie (Lisnard);Répartition;1761.94330
+Départ en 2055;Nouvelle Énergie (Lisnard);Rente du compte;147.59812
+Départ en 2070;Nouvelle Énergie (Lisnard);Répartition;1814.13569
+Départ en 2070;Nouvelle Énergie (Lisnard);Rente du compte;428.16852
